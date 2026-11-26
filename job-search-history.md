@@ -411,3 +411,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #184 Perseus Group HELD
 - WordPress Web Developer (long-term contract, 15-20 hrs/month, EST hours, North America) verified live on Perseus Group's own Workday board (req R49399). Maintenance/security/performance core fits well, but two core requirements are unconfirmed: multilingual WordPress (WPML/Polylang) and SEO. Held for Javed's one-time answers (multilingual added to that list). Nothing submitted, no CV built.
+
+## 2026-11-26 — #183 KJ Corp HELD
+- WordPress Dev ($25-30/hr, remote) verified live on ZipRecruiter 26 Nov 2026. Only route is ZipRecruiter Quick Apply behind an account sign-in wall; no employer website exists. Posting is templated and self-contradictory (Contractor vs Full-Time, Camden vs Philadelphia). Held for the same decision as #29: Javed signs in once or applies himself. Nothing submitted, no CV built.
