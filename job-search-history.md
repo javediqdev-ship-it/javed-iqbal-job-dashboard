@@ -384,3 +384,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #165 MindPal (Pavago) HELD
 - WordPress Developer via MindPal (jobs/126008), full-time remote, US client hours, pay not listed, posted 16 Nov 2026. Verified live on MindPal 26 Nov 2026; MindPal attributes the listing to Pavago with the end client unnamed — the same recruiter and effectively the same role family as #137. MindPal's apply flow stops at a sign-in wall (candidate account required before any form). Held with #137 pending Javed's decision on Pavago, whose published candidate regions exclude the US. No account created, no CV built.
+
+## 2026-11-26 — #170 Virtual Vocations (part-time) HELD
+- WordPress Developer (part-time), remote US, pay not listed, verified live on Jooble 26 Nov 2026 (posted 23 Nov there). Same wall as #155: employer hidden behind Virtual Vocations Premium, Jooble's route loops on Lensa's human check, and the role names Divi 5 and HubSpot, neither on Javed's record. Held with #155 pending Javed's Virtual Vocations decision. Nothing submitted, no CV built.
