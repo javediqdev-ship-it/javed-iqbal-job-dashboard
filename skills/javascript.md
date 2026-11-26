@@ -13,4 +13,5 @@
 ## Source
 
 - Master CV (skills section: Development).
-- JavaScript frameworks: React is confirmed by Javed (26 Nov 2026) — see react.md. No other JavaScript framework or library is named, so none is claimed here.
+- JavaScript frameworks: React is confirmed by Javed (26 Nov 2026) — see react.md. No other JavaScript framework is claimed.
+- jQuery and WordPress AJAX recorded 26 Nov 2026 under the standing WordPress skill rule in job-search-rules.md: jQuery is bundled with WordPress core and is the standard library for WordPress theme and plugin JavaScript, and AJAX is the standard WordPress technique for dynamic features. Both may be claimed on WordPress applications without asking again.
