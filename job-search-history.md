@@ -363,3 +363,6 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 
 ## 2026-11-26 — #140 Edconic HELD (travel requirement)
 - Front End Developer (WordPress, JS), $85,000–$100,000/year, full-time. The LinkedIn original is closed, but the role is live on Edconic's own ADP board (Req. 1202). Both versions require occasional travel to the New York office ("Occasional travel to our New York office may be required"), which conflicts with Javed's remote-only, no-onsite rule, so nothing was submitted; whether occasional travel is acceptable is Javed's call (same open question as #18). Job stays in New Jobs. Record: job-descriptions/140-edconic.md.
+
+## 2026-11-26 — #143 Crowd Favorite checked: CLOSED
+- Front-End Developer, WordPress & Modern CSS Specialist, $75,000–$85,000/year, fully remote. Verified live 26 Nov 2026: the Startup.jobs listing states the job is no longer available, JobLeads' copies are offline, and Crowd Favorite's own careers page has no opening for the role (only a general application form, which was not used). Recorded Rejected on the dashboard with the reason; record in job-descriptions/143-crowd-favorite.md. Dashboard redeploy still pending the fresh Vercel token.
