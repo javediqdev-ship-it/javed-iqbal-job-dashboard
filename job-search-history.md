@@ -414,3 +414,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #183 KJ Corp HELD
 - WordPress Dev ($25-30/hr, remote) verified live on ZipRecruiter 26 Nov 2026. Only route is ZipRecruiter Quick Apply behind an account sign-in wall; no employer website exists. Posting is templated and self-contradictory (Contractor vs Full-Time, Camden vs Philadelphia). Held for the same decision as #29: Javed signs in once or applies himself. Nothing submitted, no CV built.
+
+## 2026-11-26 — #15 Crednology Holding Corp. REJECTED (closed)
+- WordPress Developer (part-time): the employer's domain has expired (parking page), LinkedIn posting removed, Jaabz copy inactive. Closed at every route; moved to Rejected with the reason. No CV built, no email sent.
