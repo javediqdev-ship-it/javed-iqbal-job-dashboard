@@ -438,3 +438,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #50 SEON REJECTED (closed)
 - Full Stack Developer (Dice, $90,000-$110,000) verified gone on 26 Nov 2026: no listing on Dice and no such role on SEON's own Ashby board. Added to Rejected with the reason. Nothing submitted.
+
+## 2026-11-26 — #52 Stride Inc. REJECTED (closed)
+- Senior WordPress Developer (Dice, $63,000-$110,000) verified gone on 26 Nov 2026: absent from Dice search and Stride's Dice company page, and from Stride's own Workday site. Added to Rejected with the reason. Nothing submitted.
