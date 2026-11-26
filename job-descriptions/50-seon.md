@@ -5,4 +5,4 @@
 
 ## Status — 26 Nov 2026: REJECTED (closed)
 
-Added to Rejected with the reason. Nothing submitted, no CV built.
+Recorded as closed. (The dashboard has no job object for this Dice entry, and the name SEON is shared with a different live Senior WordPress Developer role, so no dashboard Rejected tag was set.) Nothing submitted, no CV built.
