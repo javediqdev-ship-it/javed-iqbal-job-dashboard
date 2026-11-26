@@ -426,3 +426,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #154 eTeam Inc. SELF-APPLY
 - Remote WordPress Developer (3-month contract, $40-45/hr) verified live on LikeRemote and eTeam's own board. Both routes stop at sign-in walls, and eTeam's route leads into an AI voice interview needing a microphone — Javed's step to do himself. Tagged Self-apply with the reason; stays in New Jobs. Nothing submitted, no CV built.
+
+## 2026-11-26 — #158 Lago REJECTED (location eligibility)
+- The Working Nomads listing is gone; Lago's live Workable postings cover only Latin America, the Philippines and Eastern Europe — the USA is not eligible, and Javed is Texas-based. The form also requires a self-recorded Loom intro video and agreement to a non-circumvention agreement. Added to Rejected with the reason. Nothing submitted, no CV built.
