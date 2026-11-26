@@ -11,3 +11,7 @@ Design and develop websites for financial-advisor clients on Snappy Kraken's pro
 ## Form (mapped live 26 Nov 2026)
 
 Rippling ATS single-page form; no sign-in, no CAPTCHA, no fee. Required: CV upload (.doc/.docx/.pdf), first name, last name, email, phone, location, "Are you currently residing in and legally able to work in Canada or the United States?" (Yes/No), Desired Pay (free text), "Do you have experience in Software as a Service (SaaS)?" (Strong No / No / Yes / Strong Yes), "Do you have experience in the finance industry or fintech?" (same scale). Optional: pronouns, LinkedIn link, website link, "What interested you in this position?", referral name, voluntary US EEO information, and text-message consent.
+
+## Status update — 26 Nov 2026: FILLED IN FULL, BLOCKED AT SUBMIT — SELF-APPLY
+
+The Rippling form was filled completely with `Javed_Iqbal_CV_145.pdf` and the prepared answers, but clicking Apply brought up Cloudflare's "Verify you are human" check, which failed from the cloud browser (one permitted tick, then it reverted). The application was NOT submitted and no confirmation exists. Per the standing decision for Turnstile-blocked applications, #145 is tagged Self-apply: Javed submits it himself. CV status stays "Awaiting Approval".
