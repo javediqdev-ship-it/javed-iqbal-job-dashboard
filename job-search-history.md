@@ -429,3 +429,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #158 Lago REJECTED (location eligibility)
 - The Working Nomads listing is gone; Lago's live Workable postings cover only Latin America, the Philippines and Eastern Europe — the USA is not eligible, and Javed is Texas-based. The form also requires a self-recorded Loom intro video and agreement to a non-circumvention agreement. Added to Rejected with the reason. Nothing submitted, no CV built.
+
+## 2026-11-26 — #5 Indeed (unnamed) REJECTED (listing not live)
+- An extensive live Indeed search found no listing matching the recorded terms (WordPress Developer, Remote USA, full-time, $90,000-$110,000/yr, posted 11 Nov 2026) — the listing is closed/expired or its terms changed. The two closest live listings are different jobs (Wildfire #176; Buildertrend Senior Web Developer, not on the dashboard). No matching dashboard object exists for this entry, so the outcome is recorded here and in job-descriptions/5-indeed-unnamed.md. Nothing submitted.
