@@ -402,3 +402,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #166 REJECTED as duplicate of #29
 - The unnamed-employer RecruiterContacts listing is the same role as #29 (ICBI Georgetown): same title, terms, pay, date and work. One job is never applied to twice; it stays tracked as #29. Moved to Rejected with the duplicate reason.
+
+## 2026-11-26 — #180 Sumeru Solutions REJECTED
+- WordPress Developer via phpjobs: apply link 404, role absent from Sumeru's own SmartRecruiters board. Cannot be applied to; moved to Rejected with the reason. No CV built.
