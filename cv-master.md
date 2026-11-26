@@ -33,7 +33,7 @@ July 2015 – August 2021 • Remote
 
 ## Skills
 
-- WordPress & CMS: WordPress, WooCommerce, Elementor, Gutenberg, Advanced Custom Fields (ACF), Custom WordPress Development, Astra, other CMS platforms
+- WordPress & CMS: WordPress, WooCommerce, Elementor, Gutenberg, Advanced Custom Fields (ACF), Custom WordPress Development, Custom Post Types, WordPress REST API, Astra, other CMS platforms
 - Development: PHP, JavaScript, React, HTML/CSS, SASS, MySQL, MariaDB, Git, Custom Development, Custom Dashboards
 - Performance & Care: Site Speed Optimization, Core Web Vitals, Website Security, Backups, Maintenance and Updates, Hosting Environments, Pantheon, FTP
 - Tools & Standards: GA4, Google Tag Manager, Cookie-Consent Tools (OneTrust, Cookiebot, CookieYes, Termly), Figma, Adobe XD, WCAG Accessibility

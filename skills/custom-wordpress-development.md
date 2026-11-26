@@ -14,3 +14,8 @@
 ## Source
 
 - Master CV (summary, experience and skills sections).
+
+## Also on record (26 Nov 2026, standing WordPress skill rule)
+
+- Custom post types, built as part of custom WordPress development.
+- Custom features and integrations built through the WordPress REST API.

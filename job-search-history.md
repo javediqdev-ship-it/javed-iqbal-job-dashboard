@@ -331,3 +331,4 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 - Live dashboard: https://javed-iqbal-job-dashboard.vercel.app/
 - GitHub repos (canonical, Javed's own account): https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard and https://github.com/javediqdev-ship-it/javed-iqbal-portfolio — the raimarshal34-gif copies stay as backup only
 - Javed's people file: `~/memory/people/javed-iqbal.md`
+- 2026-11-26 — #2 GAMURS Group (Full Stack Developer (WordPress), 9/10): verified live on JobSeek and the employer's Breezy page; tailored CV built, QA passed after REST API and custom post types were put on record; SUBMITTED via the Breezy form at 20:21 PKT (confirmation: Application Submitted). CV file: Javed_Iqbal_CV_2.pdf. Desired salary $41,600/year entered. #1 Aquent closed the same evening (FlexJobs expired, not on Aquent's board) and moved to Rejected with reason.
