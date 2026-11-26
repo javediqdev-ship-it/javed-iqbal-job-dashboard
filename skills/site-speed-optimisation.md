@@ -7,8 +7,8 @@
 
 ## Where it was used
 
-- Rezolvemed — WordPress Developer / Development Manager, 2015–2021.
-- Rising Revenue Solutions — WordPress Development Manager, 2021–November 2026. The CV records that he ensured standards for site speed across delivered websites there.
+- Rezolvemed — WordPress Developer / Development Manager, July 2015 – August 2021.
+- Rising Revenue Solutions — WordPress Development Manager, August 2021 – November 2026. The CV records that he ensured standards for site speed across delivered websites there.
 
 ## Source
 

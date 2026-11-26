@@ -10,8 +10,8 @@
 
 ## Where it was used
 
-- Rezolvemed — WordPress Developer / Development Manager, 2015–2021.
-- Rising Revenue Solutions — WordPress Development Manager, 2021–November 2026.
+- Rezolvemed — WordPress Developer / Development Manager, July 2015 – August 2021.
+- Rising Revenue Solutions — WordPress Development Manager, August 2021 – November 2026.
 - Portfolio of 100 best websites: https://javed-iqbal-portfolio.vercel.app/
 
 ## Source

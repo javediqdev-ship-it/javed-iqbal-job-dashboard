@@ -16,7 +16,7 @@ Senior WordPress Developer and Development Manager with 11 years of WordPress ex
 
 ### WordPress Development Manager — Rising Revenue Solutions
 
-2021 – November 2026 • Remote
+August 2021 – November 2026 • Remote
 
 - Led and directed WordPress website development, giving direction for the websites built under him.
 - Oversaw custom WordPress development, including custom features and dashboards.
@@ -25,7 +25,7 @@ Senior WordPress Developer and Development Manager with 11 years of WordPress ex
 
 ### WordPress Developer / Development Manager — Rezolvemed
 
-2015 – 2021 • Remote
+July 2015 – August 2021 • Remote
 
 - Carried out WordPress website work, including building, customising and maintaining WordPress websites.
 - Provided Development Manager direction for website work delivered in this period.
@@ -38,9 +38,17 @@ Senior WordPress Developer and Development Manager with 11 years of WordPress ex
 - Performance & Care: Site Speed Optimisation, Website Security, Backups, Maintenance and Updates
 - Leadership: Development Management, Team Direction, Project Delivery
 
+## Education
+
+BS Software Engineering, University of Okara, 2011 – 2015
+
+## Languages
+
+English, Urdu, Punjabi
+
 ## Portfolio
 
-Portfolio of 100 best websites led and directed as Development Manager, selected across all categories. Full portfolio link to be added.
+Portfolio of 100 best websites led and directed as Development Manager, selected across all categories. Full portfolio: https://javed-iqbal-portfolio.vercel.app/
 
 ## Availability
 

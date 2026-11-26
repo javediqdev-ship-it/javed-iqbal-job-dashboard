@@ -2,6 +2,14 @@
 
 This is the plan for building 10 tailored CVs, one per job, from the master CV. Javed reviews this plan first. No CV is built until he approves it.
 
+## Goal
+
+Top quality is the goal: every CV must be strong enough for that job that the employer calls for an interview as soon as they read it. Not a normal CV — tailored to that job's requirements, using Javed's real skills.
+
+## If a skill is uncertain
+
+If a job asks for a skill and it is not certain Javed has it, confirm with Javed first. Never add it without his confirmation.
+
 ## The jobs
 
 The latest 10 jobs on the dashboard, #193 to #202 in `seen-jobs.md`. Each CV is made for one job only, using that job's own title, company and requirements.
@@ -10,8 +18,8 @@ The latest 10 jobs on the dashboard, #193 to #202 in `seen-jobs.md`. Each CV is 
 
 1. The master CV is NEVER used for a job directly. A new tailored CV is made for every job.
 2. Check that job's requirements one by one. Tailor the CV to those requirements, to get the highest match.
-3. Use only real facts. Never invent a skill, a year, a company, a date, a project or a reference. If the job asks for something Javed does not have, leave it out — do not add it.
-4. Use only the skills in the `skills/` folder. Each skill file says what Javed can actually do and where he used it.
+3. Use only real facts. Never invent a skill, a year, a company, a date, a project or a reference. The skills list is not final — add skills per each job's requirements from Javed's full WordPress mastery; he knows the full WordPress work and has done it all.
+4. Use the `skills/` folder as the base. Each skill file says what Javed can actually do and where he used it. If a job asks for a skill and it is not certain he has it, confirm with Javed first — never add it without his confirmation.
 5. Keep the real companies and dates: Rising Revenue Solutions, WordPress Development Manager, August 2021 – November 2026; Rezolvemed, WordPress Developer / Development Manager, July 2015 – August 2021.
 6. For junior roles, do NOT over-mention seniority. No "Senior", no "Development Manager", no 11-year lead. Lead with the hands-on skills the job asks for. Never invent a lower experience number or false dates — tailoring is emphasis and selection, not invented facts.
 7. Every tailored CV is lengthier, about 2 pages, following the two sample CVs: a longer detailed summary, a Core Competencies section, and more bullets per role.
