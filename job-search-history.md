@@ -387,3 +387,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #170 Virtual Vocations (part-time) HELD
 - WordPress Developer (part-time), remote US, pay not listed, verified live on Jooble 26 Nov 2026 (posted 23 Nov there). Same wall as #155: employer hidden behind Virtual Vocations Premium, Jooble's route loops on Lensa's human check, and the role names Divi 5 and HubSpot, neither on Javed's record. Held with #155 pending Javed's Virtual Vocations decision. Nothing submitted, no CV built.
+
+## 2026-11-26 — #168 Moxie360 Marketing REJECTED
+- WordPress Web Developer via phpjobs, verified live 26 Nov 2026: the role is not on the employer's own careers page (moxie360marketing.com lists only Paid Ads Specialist), the phpjobs apply route dead-ends at an empty dialog on a mirror site, and the listing's copies contradict each other (Full Time badge vs part-time 1099 text). Cannot be applied to; moved to Rejected with the reason. No CV built.
