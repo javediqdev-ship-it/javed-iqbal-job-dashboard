@@ -441,3 +441,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #52 Stride Inc. REJECTED (closed)
 - Senior WordPress Developer (Dice, $63,000-$110,000) verified gone on 26 Nov 2026: absent from Dice search and Stride's Dice company page, and from Stride's own Workday site. Added to Rejected with the reason. Nothing submitted.
+
+## 2026-11-26 — Correction: dashboard Rejected entries for #49/#50/#52 removed
+- The dashboard has no job objects for the Dice/ZipRecruiter entries #49, #50 and #52 (they exist in seen-jobs.md only), and the employer names are shared with different live roles (SEON's Senior WordPress Developer via SkipTheDrive; WVU's Temporary WordPress role). The DEFAULT_REJECTED entries added for them tonight were removed so they can never attach to the wrong job. Their closed outcomes stand in their job-descriptions records and in seen-jobs.md.
