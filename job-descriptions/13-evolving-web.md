@@ -19,3 +19,6 @@ Javed answered all three points the same evening: French — he does not speak F
 ## Submission state (26 Nov 2026, evening)
 
 The Workable form was filled completely (CV Javed_Iqbal_CV_13.pdf attached, summary, cover letter, all seven screening answers as approved) and Submit was clicked, but a Cloudflare "Verify you are human" checkbox then appeared and would not verify despite two automated ticks; the button is stuck on "Submitting…". The application is NOT yet submitted. The filled form remains open in the browser for the user to tick the checkbox personally and, if the button reactivates, click Submit application once more. Note: the salary field is numeric-only, so it holds 41,600 with no currency label (the field itself asks in CAD); Javed confirmed no issue on price.
+
+## Update — 26 Nov 2026: moved to Self-apply
+The user decided the same evening: both Cloudflare-blocked applications (this one and #135 Beyondlabs) will be applied to by Javed himself, separately, later. The job is tagged Self-apply on the dashboard and stays in New Jobs. Everything needed is saved: the seven screening answers and cover letter in cv/tailored/javed-iqbal-cv-evolving-web/application-texts.md and the CV Javed_Iqbal_CV_13.pdf. The filled form in the cloud browser was never submitted.

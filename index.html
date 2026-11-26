@@ -2004,7 +2004,9 @@
   var DEFAULT_SELF_APPLY = [
     { key: "Tara Media", reason: "The original posting is on LinkedIn \u2014 Javed will apply on LinkedIn himself." },
     { key: "Meyers Creative", reason: "The phpjobs apply route is broken (404), but the same role is listed on LinkedIn \u2014 Javed will try it himself there." },
-    { key: "Solomon Page", reason: "Found only on an aggregator mirror \u2014 Javed will look for the original posting and apply himself." }
+    { key: "Solomon Page", reason: "Found only on an aggregator mirror \u2014 Javed will look for the original posting and apply himself." },
+    { key: "Evolving Web", reason: "Application filled in full but the Cloudflare human check will not pass in the cloud browser \u2014 Javed will apply himself; the ready answers and CV are saved (Javed_Iqbal_CV_13.pdf)." },
+    { key: "Beyondlabs", reason: "Application filled in full but the Cloudflare human check will not pass in the cloud browser \u2014 Javed will apply himself; the ready answers and CV are saved (Javed_Iqbal_CV_135.pdf)." }
   ];
   DATA.jobs.forEach(function(j){
     if (!j.selfApply && j.url && j.url.indexOf("linkedin.com") !== -1) {

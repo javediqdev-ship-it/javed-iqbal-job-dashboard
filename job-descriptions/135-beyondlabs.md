@@ -14,3 +14,6 @@ No sign-in, no account, no fee. All fields required: First Name, Last Name, Emai
 
 ## Status — 26 Nov 2026: FILLED, NOT SUBMITTED (human verification failed)
 The Dover form was filled completely on 26 Nov 2026 (all fields, both written answers from cv/tailored/javed-iqbal-cv-beyondlabs/application-texts.md, and Javed_Iqbal_CV_135.pdf uploaded and shown attached). The single permitted tick of the Cloudflare Turnstile checkbox ended in "Verification failed", the same failure as the Evolving Web Workable form; per the standing rule the attempt stopped there without retries. The filled form remains open in the browser window for a human tick plus the Apply click. Nothing was submitted and no confirmation was received. Dashboard CV status stays "Awaiting Approval" until it is actually submitted.
+
+## Update — 26 Nov 2026: moved to Self-apply
+The user decided the same evening: both Cloudflare-blocked applications (this one and #13 Evolving Web) will be applied to by Javed himself, separately, later. The job is tagged Self-apply on the dashboard and stays in New Jobs. Everything needed is saved: the two form answers in cv/tailored/javed-iqbal-cv-beyondlabs/application-texts.md and the CV Javed_Iqbal_CV_135.pdf. The filled form in the cloud browser was never submitted.

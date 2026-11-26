@@ -375,3 +375,6 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 
 ## 2026-11-26 — #155 Virtual Vocations (unnamed employer) HELD
 - Remote WordPress Developer, full-time remote US, pay not listed, verified live on Jooble and on Virtual Vocations itself. The end employer is hidden behind Virtual Vocations' paid Premium membership (company fields blurred), Jooble's apply route loops on a Lensa Cloudflare check, and Virtual Vocations requires account registration before any application. No account created, nothing submitted, no CV built. Held pending Javed's decision: register on Virtual Vocations himself (employer still unknown without paying) or skip.
+
+## 2026-11-26 — #13 Evolving Web and #135 Beyondlabs moved to Self-apply
+Both applications were filled in full in the cloud browser but the Cloudflare human check would not pass there, including during the user's own takeover attempts. The user decided both will be applied to by Javed himself, separately, later. Both are tagged Self-apply on the dashboard (staying in New Jobs, not Rejected); the ready answers and CVs are saved in their cv/tailored folders.
