@@ -486,3 +486,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #68 RainFocus REJECTED (not a WordPress role)
 - Verified live 26 Nov 2026 as "Jr. UI Developer (Remote)" on Lever: front-end UI work on RainFocus's own event platform, zero WordPress/CMS content. Rejected as outside the WordPress-only scope, with the reason; it is live and submittable if Javed widens the scope. Nothing submitted.
+
+## 2026-11-26 — #69 Peraton REJECTED (not a WordPress role)
+- Jooble listing dead; Peraton's two live Senior Web Developer roles are federal React/Angular front-end roles requiring VPAT/Trusted Tester experience, with no WordPress content. Added to Rejected with the reason. Nothing submitted.
