@@ -284,6 +284,7 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 - **Vercel connector account choice** — keep the built-in Vercel connector on Javed's account (`javediqdev-7573`) or switch it back to Marshal's account (asked in the main chat 25 Nov 2026; no answer recorded).
 - **GitHub auto-deploy proposal** — link the repo to the Vercel project once so pushes deploy automatically and no token is ever needed again (proposed in the main chat 26 Nov 2026; no decision recorded).
 - **GitHub repos moved to Javed's own account** — 26 Nov 2026: both repos recreated under `javediqdev-ship-it` and everything pushed there (dashboard + portfolio + the 10 tailored CVs under `cv/tailored/`); the old repos under `raimarshal34-gif` stay as backup. The token for the new account was pasted in chat and used transiently only, never stored.
+- **CVs rebuilt in Shahida format** — 26 Nov 2026: the master CV and all 10 tailored CVs rebuilt in the Shahida format (blue, left-aligned, US Letter, 2 pages each) at Javed's direction after he judged the purple format not good enough; "$20+ per hour" restored on the master CV; all 11 added to the dashboard CVs page (12 entries with SpecterOps) and to each job's detail page; dashboard redeploy pending the Vercel token.
 
 ## Appendix — key files and links
 
