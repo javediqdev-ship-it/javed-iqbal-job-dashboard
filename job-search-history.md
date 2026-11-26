@@ -480,3 +480,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #28 dNovo Group REJECTED (closed)
 - WordPress Developer verified gone on 26 Nov 2026 (Jooble, Djinni inactive, DOU removed, no careers page on the employer's site). The surviving Djinni version also restricted candidates to Europe/Ukraine. Recorded as closed (no dashboard object exists for this entry). Nothing submitted.
+
+## 2026-11-26 — #67 Arbor Education REJECTED (closed)
+- WordPress Developer verified gone on 26 Nov 2026 (Jooble and Arbor's own Workable board). Added to Rejected with the reason. Nothing submitted.
