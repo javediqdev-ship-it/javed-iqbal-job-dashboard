@@ -19,3 +19,4 @@
 
 - Custom post types, built as part of custom WordPress development.
 - Custom features and integrations built through the WordPress REST API.
+- Block patterns and custom taxonomies, as part of block-editor and custom post type work.

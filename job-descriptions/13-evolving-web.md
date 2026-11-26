@@ -12,10 +12,10 @@ Agency WordPress development in a team: custom WordPress plugins and themes to b
 
 Workable in-page form. Required: first name, last name, email, phone, address (city/region/country), resume upload, and seven screening questions: Gutenberg/block editor experience (free text); custom Gutenberg blocks with React and Block APIs (free text); theme.json and block/hybrid themes (free text); "Do you speak French?" (Yes/No); salary expectations per year in CAD; LinkedIn profile link; and, for candidates outside Montreal, how many hours per day of overlap with 9 AM–6 PM Eastern.
 
-## HELD — not submitted (26 Nov 2026)
+## Answers received (26 Nov 2026) — cleared to apply
 
-Three answers need Javed's own word before this can be submitted truthfully:
-1. French: the posting makes strong French and English communication a core requirement and the form asks "Do you speak French?" Yes/No. Javed's CV lists English, Urdu and Punjabi only. A truthful No can be entered, but whether to apply at all to a French-core role is his decision.
-2. Hours overlap: the form requires a stated daily overlap with Montreal hours (9 AM–6 PM Eastern). No work-hours commitment of that kind is on file.
-3. Salary: the field asks for an expectation in CAD; his recorded expectation is USD 41,600/year, and how he wants it stated there is his call.
-The job stays in New Jobs on the dashboard (not rejected, not applied) until he answers.
+Javed answered all three points the same evening: French — he does not speak French, and he has no issue applying with the truthful No. Time — no issue; he can overlap the full Montreal/Eastern working day. Price — no issue; state his standard USD 41,600 per year, labelled as USD in the CAD field. The answers are also saved in cv-master.md under Confirmed answers.
+
+## Submission state (26 Nov 2026, evening)
+
+The Workable form was filled completely (CV Javed_Iqbal_CV_13.pdf attached, summary, cover letter, all seven screening answers as approved) and Submit was clicked, but a Cloudflare "Verify you are human" checkbox then appeared and would not verify despite two automated ticks; the button is stuck on "Submitting…". The application is NOT yet submitted. The filled form remains open in the browser for the user to tick the checkbox personally and, if the button reactivates, click Submit application once more. Note: the salary field is numeric-only, so it holds 41,600 with no currency label (the field itself asks in CAD); Javed confirmed no issue on price.

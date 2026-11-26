@@ -33,7 +33,7 @@ July 2015 – August 2021 • Remote
 
 ## Skills
 
-- WordPress & CMS: WordPress, WooCommerce, Elementor, Gutenberg, Advanced Custom Fields (ACF), Custom WordPress Development, Custom Post Types, WordPress REST API, Astra, other CMS platforms
+- WordPress & CMS: WordPress, WooCommerce, Elementor, Gutenberg, Advanced Custom Fields (ACF), Custom WordPress Development, Custom Post Types, Block Patterns, Custom Taxonomies, WordPress REST API, Astra, other CMS platforms
 - Development: PHP, JavaScript, React, HTML/CSS, SASS, MySQL, MariaDB, Git, Custom Development, Custom Dashboards
 - Performance & Care: Site Speed Optimization, Core Web Vitals, Website Security, Backups, Maintenance and Updates, Hosting Environments, Pantheon, FTP
 - Tools & Standards: GA4, Google Tag Manager, Cookie-Consent Tools (OneTrust, Cookiebot, CookieYes, Termly), Figma, Adobe XD, WCAG Accessibility
@@ -63,3 +63,8 @@ Ghulam Qadir — HR Manager, Rising Revenue Solutions
 Email: qadir@risingrs.com
 
 Second reference will be provided as needed.
+## Confirmed answers (26 Nov 2026, via Mubashir)
+
+- French: Javed does NOT speak French. His languages are English, Urdu and Punjabi only. On forms, answer No to French questions; he has no issue applying to a role that asks, with the truthful No.
+- Working hours: no issue with time. He can overlap a full Eastern Time working day (9 AM to 6 PM Eastern) from Texas.
+- Salary expectations on forms: no issue with stating his standard figure (USD 41,600 per year); where a form asks in another currency, state the USD figure clearly labelled as USD.
