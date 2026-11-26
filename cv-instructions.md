@@ -12,7 +12,7 @@ If a job asks for a skill and it is not certain Javed has it, confirm with Javed
 
 ## The jobs
 
-The latest 10 jobs on the dashboard, #193 to #202 in `seen-jobs.md`. Each CV is made for one job only, using that job's own title, company and requirements.
+The latest 10 jobs on the dashboard, #192 and #194 to #202 in `seen-jobs.md` (#193 Evolving Web is skipped — strong French required, Javed speaks English only). Each CV is made for one job only, using that job's own title, company and requirements.
 
 ## Rules that never change
 
@@ -30,14 +30,14 @@ The latest 10 jobs on the dashboard, #193 to #202 in `seen-jobs.md`. Each CV is 
 
 ## Order of work
 
-1. Build the 10 tailored CVs one by one, in job order #193 to #202.
+1. Build the 10 tailored CVs one by one, in job order #192, then #194 to #202.
 2. Add each CV link to the dashboard CVs page.
 3. Javed approves each CV.
 4. He applies for the jobs he chooses, starting with the highest match scores.
 
 ## Jobs that need a check before applying
 
-- #193 Evolving Web WordPress Architect — French required (strong French + English). This is a hard barrier; flag it to Javed before building this CV.
+- #193 Evolving Web WordPress Architect — SKIPPED, no CV: strong French required, Javed speaks English only (confirmed 26 Nov 2026).
 - #195 Newsweek Backend Software Engineer — no employer posted date shown; pay shown anywhere is an aggregator estimate, not employer pay.
 - #196 Michigan State University WordPress Developer — the board date may be a re-aggregation date; verify on the employer's own site before applying.
 - #200 SurMarketing Webmaster — the page does not label the role Remote outright; confirm remote status before applying.
