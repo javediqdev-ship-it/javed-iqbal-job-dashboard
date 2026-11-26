@@ -11,4 +11,4 @@ Fit notes: HTML/CSS/SASS, JavaScript, React, REST API integration, Git and GA4 a
 
 ## Status — 26 Nov 2026: HELD (ZIP code needed)
 
-The form's required ZIP Code field cannot be filled truthfully: only "Bedford, TX" is on file, and the full address is deliberately kept out of this repo. The tailored CV is being built and QA-checked so the application can go in as soon as Javed confirms his ZIP code. Nothing submitted yet.
+The form's required ZIP Code field cannot be filled truthfully: only "Bedford, TX" is on file, and the full address is deliberately kept out of this repo. The tailored CV (`Javed_Iqbal_CV_115.pdf`, title "Web Developer", md5 8c0db296af14a6310578e1afc219d275) is built and QA-PASSED, so the application can go in as soon as Javed confirms his ZIP code. Nothing submitted yet.
