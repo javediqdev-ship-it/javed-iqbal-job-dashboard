@@ -471,3 +471,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #19 Corpay REJECTED (closed)
 - WordPress Developer verified gone on 26 Nov 2026: removed from the WordPress Jobs board and absent from both of Corpay's careers portals. Recorded as closed (no dashboard object exists for this entry). Nothing submitted.
+
+## 2026-11-26 — #24 Delta Air Lines REJECTED (closed)
+- Full Stack Engineer verified gone on 26 Nov 2026: absent from Jooble, Indeed and Delta's own careers site. Recorded as closed (no dashboard object exists for this entry). Nothing submitted.
