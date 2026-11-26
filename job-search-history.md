@@ -393,3 +393,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #181 Gemini: Advanced Marketing Solutions REJECTED (closed)
 - Senior WordPress Developer (contract, ~50 hrs/month) on Built In: the listing itself states the job was removed 13 Nov 2026, and the role is absent from Gemini's own careers page and Built In's company page. Closed at every route; moved to Rejected with the reason. No CV built.
+
+## 2026-11-26 — #188 Biondo Creative HELD
+- WordPress Web Designer (contract, employer's own page, dated 30 Aug 2025; the phpjobs Nov 2026 date is re-aggregation). Still listed on the employer's careers page. Apply route is email to talent@biondocreative.com. HELD: the posting requires "occasional in-person meetings or on-site work as needed", which conflicts with Javed's remote-only rule — same travel question as #140/#18, on the one-time list for Javed. Divi/Avada/Photoshop/SEO are also named but unconfirmed. Nothing submitted, no CV built.
