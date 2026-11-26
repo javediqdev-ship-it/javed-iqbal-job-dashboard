@@ -477,3 +477,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #26 Essayvet REJECTED (closed)
 - WordPress Developer verified gone on 26 Nov 2026 (Jooble and the employer's own careers page). The employer's UK roles also require UK right to work, which Javed does not have. Recorded as closed (no dashboard object exists for this entry). Its live US roles are non-WordPress React roles and were not added. Nothing submitted.
+
+## 2026-11-26 — #28 dNovo Group REJECTED (closed)
+- WordPress Developer verified gone on 26 Nov 2026 (Jooble, Djinni inactive, DOU removed, no careers page on the employer's site). The surviving Djinni version also restricted candidates to Europe/Ukraine. Recorded as closed (no dashboard object exists for this entry). Nothing submitted.
