@@ -14,7 +14,7 @@ Dashboard was empty on 20 Nov 2026 before this batch, so all jobs below are new.
 9. Senior WordPress Developer — New North — Remote, pay $3,500-4,500/month, score 7/10 — https://hiring.newnorth.com/job/senior-wordpress-developer/
 
 ## Added to dashboard — 20 Nov 2026, related categories (2 jobs)
-10. PHP Developer — BackEnd (Remote) — Prairie (for unnamed client) — Remote, Contract, $30-110/hr, posted 15 Nov 2026, score 8/10, category PHP Developer — https://prairie.totalh.net/remote-jobs/php-developer-backend-remote — note: Laravel/Symfony listed, not in Javed's stated skills
+10. PHP Developer — BackEnd (Remote) — Prairie (for unnamed client) — Remote, Contract, $30-110/hr, posted 15 Nov 2026, score 8/10, category PHP Developer — https://prairie.totalh.net/remote-jobs/php-developer-backend-remote — note: Laravel/Symfony listed, not in Javed's stated skills CLOSED 26 Nov 2026 (live check): the Prairie board domain is suspended at hosting level, and the identical role on Uplers states it has been fulfilled and is no longer available. Also a pure Laravel/Symfony role with no WordPress. Moved to REJECTED on the dashboard with the reason recorded. Full record: job-descriptions/10-prairie.md.
 11. WordPress Developer / Technical Writer — Prairie — Fully async remote, Part-time 20-30 hrs/week, pay Not listed, posted 13 Nov 2026, score 6/10, category Web Developer — https://prairie.totalh.net/remote-jobs/wordpress-developertechnical-writer — note: mainly writing/documentation, not building sites
 
 ## Added to dashboard — 20 Nov 2026, wider search (4 jobs)
