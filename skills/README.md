@@ -53,5 +53,5 @@ Whenever new information arrives — a new instruction from Javed, a new detail 
 ## Where this lives
 
 - Local folder: ~/workspace/javed-job-search/skills/
-- GitHub: raimarshal34-gif/javed-iqbal-job-dashboard, folder skills/ — every file here is also pushed there, always.
+- GitHub: javediqdev-ship-it/javed-iqbal-job-dashboard, folder skills/ — every file here is also pushed there, always.
 - CV source of truth: ~/workspace/javed-job-search/cv-master.md (markdown copy of the master CV).

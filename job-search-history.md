@@ -283,6 +283,7 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 - **Daily Gmail summary offer** — presented 20 Nov 2026 (new LinkedIn job alerts and any company replies or interview emails, once a day); still unanswered as a standalone offer, though Gmail alerts are checked inside each sweep.
 - **Vercel connector account choice** — keep the built-in Vercel connector on Javed's account (`javediqdev-7573`) or switch it back to Marshal's account (asked in the main chat 25 Nov 2026; no answer recorded).
 - **GitHub auto-deploy proposal** — link the repo to the Vercel project once so pushes deploy automatically and no token is ever needed again (proposed in the main chat 26 Nov 2026; no decision recorded).
+- **GitHub repos moved to Javed's own account** — 26 Nov 2026: both repos recreated under `javediqdev-ship-it` and everything pushed there (dashboard + portfolio + the 10 tailored CVs under `cv/tailored/`); the old repos under `raimarshal34-gif` stay as backup. The token for the new account was pasted in chat and used transiently only, never stored.
 
 ## Appendix — key files and links
 
@@ -298,5 +299,5 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 - GitHub push working dirs: `~/workspace/javed-job-search/github-push/dashboard/` and `~/workspace/javed-job-search/github-push/portfolio/`
 - Live portfolio: https://javed-iqbal-portfolio.vercel.app/
 - Live dashboard: https://javed-iqbal-job-dashboard.vercel.app/
-- GitHub repos: https://github.com/raimarshal34-gif/javed-iqbal-job-dashboard and https://github.com/raimarshal34-gif/javed-iqbal-portfolio
+- GitHub repos: https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard and https://github.com/javediqdev-ship-it/javed-iqbal-portfolio (moved to Javed's own account 26 Nov 2026; the old repos under raimarshal34-gif stay as backup)
 - Javed's people file: `~/memory/people/javed-iqbal.md`
