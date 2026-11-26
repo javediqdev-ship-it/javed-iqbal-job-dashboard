@@ -10,7 +10,7 @@ How applying for a job works, step by step. This file is the living record — u
 4. The CV link is added to the dashboard CVs page.
 5. Javed approves the CV.
 6. Javed applies himself, using the tailored CV. (Since 26 Nov 2026: I fill the application in the browser and Javed clicks the final submit button himself.)
-7. Upload the CV with a NEUTRAL filename (Javed_Iqbal_CV.pdf) — never a filename containing the company name, so the employer cannot tell from the filename that the CV was made for them. The internal files keep their descriptive names (javed-iqbal-cv-<company>.pdf); the uploaded copy is renamed to the neutral name first.
+7. Upload the CV with a NUMBERED neutral filename (Javed_Iqbal_CV_<job-number>.pdf, e.g. Javed_Iqbal_CV_44.pdf for job #44) — a different number for every job, never a filename containing the company name, so the employer cannot tell from the filename that the CV was made for them. The internal files keep their descriptive names (javed-iqbal-cv-<company>.pdf); the uploaded copy is renamed to the numbered neutral name first. (Javed's direction, 26 Nov 2026: every CV's upload name must be different.)
 8. Interview: Javed is available at any time. Remote only — onsite is not possible, even for one day.
 
 ## Before applying — checks
@@ -35,7 +35,7 @@ How applying for a job works, step by step. This file is the living record — u
 - Date Available: if the posting says the start date is Immediate, enter today's date.
 - LinkedIn: https://www.linkedin.com/in/javed-iqbal-351124450/
 - Portfolio: https://javed-iqbal-portfolio.vercel.app/ (do not share its password anywhere in an application; the password is only on the CV itself).
-- Upload the CV with a NEUTRAL filename (Javed_Iqbal_CV.pdf) — never a filename containing the company name.
+- Upload the CV with a NUMBERED neutral filename (Javed_Iqbal_CV_<job-number>.pdf) — a different number for every job, never a filename containing the company name.
 - Before uploading, verify the neutral copy is the RIGHT job's CV: copy it fresh from that job's own folder, check its file hash (md5) matches the original CV exactly, and check the title on page 1 matches the job title. Never reuse a neutral copy from another job's folder.
 
 ## After applying
