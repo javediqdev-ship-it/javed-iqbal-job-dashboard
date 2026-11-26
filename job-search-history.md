@@ -417,3 +417,9 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #15 Crednology Holding Corp. REJECTED (closed)
 - WordPress Developer (part-time): the employer's domain has expired (parking page), LinkedIn posting removed, Jaabz copy inactive. Closed at every route; moved to Rejected with the reason. No CV built, no email sent.
+
+## 2026-11-26 — #138 COLAB Marketing HELD
+- Development Lead (PHP + WordPress + Shopify) live on Jobgether, but its core requirements are unconfirmed for Javed: Shopify and Magento development (both marked Required, 6 years), Laravel/CodeIgniter, and 5+ years at a marketing company (neither employer on file is identified as one). Jobgether's Apply controls also never render in the cloud browser, and COLAB's own careers page does not list the role. Held for Javed's one-time answers. Nothing submitted, no CV built.
+
+## 2026-11-26 — #6 Lazy Dog Digital READY TO SEND (approval pending)
+- Web Developer / Partner (part-time contract): tailored CV QA-PASSED and the application email to liam@lazydogdigital.com is fully written with the CV attached, but the Gmail send approval card expired unanswered overnight, so the email has NOT been sent. It needs the user's approval tap to go out. Dashboard CV status stays "Awaiting Approval" until it is sent.
