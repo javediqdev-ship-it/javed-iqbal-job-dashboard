@@ -351,3 +351,6 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 
 ## 2026-11-26 — #106 Talent Groups checked: CLOSED
 - Web Developer (React/Next/PHP/WordPress), W2 contract-to-hire via the staffing agency. Verified live 26 Nov 2026: ZipRecruiter states the post expired about 23 Nov 2026 and applications are no longer accepted; Dice shows it as no longer available; the role is absent from Talent Groups' own jobs board. The Jooble/Lensa copies are stale scrapes. Recorded Rejected on the dashboard with the reason; record in job-descriptions/106-talent-groups.md. Note: dashboard redeploy is pending — the Vercel token on file returned invalid on 26 Nov 2026, so local commits are waiting for a fresh token.
+
+## 2026-11-26 — #135 Beyondlabs filled, blocked at human verification
+- WordPress Developer, entry-to-mid level, full-time remote worldwide. Verified live on Remotive and the employer's Dover board. Tailored CV built and QA-passed (Javed_Iqbal_CV_135.pdf); the Dover form was filled in full with both written answers and the CV uploaded, but the Cloudflare Turnstile tick ended in "Verification failed" (same as #13 Evolving Web), so nothing was submitted. The filled form is preserved in the browser window awaiting a human tick and the Apply click.

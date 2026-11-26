@@ -11,3 +11,6 @@ Build and customize WordPress websites with Elementor and custom coding; develop
 ## Form (Dover, verified live 26 Nov 2026)
 
 No sign-in, no account, no fee. All fields required: First Name, Last Name, Email, Resume (PDF only, max 5 MB), LinkedIn Profile URL, Phone Number, "Please show your best work." (free text), "Why we should hire you?" (free text), plus a Cloudflare Turnstile "Verify you are human" checkbox at submission and an Apply button. An optional "Autofill from resume" upload sits at the top.
+
+## Status — 26 Nov 2026: FILLED, NOT SUBMITTED (human verification failed)
+The Dover form was filled completely on 26 Nov 2026 (all fields, both written answers from cv/tailored/javed-iqbal-cv-beyondlabs/application-texts.md, and Javed_Iqbal_CV_135.pdf uploaded and shown attached). The single permitted tick of the Cloudflare Turnstile checkbox ended in "Verification failed", the same failure as the Evolving Web Workable form; per the standing rule the attempt stopped there without retries. The filled form remains open in the browser window for a human tick plus the Apply click. Nothing was submitted and no confirmation was received. Dashboard CV status stays "Awaiting Approval" until it is actually submitted.
