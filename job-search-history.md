@@ -405,3 +405,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #180 Sumeru Solutions REJECTED
 - WordPress Developer via phpjobs: apply link 404, role absent from Sumeru's own SmartRecruiters board. Cannot be applied to; moved to Rejected with the reason. No CV built.
+
+## 2026-11-26 — #182 Linchpin REJECTED (closed)
+- Front-End Web Developer (Remote): phpjobs says no longer available, Linchpin's own careers pages list no openings, Mediabistro copy unavailable. The role had closed months earlier; the November phpjobs date was re-aggregation. Moved to Rejected with the reason. No CV built.
