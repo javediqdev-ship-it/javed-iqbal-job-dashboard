@@ -432,3 +432,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #5 Indeed (unnamed) REJECTED (listing not live)
 - An extensive live Indeed search found no listing matching the recorded terms (WordPress Developer, Remote USA, full-time, $90,000-$110,000/yr, posted 11 Nov 2026) — the listing is closed/expired or its terms changed. The two closest live listings are different jobs (Wildfire #176; Buildertrend Senior Web Developer, not on the dashboard). No matching dashboard object exists for this entry, so the outcome is recorded here and in job-descriptions/5-indeed-unnamed.md. Nothing submitted.
+
+## 2026-11-26 — #49 West Virginia University REJECTED (closed)
+- Senior WordPress Developer ($35-40/hr) verified gone on 26 Nov 2026: not on ZipRecruiter and not on WVU's own Taleo portal. Added to Rejected with the reason. A different Temporary WVU role exists but was not added or applied to.
