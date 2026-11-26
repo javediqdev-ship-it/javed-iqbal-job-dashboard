@@ -453,3 +453,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #108 Prophecy Technologies SUBMITTED
 - Senior WordPress Developer (staffing for Hilton) verified live on Prophecy's own portal; tailored CV QA-PASSED (Multisite, .NET/MSSQL migration and unit/integration testing not claimed) and submitted via the guest form (Visa USC, TX, Bedford; Employment Type left blank and accepted). Confirmation: "Application submitted successfully!" No reference number.
+
+## 2026-11-26 — #176 Wildfire SUBMITTED
+- WordPress Developer application submitted on Wildfire's own form with CV #176 and the tailored cover letter; reCAPTCHA cleared with one tick; thank-you page confirmed ("Thank you for your application"). Submitted once. No reference number.

@@ -13,3 +13,7 @@ Fit notes: the confirmed core is strong (PHP, JavaScript, jQuery, Gutenberg, ACF
 ## Form (verified live 26 Nov 2026)
 
 Embedded on the job page under "Apply for this position"; no sign-in, no fee, no application email. Fields: Name*, Email*, Phone*, Portfolio URL or Profile (optional), Resume* (file upload, max 100 MB), Cover Letter* (file upload, max 100 MB), then a reCAPTCHA "I'm not a robot" checkbox and Submit. No screening questions.
+
+## Status — 26 Nov 2026: SUBMITTED
+
+Application submitted on the employer's own form with `Javed_Iqbal_CV_176.pdf` and `Javed_Iqbal_Cover_Letter_176.pdf`; the reCAPTCHA cleared with a single tick and the site redirected to its application thank-you page. Submitted once; no reference number given.
