@@ -390,3 +390,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #168 Moxie360 Marketing REJECTED
 - WordPress Web Developer via phpjobs, verified live 26 Nov 2026: the role is not on the employer's own careers page (moxie360marketing.com lists only Paid Ads Specialist), the phpjobs apply route dead-ends at an empty dialog on a mirror site, and the listing's copies contradict each other (Full Time badge vs part-time 1099 text). Cannot be applied to; moved to Rejected with the reason. No CV built.
+
+## 2026-11-26 — #181 Gemini: Advanced Marketing Solutions REJECTED (closed)
+- Senior WordPress Developer (contract, ~50 hrs/month) on Built In: the listing itself states the job was removed 13 Nov 2026, and the role is absent from Gemini's own careers page and Built In's company page. Closed at every route; moved to Rejected with the reason. No CV built.
