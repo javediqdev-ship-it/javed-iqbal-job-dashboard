@@ -468,3 +468,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #115 Presence HELD (ZIP code needed; CV ready)
 - Live as "Web Developer" (full-time, $88,000-$122,000/yr, remote) on Careerpilot. Tailored CV built and QA-PASSED. The form requires a ZIP code, which is not on file (Bedford, TX only) — held for Javed's one-time answer. Nothing submitted.
+
+## 2026-11-26 — #19 Corpay REJECTED (closed)
+- WordPress Developer verified gone on 26 Nov 2026: removed from the WordPress Jobs board and absent from both of Corpay's careers portals. Recorded as closed (no dashboard object exists for this entry). Nothing submitted.
