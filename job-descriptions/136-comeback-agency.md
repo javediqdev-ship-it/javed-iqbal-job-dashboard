@@ -11,3 +11,6 @@ Create and maintain WordPress websites, customize and extend themes and plugins,
 ## Form (PeopleForce, verified live 26 Nov 2026)
 
 Single short page, no sign-in, no account, no fee, no screening questions. Required: Full name, Email, Resume upload (.doc/.docx/.pdf/.rtf). Optional: Phone numbers, Cover letter (rich-text box). The site is protected by invisible reCAPTCHA (footer notice only; no checkbox or puzzle shown).
+
+## Status — 26 Nov 2026: APPLIED (submitted)
+Submitted through the PeopleForce form on 26 Nov 2026 with the tailored CV (Javed_Iqbal_CV_136.pdf) and the cover letter from cv/tailored/javed-iqbal-cv-comeback-agency/application-texts.md. Confirmation shown on the page: "Application received — Your application has been received and will be reviewed by our team shortly." No reference number.

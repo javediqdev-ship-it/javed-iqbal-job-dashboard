@@ -354,3 +354,6 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 
 ## 2026-11-26 — #135 Beyondlabs filled, blocked at human verification
 - WordPress Developer, entry-to-mid level, full-time remote worldwide. Verified live on Remotive and the employer's Dover board. Tailored CV built and QA-passed (Javed_Iqbal_CV_135.pdf); the Dover form was filled in full with both written answers and the CV uploaded, but the Cloudflare Turnstile tick ended in "Verification failed" (same as #13 Evolving Web), so nothing was submitted. The filled form is preserved in the browser window awaiting a human tick and the Apply click.
+
+## 2026-11-26 — #136 ComeBack Agency application SUBMITTED
+- WordPress Developer (for an unnamed US software company; hired directly by that company), full-time, remote USA-timezone hours, pay not listed. Verified live on Remotive and ComeBack Agency's PeopleForce page; submitted through the PeopleForce form with name, email, phone, the tailored CV (Javed_Iqbal_CV_136.pdf, md5-verified) and a short cover letter carrying the portfolio link and USD 41,600 expectation. No screening questions and no human-verification challenge appeared. Confirmation on the page: "Application received — Your application has been received and will be reviewed by our team shortly." No reference number.
