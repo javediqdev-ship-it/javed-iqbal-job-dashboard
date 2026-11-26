@@ -37,3 +37,7 @@ Twice-daily sweeps at 05:00 and 17:00 PKT. Each run: full sweep of all 50 source
 ## Standing skill rule (set by Javed, 26 Nov 2026)
 
 Javed knows all of WordPress. Any WordPress-related skill can be added to a CV without asking him. WordPress-related includes: hosting, themes, plugins, page builders, analytics, accessibility, design handoffs, performance, security, backups and maintenance. Only a skill clearly outside WordPress work (for example Python, Docker, or CI/CD pipelines) still needs one confirmation from Javed first: collect those into one short list, ask once, and save the answers here. Check this repo before asking Javed anything.
+
+## Self-apply jobs stay in New, never in Rejected (26 Nov 2026)
+
+Jobs Javed will apply to and try himself stay in New Jobs with the Self-apply badge; they are never put in Rejected. This covers every job whose link is a LinkedIn posting (he applies on LinkedIn himself) and any job that cannot be applied to from here but has a route he can try himself. Rejected is only for jobs that are closed and jobs Javed deliberately skips. On the dashboard these jobs carry selfApply: true (or a DEFAULT_SELF_APPLY entry) and are found with the "Self-apply only" filter.

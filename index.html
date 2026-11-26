@@ -1952,25 +1952,44 @@
     }
   });
   /* Built-in default rejections, recorded 26 Nov 2026 on Javed's instruction:
-     every closed job, and every job that cannot be applied to at all, sits in
-     Rejected with its reason. Merged UNDER the saved browser state the same
-     way as DEFAULT_APPLIED: Javed's own marks always win. */
+     closed jobs, and jobs Javed deliberately skips, sit in Rejected with
+     their reason. Jobs Javed will apply to and try himself are NOT rejected:
+     they stay in New Jobs with the Self-apply badge (see DEFAULT_SELF_APPLY
+     below). Merged UNDER the saved browser state the same way as
+     DEFAULT_APPLIED: Javed's own marks always win. */
   var DEFAULT_REJECTED = [
     { key: "American Oncology Network", date: "2026-11-09", note: "Closed. Built In removed this job on 9 Nov 2026 (removal notice verified live in the browser on 26 Nov 2026). No application was made." },
     { key: "Limble", date: "2026-11-26", note: "Closed. The Indeed listing is expired and Limble's own careers page lists no WordPress role (verified live 26 Nov 2026). No application was made." },
     { key: "SpecterOps", date: "2026-11-25", note: "Closed on 25 Nov 2026 before any application was made." },
     { key: "Michigan State University", date: "2026-11-26", note: "Skipped by Javed. Not a full-time job: on-call, project-based pay ($2,000 plus $4,000 per project), so it does not fit the full-time remote search. No application was made." },
-    { key: "Meyers Creative", date: "2026-11-26", note: "Cannot apply. The phpjobs Apply button opens a page that returns 404, the listing publishes no email address, and the employer site has only a general contact form, which Javed instructed not to use for applications. Held until a real apply route is found." },
-    { key: "Solomon Page", date: "2026-11-26", note: "Cannot apply. Found only on an aggregator mirror (Workcore); no listing on Solomon Page's own site and no original posting located, so there is no proper route to apply." },
     { key: "Aquent", date: "2026-11-26", note: "Closed. The FlexJobs listing is expired (the page states it expired 11/01/2026) and the same role is not listed on Aquent's own jobs board (both verified live 26 Nov 2026). No application was made." },
     { key: "Whitecollars", date: "2026-11-26", note: "Closed. The SmartRecruiters listing has expired (the page shows the job as expired with no working Apply button), and the role is not listed on Whitecollars' own jobs page or its SmartRecruiters careers page (verified 26 Nov 2026). No application was made." },
     { key: "Business Tech Ninjas", date: "2026-11-26", note: "Closed. The Indeed listing has expired (the page states the job has expired on Indeed, with no Apply button), and the role is not listed on the employer's own website or anywhere else live (verified 26 Nov 2026). No application was made." },
-    { key: "Tara Media", date: "2026-11-26", note: "Cannot apply from here. Found only on aggregator mirrors; the original is a LinkedIn posting, and LinkedIn applications are done by Javed himself. No direct apply route located." }
   ];
   DEFAULT_REJECTED.forEach(function(d){
     if (!STATE.applied[d.key] && !STATE.rejected[d.key] && !STATE.cleared[d.key]) {
       STATE.rejected[d.key] = { note: d.note, date: d.date };
     }
+  });
+  /* Self-apply defaults (26 Nov 2026, Javed's instruction): jobs Javed will
+     apply to and try himself stay in New Jobs with a Self-apply badge and
+     are never moved to Rejected. Every job whose link is a LinkedIn posting
+     is self-apply automatically; the named jobs below carry their own
+     reason. Use the "Self-apply only" filter to see them all. */
+  var DEFAULT_SELF_APPLY = [
+    { key: "Tara Media", reason: "The original posting is on LinkedIn \u2014 Javed will apply on LinkedIn himself." },
+    { key: "Meyers Creative", reason: "The phpjobs apply route is broken (404), but the same role is listed on LinkedIn \u2014 Javed will try it himself there." },
+    { key: "Solomon Page", reason: "Found only on an aggregator mirror \u2014 Javed will look for the original posting and apply himself." }
+  ];
+  DATA.jobs.forEach(function(j){
+    if (!j.selfApply && j.url && j.url.indexOf("linkedin.com") !== -1) {
+      j.selfApply = true;
+      j.selfApplyReason = "LinkedIn application \u2014 Javed will apply on LinkedIn himself.";
+    }
+  });
+  DEFAULT_SELF_APPLY.forEach(function(d){
+    var j = findJobByKey(d.key);
+    if (j && !j.selfApply) { j.selfApply = true; j.selfApplyReason = d.reason; }
   });
   function todayISO(){
     var d = new Date();
