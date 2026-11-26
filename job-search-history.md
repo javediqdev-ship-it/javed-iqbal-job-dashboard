@@ -423,3 +423,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #6 Lazy Dog Digital READY TO SEND (approval pending)
 - Web Developer / Partner (part-time contract): tailored CV QA-PASSED and the application email to liam@lazydogdigital.com is fully written with the CV attached, but the Gmail send approval card expired unanswered overnight, so the email has NOT been sent. It needs the user's approval tap to go out. Dashboard CV status stays "Awaiting Approval" until it is sent.
+
+## 2026-11-26 — #154 eTeam Inc. SELF-APPLY
+- Remote WordPress Developer (3-month contract, $40-45/hr) verified live on LikeRemote and eTeam's own board. Both routes stop at sign-in walls, and eTeam's route leads into an AI voice interview needing a microphone — Javed's step to do himself. Tagged Self-apply with the reason; stays in New Jobs. Nothing submitted, no CV built.
