@@ -2,7 +2,7 @@
 
 ## What Javed can do
 
-- HTML and CSS for building and customising WordPress websites.
+- HTML and CSS for building and customizing WordPress websites.
 - Listed as a core development skill on the master CV.
 
 ## Where it was used

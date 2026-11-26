@@ -1,8 +1,8 @@
-# Site Speed Optimisation
+# Site Speed Optimization
 
 ## What Javed can do
 
-- Site speed optimisation for WordPress websites he builds and maintains.
+- Site speed optimization for WordPress websites he builds and maintains.
 - Ensured standards for site speed across delivered websites.
 
 ## Where it was used

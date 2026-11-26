@@ -2,7 +2,7 @@
 
 ## What Javed can do
 
-- Builds and customises WooCommerce stores as part of his WordPress website work.
+- Builds and customizes WooCommerce stores as part of his WordPress website work.
 - Named as a core expertise on the master CV, alongside WordPress and custom development.
 
 ## Where it was used

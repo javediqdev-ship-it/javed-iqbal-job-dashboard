@@ -16,7 +16,7 @@ Every claim against the source of truth (`cv-master.md`, `seen-jobs.md`, the ski
 
 ### 2. US English
 
-American spelling only: specialize, optimize, customize, customization, inquiry, center, program, organization, behavior, favor, labeled. No British spellings anywhere (specialising, optimisation, customised, customisation, enquiries, centre, programme, organisation, behaviour, favour, labelled). Grammar and typos: read every line. A CV for US employers must read as US English.
+American spelling only: specialize, optimize, customize, customization, inquiry, center, program, organization, behavior, favor, labeled. No British spellings anywhere - never use the -ise, -isation, -our or -re forms. Grammar and typos: read every line. A CV for US employers must read as US English.
 
 ### 3. Writing quality
 

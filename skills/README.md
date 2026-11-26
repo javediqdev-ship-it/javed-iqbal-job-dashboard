@@ -38,7 +38,7 @@ Whenever new information arrives — a new instruction from Javed, a new detail 
 - Custom Development — `custom-development.md`
 - Custom Dashboards — `custom-dashboards.md`
 - Custom Development with AI — `ai-assisted-development.md`
-- Site Speed Optimisation — `site-speed-optimisation.md`
+- Site Speed Optimization — `site-speed-optimization.md`
 - Website Security — `website-security.md`
 - Backups — `backups.md`
 - Maintenance and Updates — `maintenance-and-updates.md`

@@ -27,7 +27,7 @@ August 2021 – November 2026 • Remote
 
 July 2015 – August 2021 • Remote
 
-- Carried out WordPress website work, including building, customising and maintaining WordPress websites.
+- Carried out WordPress website work, including building, customizing and maintaining WordPress websites.
 - Provided Development Manager direction for website work delivered in this period.
 - Handled custom development, backups and day-to-day website support and updates.
 
@@ -35,7 +35,7 @@ July 2015 – August 2021 • Remote
 
 - WordPress & CMS: WordPress, WooCommerce, Elementor, Custom WordPress Development, other CMS platforms
 - Development: PHP, JavaScript, HTML/CSS, MySQL, Custom Development, Custom Dashboards
-- Performance & Care: Site Speed Optimisation, Website Security, Backups, Maintenance and Updates
+- Performance & Care: Site Speed Optimization, Website Security, Backups, Maintenance and Updates
 - Leadership: Development Management, Team Direction, Project Delivery
 
 ## Education

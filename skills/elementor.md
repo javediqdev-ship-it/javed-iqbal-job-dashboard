@@ -2,7 +2,7 @@
 
 ## What Javed can do
 
-- Builds and customises WordPress websites with Elementor.
+- Builds and customizes WordPress websites with Elementor.
 - Listed as a core WordPress skill on the master CV.
 
 ## Where it was used

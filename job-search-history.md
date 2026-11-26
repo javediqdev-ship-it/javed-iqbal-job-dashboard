@@ -283,8 +283,16 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 - **Daily Gmail summary offer** — presented 20 Nov 2026 (new LinkedIn job alerts and any company replies or interview emails, once a day); still unanswered as a standalone offer, though Gmail alerts are checked inside each sweep.
 - **Vercel connector account choice** — keep the built-in Vercel connector on Javed's account (`javediqdev-7573`) or switch it back to Marshal's account (asked in the main chat 25 Nov 2026; no answer recorded).
 - **GitHub auto-deploy proposal** — link the repo to the Vercel project once so pushes deploy automatically and no token is ever needed again (proposed in the main chat 26 Nov 2026; no decision recorded).
-- **GitHub repos moved to Javed's own account** — 26 Nov 2026: both repos recreated under `javediqdev-ship-it` and everything pushed there (dashboard + portfolio + the 10 tailored CVs under `cv/tailored/`); the old repos under `raimarshal34-gif` stay as backup. The token for the new account was pasted in chat and used transiently only, never stored.
-- **CVs rebuilt in Shahida format** — 26 Nov 2026: the master CV and all 10 tailored CVs rebuilt in the Shahida format (blue, left-aligned, US Letter, 2 pages each) at Javed's direction after he judged the purple format not good enough; "$20+ per hour" restored on the master CV; all 11 added to the dashboard CVs page (12 entries with SpecterOps) and to each job's detail page; dashboard redeploy pending the Vercel token.
+
+## 12. Applying begins — 26 Nov 2026
+
+- **Flow (Javed's direction, 16:26 PKT):** apply one by one; I fill each application in the browser, Javed clicks the final submit button himself.
+- **#192 Do It Right Plumbers — SUBMITTED 26 Nov 2026 (16:36 PKT).** BambooHR form; CV uploaded as `Javed_Iqbal_CV.pdf`; Desired Pay $3,200/month; Date Available 11/26/2026; LinkedIn https://www.linkedin.com/in/javed-iqbal-351124450/. HireFlix video still pending ("No video, no consideration") — only Javed can record it.
+- **#194 8B Education Investments — SUBMITTED 26 Nov 2026 (16:53 PKT).** Job verified live on Himalayas (apply before 19 Jan 2027); application on careers-page.com; form filled (name, email, phone) with no portfolio/LinkedIn/pay fields; CV `Javed_Iqbal_CV.pdf` attached. Himalayas account signed in via Google as javediqdev@gmail.com; onboarding completed (Actively applying, expected salary $60,000/year — the $38,400 figure matching his $3,200/month rate would not submit); Himalayas Plus declined.
+- **#195 Newsweek — application in progress (started 16:54 PKT).** RemoteRocketship listing; UK remote; pay Not listed.
+- **New rules from the applying session (all saved in `skills/apply-process.md`):** (1) upload the CV with a NEUTRAL filename (`Javed_Iqbal_CV.pdf`), never a company name in the filename; (2) before uploading, verify the neutral copy is the right job's CV — copy it fresh from that job's own folder, check its file hash (md5) matches the original CV exactly, and check the title on page 1 matches the job title; never reuse a neutral copy from another job's folder (verified 26 Nov: #192 "Senior Web Developer – WordPress", #194 "Senior Engineer, UI Development", #195 "Backend Software Engineer" — all exact matches); (3) save the FULL job description for every job in `job-descriptions/<number>-<company>.md` while the posting is live, for interview prep — #192 and #194–#202 all saved 26 Nov 2026 (#200 SurMarketing metadata-only; LinkedIn gives no description body, needs a live-browser read before interview prep); (4) if a form asks for Date Available and the posting says Immediate, enter today's date; (5) after a submission, mark the job Applied on the dashboard (Mark Applied button, date and CV version on file).
+- **#196 Michigan State correction (26 Nov 2026):** the employer's own MSU Careers page shows it is an ON-CALL, PROJECT-PAY assignment, NOT a full-time salaried job: $2,000 (Phase 1) + $4,000 (Phase 2); applications close 30 Nov 2026. The dashboard still shows it as Full-time — fix with the next dashboard update. Javed has not yet decided whether to apply to it.
+- **Dashboard/GitHub still hold the OLD (pre-writing-fix) CVs** — update after Javed approves the fixed CVs (re-export, redeploy with the Vercel token, push to GitHub with the PAT, both pasted again transiently).
 
 ## Appendix — key files and links
 
@@ -293,12 +301,12 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 - Master CV (markdown): `~/workspace/javed-job-search/cv-master.md`
 - Master CV (Word): `~/workspace/goals/javed-iqbal-remote-wordpress-job-search/files/javed-iqbal-master-cv/javed-iqbal-master-cv.docx`
 - Tailored CV instructions: `~/workspace/javed-job-search/cv-instructions.md`
-- Skills (living skill base): `~/workspace/javed-job-search/skills/` — `README.md` plus 19 technical skill files and 5 instruction/process files (`cv-making.md`, `apply-process.md`, `job-search-rules.md`, `finding-new-jobs.md`, `adding-jobs-to-dashboard.md`)
+- Skills (living skill base): `~/workspace/javed-job-search/skills/` — `README.md` plus 19 technical skill files and 6 instruction/process files (`cv-making.md`, `apply-process.md`, `job-search-rules.md`, `finding-new-jobs.md`, `adding-jobs-to-dashboard.md`, `qa-review.md`)
 - Portfolio (100 best sites): `~/workspace/javed-portfolio/best-100.md`
 - Deploy script: `~/workspace/javed-job-search/deploy_javed_vercel.py`
 - Backup script: `~/workspace/javed-job-search/backup_round.py` — backups in `~/workspace/javed-job-search/backups/`
 - GitHub push working dirs: `~/workspace/javed-job-search/github-push/dashboard/` and `~/workspace/javed-job-search/github-push/portfolio/`
 - Live portfolio: https://javed-iqbal-portfolio.vercel.app/
 - Live dashboard: https://javed-iqbal-job-dashboard.vercel.app/
-- GitHub repos: https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard and https://github.com/javediqdev-ship-it/javed-iqbal-portfolio (moved to Javed's own account 26 Nov 2026; the old repos under raimarshal34-gif stay as backup)
+- GitHub repos (canonical, Javed's own account): https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard and https://github.com/javediqdev-ship-it/javed-iqbal-portfolio — the raimarshal34-gif copies stay as backup only
 - Javed's people file: `~/memory/people/javed-iqbal.md`

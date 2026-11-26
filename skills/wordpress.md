@@ -3,7 +3,7 @@
 ## What Javed can do
 
 - 11 years of WordPress experience, with 100+ websites completed.
-- Builds, customises and maintains WordPress websites, from design and build through delivery.
+- Builds, customizes and maintains WordPress websites, from design and build through delivery.
 - Custom WordPress development: custom themes, custom plugins, custom features and custom dashboards.
 - Works across a wide range of business websites and categories.
 - Handles site speed, security, backups and ongoing maintenance for the websites he delivers.
