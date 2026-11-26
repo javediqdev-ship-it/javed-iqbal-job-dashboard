@@ -483,3 +483,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #67 Arbor Education REJECTED (closed)
 - WordPress Developer verified gone on 26 Nov 2026 (Jooble and Arbor's own Workable board). Added to Rejected with the reason. Nothing submitted.
+
+## 2026-11-26 — #68 RainFocus REJECTED (not a WordPress role)
+- Verified live 26 Nov 2026 as "Jr. UI Developer (Remote)" on Lever: front-end UI work on RainFocus's own event platform, zero WordPress/CMS content. Rejected as outside the WordPress-only scope, with the reason; it is live and submittable if Javed widens the scope. Nothing submitted.
