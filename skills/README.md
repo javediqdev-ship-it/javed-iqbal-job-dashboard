@@ -66,3 +66,11 @@ Whenever new information arrives — a new instruction from Javed, a new detail 
 - Local folder: ~/workspace/javed-job-search/skills/
 - GitHub: javediqdev-ship-it/javed-iqbal-job-dashboard, folder skills/ — every file here is also pushed there, always. (Moved from raimarshal34-gif on 26 Nov 2026; the old repos stay as backup.)
 - CV source of truth: ~/workspace/javed-job-search/cv-master.md (markdown copy of the master CV).
+- Communication and Remote Delivery — `communication.md`
+- Hosting Environments, Pantheon and FTP — `hosting-environments.md`
+- Cookie-Consent Tools — `cookie-consent-tools.md`
+- GA4 and Google Tag Manager — `analytics-ga4-gtm.md`
+- Figma and Adobe XD Design Handoffs — `figma-adobe-xd.md`
+- WCAG Accessibility — `wcag-accessibility.md`
+- SASS — `sass.md`
+- Astra Theme — `astra.md`

@@ -33,3 +33,7 @@ Twice-daily sweeps at 05:00 and 17:00 PKT. Each run: full sweep of all 50 source
 - Built In text-fetch crawls are stale cache — only a live-browser check decides whether a Built In job is live or closed.
 - DataDriven Corp listings are aggregator-generated fake employer postings — never add without employer-site verification.
 - LinkedIn: no bots, scripts, scraping or automated Easy Apply (ban risk). Read Gmail job-alert emails and public search results only. VPN must be OFF whenever LinkedIn is opened.
+
+## Standing skill rule (set by Javed, 26 Nov 2026)
+
+Javed knows all of WordPress. Any WordPress-related skill can be added to a CV without asking him. WordPress-related includes: hosting, themes, plugins, page builders, analytics, accessibility, design handoffs, performance, security, backups and maintenance. Only a skill clearly outside WordPress work (for example Python, Docker, or CI/CD pipelines) still needs one confirmation from Javed first: collect those into one short list, ask once, and save the answers here. Check this repo before asking Javed anything.
