@@ -9,6 +9,9 @@ This folder is the always-updated record of everything about Javed's job search:
    - cv-making.md — how CVs are made
    - apply-process.md — how applying works
    - job-search-rules.md — how jobs are found and scored
+   - finding-new-jobs.md — how new jobs are found on every source
+   - adding-jobs-to-dashboard.md — how jobs and CVs are added to the dashboard
+   - qa-review.md — the QA agent: how every piece of work is checked before it reaches Javed
 
 ## The update rule
 
@@ -49,9 +52,12 @@ Whenever new information arrives — a new instruction from Javed, a new detail 
 - CV Making — `cv-making.md`
 - Apply Process — `apply-process.md`
 - Job Search Rules — `job-search-rules.md`
+- Finding New Jobs — `finding-new-jobs.md`
+- Adding Jobs to Dashboard — `adding-jobs-to-dashboard.md`
+- QA Review — `qa-review.md`
 
 ## Where this lives
 
 - Local folder: ~/workspace/javed-job-search/skills/
-- GitHub: javediqdev-ship-it/javed-iqbal-job-dashboard, folder skills/ — every file here is also pushed there, always.
+- GitHub: javediqdev-ship-it/javed-iqbal-job-dashboard, folder skills/ — every file here is also pushed there, always. (Moved from raimarshal34-gif on 26 Nov 2026; the old repos stay as backup.)
 - CV source of truth: ~/workspace/javed-job-search/cv-master.md (markdown copy of the master CV).

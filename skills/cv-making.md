@@ -28,6 +28,8 @@ Top quality for each job, not a normal CV. Strong enough that the employer calls
 8. Every tailored CV carries the real contact details, the portfolio link, and the References section.
 9. PDF is the applying format. The Word file stays as the editable copy.
 10. Javed approves each CV first, then he applies himself.
+11. No CV reaches Javed without QA sign-off. After a CV is built, the QA agent (`skills/qa-review.md`) checks it independently from every angle — facts, US English, writing, format, job match, hiring impact, consistency, links, completeness — and only a PASS goes to Javed.
+12. All CVs are written in US English. American spelling only (specialize, optimize, customize, inquiry, center, program, organization). No British spellings anywhere.
 
 ## What stays OFF the CV
 
