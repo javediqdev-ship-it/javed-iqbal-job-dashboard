@@ -408,3 +408,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #182 Linchpin REJECTED (closed)
 - Front-End Web Developer (Remote): phpjobs says no longer available, Linchpin's own careers pages list no openings, Mediabistro copy unavailable. The role had closed months earlier; the November phpjobs date was re-aggregation. Moved to Rejected with the reason. No CV built.
+
+## 2026-11-26 — #184 Perseus Group HELD
+- WordPress Web Developer (long-term contract, 15-20 hrs/month, EST hours, North America) verified live on Perseus Group's own Workday board (req R49399). Maintenance/security/performance core fits well, but two core requirements are unconfirmed: multilingual WordPress (WPML/Polylang) and SEO. Held for Javed's one-time answers (multilingual added to that list). Nothing submitted, no CV built.
