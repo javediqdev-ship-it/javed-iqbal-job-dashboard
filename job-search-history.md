@@ -112,18 +112,23 @@ NerdWallet Senior Software Engineer 6/10 (WP secondary/headless, Texas eligible)
 
 Strategic Association Solutions Web Developer 8/10 (Rippling ATS, re-posted 25 Nov, custom themes/plugins from scratch, pay Not listed); Hecto Marketing Website Manager | WordPress, Wix & Squarespace 6/10 (Indeed, $18–22/hr, part-time 15–35 hrs/week for 2–3 months, page updates only, explicitly not a developer role). The live site was redeployed to the 202-job version with the Sort filter, verified byte-identical to the local file. No Junior WordPress / Junior Developer role posted 21–26 Nov was found on any board.
 
+### 26 Nov 2026 — evening sweep (+3 jobs, 202 → 205)
+
+Site-Seeker, Inc. Remote WordPress Developer (Mentored to Lead Ops) 8/10 ($60–75k/yr, employer careers page, posted 23 Nov 2026 mirror date, Astra/Elementor, apply by email); Solomon Page Full-Stack WordPress Developer 8/10 (Remote USA, full-time, pay Not listed, posted 20 Nov 2026, mirror link, healthcare end client unnamed); Tara Media WordPress Developer 8/10 ($65–75k/yr, remote US, posted 23 Nov 2026, bpa mirror, 1–3 yrs Elementor front-end, junior-friendly). All three verified live by Muse before adding; dashboard edit confirmed at 205 jobs with full detail pages. New held leads: Real Estate Transition Solutions WordPress Developer (remote unconfirmed, Seattle listed); Site-Seeker WordPress and Elementor Developer Junior/Mid 9/10 (no posted date); NTD Software Senior WordPress/WooCommerce Developer (mirror dates conflict, one mirror says expired); INSART WordPress Developer with Laravel (no date, US eligibility unconfirmed); Virtustant WordPress Developer part-time (US eligibility unconfirmed); brighthush Expert Senior Part-Time WordPress Developer (mirror-only, no verifiable date). New dropped: Ubisoft Full Stack Developer WordPress & PHP (Bucharest, Romania — RON meal tickets). **Gmail (source 6) NOT checked this sweep** — Gmail returns 401 Invalid Credentials on every call despite status showing connected; needs a reconnect before the next sweep. Morning sweep covered alerts through 19:04 UTC 25 Nov, so only 26 Nov alerts are unprocessed. **SpecterOps #16:** a text fetch on 26 Nov showed the full Built In posting, but per the standing rule that is not proof it is live — the 25 Nov live-browser check (twice) confirmed removal, so it stays CLOSED; the text-fetch sighting is stale cache. No Junior WordPress / Junior Developer role posted 21–26 Nov was found on any board.
+
 ### Repeated finding
 
 No Junior WordPress / Junior Developer role posted 21–26 Nov 2026 was found on any board in any sweep.
 
 ### Source health (as of 26 Nov 2026)
 
-- WPhired: site down — Cloudflare Error 1000 for many checks, HTTP 403 by 26 Nov (16th consecutive failure).
+- WPhired: site down — Cloudflare Error 1000 for many checks, HTTP 403 by 26 Nov (17th consecutive failure, evening sweep).
+- Gmail: returns 401 Invalid Credentials on every call from the 26 Nov evening sweep, despite `status` showing connected — LinkedIn job-alert emails unchecked that sweep; needs a reconnect before the next sweep.
 - RemoteWorks: domain suspended (24 Nov). Prairie: domain suspended (26 Nov).
 - RemoteOK: job pages blocked; the WordPress list appears ~4 months stale.
 - Wellfound and Arc: 429 rate-limited — do NOT retry by any route until time has passed.
 - Hired: redirects to LHH corporate page, login-gated — likely no longer a public board.
-- Recruiter.com /jobs: 404, no jobs board (12th consecutive check).
+- Recruiter.com /jobs: 404, no jobs board (13th consecutive check).
 - LinkedIn detail pages: login-gated (alert jobs rest on Gmail alert cards + mirrors); LinkedIn public search fetch is a stale crawl snapshot.
 - Jobspresso and Jooble assigned URLs returned 404 in the 22 Nov sweeps (search URL structure may have changed; Jobspresso was fully checkable via browser on 21 Nov).
 - phpjobs.io: not fully enumerated (700+ titles); its dates are re-aggregation dates.
@@ -257,7 +262,7 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 
 ## 10. Current state — 26 November 2026
 
-- **Dashboard: 202 jobs**, on the dashboard and live on Vercel (202-job version with the Sort filter, redeployed and verified 26 Nov 2026).
+- **Dashboard: 205 jobs**, on the dashboard and live on Vercel (202-job version with the Sort filter, redeployed and verified 26 Nov 2026; the 205-job version was built and verified the same evening — redeploy of the live site to 205 jobs is still to be done).
 - **Latest 10 jobs for tailored CVs — #192 and #194–202** (in job order):
   - #192 Do It Right Plumbers — Senior Web Developer, WordPress, Performance & Attribution — 7/10 — $2,500–4,000/month — Built In — video application required, apply until 7 Dec 2026.
   - #194 8B Education Investments — Sr. Engineer, UI Development — 8/10 — pay Not listed — Remote Frontend Jobs — WordPress setup/coding/customisation, themes/templates, HTML/CSS/JavaScript, API integrations, 4+ yrs. Date is a mirror/aggregation date.
@@ -289,10 +294,25 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 - **Flow (Javed's direction, 16:26 PKT):** apply one by one; I fill each application in the browser, Javed clicks the final submit button himself.
 - **#192 Do It Right Plumbers — SUBMITTED 26 Nov 2026 (16:36 PKT).** BambooHR form; CV uploaded as `Javed_Iqbal_CV.pdf`; Desired Pay $3,200/month; Date Available 11/26/2026; LinkedIn https://www.linkedin.com/in/javed-iqbal-351124450/. HireFlix video still pending ("No video, no consideration") — only Javed can record it.
 - **#194 8B Education Investments — SUBMITTED 26 Nov 2026 (16:53 PKT).** Job verified live on Himalayas (apply before 19 Jan 2027); application on careers-page.com; form filled (name, email, phone) with no portfolio/LinkedIn/pay fields; CV `Javed_Iqbal_CV.pdf` attached. Himalayas account signed in via Google as javediqdev@gmail.com; onboarding completed (Actively applying, expected salary $60,000/year — the $38,400 figure matching his $3,200/month rate would not submit); Himalayas Plus declined.
-- **#195 Newsweek — application in progress (started 16:54 PKT).** RemoteRocketship listing; UK remote; pay Not listed.
+- **#195 Newsweek — SUBMITTED 26 Nov 2026 (17:25 PKT).** RemoteRocketship wanted a paid membership ($99/year), so the application went directly on Newsweek's own Greenhouse page (job 4731797006, Backend Software Engineer — Remote, United Kingdom). Cover letter written and entered; UK work authorisation answered No; salary expectations $41,600/year. Javed clicked Submit himself; Greenhouse confirmation shown.
 - **New rules from the applying session (all saved in `skills/apply-process.md`):** (1) upload the CV with a NEUTRAL filename (`Javed_Iqbal_CV.pdf`), never a company name in the filename; (2) before uploading, verify the neutral copy is the right job's CV — copy it fresh from that job's own folder, check its file hash (md5) matches the original CV exactly, and check the title on page 1 matches the job title; never reuse a neutral copy from another job's folder (verified 26 Nov: #192 "Senior Web Developer – WordPress", #194 "Senior Engineer, UI Development", #195 "Backend Software Engineer" — all exact matches); (3) save the FULL job description for every job in `job-descriptions/<number>-<company>.md` while the posting is live, for interview prep — #192 and #194–#202 all saved 26 Nov 2026 (#200 SurMarketing metadata-only; LinkedIn gives no description body, needs a live-browser read before interview prep); (4) if a form asks for Date Available and the posting says Immediate, enter today's date; (5) after a submission, mark the job Applied on the dashboard (Mark Applied button, date and CV version on file).
-- **#196 Michigan State correction (26 Nov 2026):** the employer's own MSU Careers page shows it is an ON-CALL, PROJECT-PAY assignment, NOT a full-time salaried job: $2,000 (Phase 1) + $4,000 (Phase 2); applications close 30 Nov 2026. The dashboard still shows it as Full-time — fix with the next dashboard update. Javed has not yet decided whether to apply to it.
-- **Dashboard/GitHub still hold the OLD (pre-writing-fix) CVs** — update after Javed approves the fixed CVs (re-export, redeploy with the Vercel token, push to GitHub with the PAT, both pasted again transiently).
+- **#196 Michigan State correction (26 Nov 2026):** the employer's own MSU Careers page shows it is an ON-CALL, PROJECT-PAY assignment, NOT a full-time salaried job: $2,000 (Phase 1) + $4,000 (Phase 2); applications close 30 Nov 2026. The dashboard still shows it as Full-time — fix with the next dashboard update. Javed decided 17:33 PKT: SKIP it for now.
+- **Dashboard CVs:** the fixed CVs are live on the dashboard as /assets/ files since the 26 Nov redeploys, but the CV-page links still serve the OLD (pre-writing-fix) PDFs until Javed explicitly approves the fixed set. The SiteCare CV was added fresh on 26 Nov (current file).
+
+## 13. Evening applying continues — 26 Nov 2026
+
+- **#197 Wealth Enhancement — SUBMITTED 26 Nov 2026 (18:09 PKT).** Himalayas → Workday (Req R-102866, Senior Drupal Developer, $132,000–$140,000/yr). Signed in with Google; background-check consent given by Javed; desired salary 41600. Javed clicked Submit himself; Workday: "Application Submitted", status "In Progress".
+- **#198 NerdWallet — SUBMITTED 26 Nov 2026 (18:35 PKT).** Ashby board ($136,000–$252,000/yr + equity, found on the posting). Cover letter written and uploaded. Non-compete: Javed selected No on the form himself (he has no non-compete). Javed clicked Submit himself; Ashby success banner shown.
+- **#199 Steward Web Development — SUBMITTED 26 Nov 2026 (18:43 PKT).** Employer's careers-page.com form ($4,800–$5,600/month, 5-month contract, meetings 8 AM–12 PM Los Angeles time). Javed clicked Apply himself; confirmation shown.
+- **#200 SurMarketing — Javed will apply himself on LinkedIn** (26 Nov 2026, 18:46 PKT). **#201 Strategic Association Solutions — Javed will apply himself** (26 Nov 2026, 18:54 PKT; Cloudflare Turnstile failed 5 times in the cloud browser; pay found on the Rippling posting: $65,000–$75,000/yr). Both marked Self-apply on the dashboard with the reason shown.
+- **#202 Hecto Marketing — SUBMITTED 26 Nov 2026 (19:01 PKT).** Indeed; Javed clicked Submit himself. Indeed's profile had a different phone (+1 726 230 7787) autofilled; corrected to +1 512-325-6111.
+- **Evening sweep 26 Nov 2026 (17:00 PKT): 3 new jobs, 202 → 205** — #203 Site-Seeker (Remote WordPress Developer, $60–75k/yr, apply by email), #204 Solomon Page (Full-Stack WordPress Developer), #205 Tara Media (WordPress Developer, $65–75k/yr, junior-friendly).
+- **New rules (26 Nov 2026):** (1) NEVER SKIP A FORM FIELD SILENTLY — every field is filled truthfully or reported before moving on (saved in `skills/apply-process.md`); (2) from 19:10 PKT, I SUBMIT properly-filled applications myself and keep doing all of them, most important first — the old "Javed clicks the final submit" rule is superseded; (3) QA's scope is A to Z, not formatting only — every piece of work is checked correct or flagged for update (saved in `skills/qa-review.md`).
+- **Skills confirmed by Javed (26 Nov 2026, 19:16 PKT):** React, Git, Gutenberg, ACF, Core Web Vitals — now confirmed skills, with skill files `react.md`, `git.md`, `gutenberg.md`, `acf.md`, `core-web-vitals.md` in `skills/`.
+- **#44 SiteCare — CV built 26 Nov 2026, application in progress.** Tailored CV (Shahida format, QA-approved) built with the five newly confirmed skills; CV added to the dashboard CVs page; application running in the browser on Jobgether (posting verified live, 19 Nov 2026).
+- **Dashboard changes 26 Nov 2026 (evening):** New Jobs count now shows only jobs not yet applied to (205 − 7 applied = 198); Self-apply filter added to the New Jobs page; each self-apply job shows its reason. All redeployed live and verified byte-identical.
+- **Gmail:** connector returned 401 on 26 Nov, then showed not_connected; reconnect link sent to Javed. LinkedIn alerts unchecked since the morning sweep (through 19:04 UTC 25 Nov).
+- **GitHub tokens:** both known PATs verified dead twice ("Bad credentials", 26 Nov). Fresh tokens pasted by Javed 26 Nov 19:20/19:21 PKT; the first verifies as javediqdev-ship-it and was used to push this update.
 
 ## Appendix — key files and links
 
@@ -301,7 +321,7 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 - Master CV (markdown): `~/workspace/javed-job-search/cv-master.md`
 - Master CV (Word): `~/workspace/goals/javed-iqbal-remote-wordpress-job-search/files/javed-iqbal-master-cv/javed-iqbal-master-cv.docx`
 - Tailored CV instructions: `~/workspace/javed-job-search/cv-instructions.md`
-- Skills (living skill base): `~/workspace/javed-job-search/skills/` — `README.md` plus 19 technical skill files and 6 instruction/process files (`cv-making.md`, `apply-process.md`, `job-search-rules.md`, `finding-new-jobs.md`, `adding-jobs-to-dashboard.md`, `qa-review.md`)
+- Skills (living skill base): `~/workspace/javed-job-search/skills/` — `README.md` plus 24 technical skill files and 6 instruction/process files (`cv-making.md`, `apply-process.md`, `job-search-rules.md`, `finding-new-jobs.md`, `adding-jobs-to-dashboard.md`, `qa-review.md`)
 - Portfolio (100 best sites): `~/workspace/javed-portfolio/best-100.md`
 - Deploy script: `~/workspace/javed-job-search/deploy_javed_vercel.py`
 - Backup script: `~/workspace/javed-job-search/backup_round.py` — backups in `~/workspace/javed-job-search/backups/`

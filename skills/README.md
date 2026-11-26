@@ -46,6 +46,11 @@ Whenever new information arrives — a new instruction from Javed, a new detail 
 - Team Direction — `team-direction.md`
 - Project Delivery — `project-delivery.md`
 - Other CMS Platforms — `other-cms.md`
+- React — `react.md`
+- Git — `git.md`
+- Gutenberg — `gutenberg.md`
+- Advanced Custom Fields (ACF) — `acf.md`
+- Core Web Vitals — `core-web-vitals.md`
 
 ## Instruction and process files
 

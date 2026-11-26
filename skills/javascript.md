@@ -13,4 +13,4 @@
 ## Source
 
 - Master CV (skills section: Development).
-- No JavaScript frameworks or libraries are named on the CV, so none are claimed here.
+- JavaScript frameworks: React is confirmed by Javed (26 Nov 2026) — see react.md. No other JavaScript framework or library is named, so none is claimed here.

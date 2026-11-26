@@ -43,3 +43,15 @@ How applying for a job works, step by step. This file is the living record — u
 - Watch Gmail for company replies and interview invitations. LinkedIn job alerts arrive daily and are the main live job source.
 - After a submission, mark the job Applied on the dashboard (Mark Applied button, with the date and CV version on file).
 - Never use bots, scripts, scraping or automated Easy Apply on LinkedIn (ban risk). Javed applies himself.
+
+## Never skip a form field silently (Javed's direction, 26 Nov 2026)
+- Look at every field on every application form deeply. Never leave a field blank and move on without saying so — that feels like careless AI work.
+- Every field is either filled truthfully from Javed's confirmed details, or reported to him before moving on.
+- Voluntary demographic questions are filled truthfully, not left blank: Gender Male, Race Asian, Hispanic/Latino No, Veteran Status not a protected veteran (no military service; whole history is civilian WordPress work).
+- Consent questions (text messages, emails) are never defaulted to No. His phone and email were provided for contact about the application, so consent to application updates is Yes. If a consent is ever unclear, ask Javed — do not guess No.
+- If any field cannot be filled truthfully, stop and ask Javed rather than skipping it.
+
+## Submit the application myself (Javed's direction, 26 Nov 2026)
+- From now on, when an application is filled properly, SUBMIT it myself — do not stop at the final step for Javed to click. Keep doing all applications myself, one by one, most important first.
+- Only submit when the application is properly filled: every field truthful, no unconfirmed skill claimed, no unanswered required question, no pay mismatch left undecided, no CAPTCHA blocking. If any of those is not true, do NOT submit — report it to Javed and move to the next job.
+- The old rule "Javed clicks the final submit himself" is superseded by this one. Jobs he takes himself (LinkedIn #200, Rippling #201) stay his.
