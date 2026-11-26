@@ -450,3 +450,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #107 Cityview Helicopter Tours REJECTED (not a WordPress role)
 - Jooble listing dead (404); the live Trakstar posting titled "wordpress developer" is a generic account-manager/sales description with no WordPress content and a sales-only department question. Added to Rejected with the reason. Nothing submitted.
+
+## 2026-11-26 — #108 Prophecy Technologies SUBMITTED
+- Senior WordPress Developer (staffing for Hilton) verified live on Prophecy's own portal; tailored CV QA-PASSED (Multisite, .NET/MSSQL migration and unit/integration testing not claimed) and submitted via the guest form (Visa USC, TX, Bedford; Employment Type left blank and accepted). Confirmation: "Application submitted successfully!" No reference number.

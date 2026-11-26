@@ -10,6 +10,6 @@ Senior WordPress work on Hilton's platform re-platforming: high-complexity plugi
 
 Fit notes: React, Gutenberg, custom plugins, MySQL and team leadership are on Javed's record. Multisite, .NET/MSSQL data migration and unit/integration testing are NOT on his record and are not claimed in the tailored CV.
 
-## Status — 26 Nov 2026: package being built for the portal guest form
+## Status — 26 Nov 2026: SUBMITTED
 
-Tailored CV in preparation (title "Senior WordPress Developer"); submission follows QA, via the portal guest form with Visa Type USC, Country United States, State Texas, City Bedford, Employment Type left unchecked (not a required field; no preference is on file).
+Tailored CV built and QA-PASSED (title "Senior WordPress Developer", `Javed_Iqbal_CV_108.pdf`, md5 48fe860e5ef6edb20b58178be08fc2cc). Submitted the same day via the portal guest form: Visa Type USC, Country United States, State Texas, City Bedford, Employment Type left unchecked (accepted). Portal confirmation: "Application submitted successfully!" — no reference number given.
