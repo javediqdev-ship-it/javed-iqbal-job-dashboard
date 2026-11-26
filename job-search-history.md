@@ -444,3 +444,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — Correction: dashboard Rejected entries for #49/#50/#52 removed
 - The dashboard has no job objects for the Dice/ZipRecruiter entries #49, #50 and #52 (they exist in seen-jobs.md only), and the employer names are shared with different live roles (SEON's Senior WordPress Developer via SkipTheDrive; WVU's Temporary WordPress role). The DEFAULT_REJECTED entries added for them tonight were removed so they can never attach to the wrong job. Their closed outcomes stand in their job-descriptions records and in seen-jobs.md.
+
+## 2026-11-26 — #74 CYNET SYSTEMS + #109 E-Solutions SELF-APPLY (same job as #154)
+- The CYNET Senior WordPress Developer listing is the same client requirement as #154 eTeam (identical description), also posted by E-Solutions (#109) and Apptad — one job farmed to several staffing firms. Live only via ZipRecruiter Quick Apply (account step). Both #74 and #109 tagged Self-apply with the dedupe reason; Javed applies once via one route. Nothing submitted, no CVs built.
