@@ -435,3 +435,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #49 West Virginia University REJECTED (closed)
 - Senior WordPress Developer ($35-40/hr) verified gone on 26 Nov 2026: not on ZipRecruiter and not on WVU's own Taleo portal. Added to Rejected with the reason. A different Temporary WVU role exists but was not added or applied to.
+
+## 2026-11-26 — #50 SEON REJECTED (closed)
+- Full Stack Developer (Dice, $90,000-$110,000) verified gone on 26 Nov 2026: no listing on Dice and no such role on SEON's own Ashby board. Added to Rejected with the reason. Nothing submitted.
