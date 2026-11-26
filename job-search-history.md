@@ -366,3 +366,6 @@ Full method in `skills/adding-jobs-to-dashboard.md`. In short:
 
 ## 2026-11-26 — #143 Crowd Favorite checked: CLOSED
 - Front-End Developer, WordPress & Modern CSS Specialist, $75,000–$85,000/year, fully remote. Verified live 26 Nov 2026: the Startup.jobs listing states the job is no longer available, JobLeads' copies are offline, and Crowd Favorite's own careers page has no opening for the role (only a general application form, which was not used). Recorded Rejected on the dashboard with the reason; record in job-descriptions/143-crowd-favorite.md. Dashboard redeploy still pending the fresh Vercel token.
+
+## 2026-11-26 — #144 BD&J Injury Lawyers checked: NOT LIVE
+- Jr. WordPress Developer (part-time per title). Verified live 26 Nov 2026: BD&J's own careers portal (Paycom, 15 openings) has no WordPress or junior developer role; LinkedIn's copy is gone, Teal says no longer available, FlexJobs says expired. The Jobneticx aggregator copy is stale, with empty Responsibilities/Skills sections and no employer apply link. Recorded Rejected on the dashboard with the reason; record in job-descriptions/144-bdj-injury-lawyers.md.
