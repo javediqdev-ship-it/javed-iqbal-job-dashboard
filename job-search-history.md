@@ -462,3 +462,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #145 Snappy Kraken SELF-APPLY (Turnstile blocked the submit)
 - Junior Web Designer form filled in full on Rippling with CV #145, but Cloudflare's human check failed at submission from the cloud browser. Not submitted. Tagged Self-apply under the standing Turnstile decision; answers saved in the job record and application-texts.md.
+
+## 2026-11-26 — #114 Trellus REJECTED (closed)
+- Webflow/WordPress Developer verified gone on 26 Nov 2026: absent from Jooble and from Trellus's own careers page. Added to Rejected with the reason. Nothing submitted.
