@@ -447,3 +447,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #74 CYNET SYSTEMS + #109 E-Solutions SELF-APPLY (same job as #154)
 - The CYNET Senior WordPress Developer listing is the same client requirement as #154 eTeam (identical description), also posted by E-Solutions (#109) and Apptad — one job farmed to several staffing firms. Live only via ZipRecruiter Quick Apply (account step). Both #74 and #109 tagged Self-apply with the dedupe reason; Javed applies once via one route. Nothing submitted, no CVs built.
+
+## 2026-11-26 — #107 Cityview Helicopter Tours REJECTED (not a WordPress role)
+- Jooble listing dead (404); the live Trakstar posting titled "wordpress developer" is a generic account-manager/sales description with no WordPress content and a sales-only department question. Added to Rejected with the reason. Nothing submitted.
