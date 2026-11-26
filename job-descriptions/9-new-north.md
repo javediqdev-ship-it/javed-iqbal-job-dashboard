@@ -11,3 +11,7 @@ Design, develop and maintain high-performing WordPress websites for clients, wor
 ## Form (verified live 26 Nov 2026)
 
 On-page form on the same hiring page; no sign-in, no CAPTCHA, no fee. Required: First Name, Last Name, Email, Phone, Resume/CV upload (max 40 MB), LinkedIn Profile, and "Tell us why you'd be a good fit for this role." (free text). Optional: Portfolio/Website, and Salary Expectations (in USD) with a Monthly/Yearly dropdown.
+
+## Status update — 26 Nov 2026: SUBMITTED
+
+Submitted on the employer's hiring-page form with `Javed_Iqbal_CV_9.pdf`; the page replaced the form with a thank-you message. No reference number. The live form had no Phone field, so the phone number was not entered anywhere on the form (it is on the CV).

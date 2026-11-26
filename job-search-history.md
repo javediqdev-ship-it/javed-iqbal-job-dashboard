@@ -456,3 +456,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #176 Wildfire SUBMITTED
 - WordPress Developer application submitted on Wildfire's own form with CV #176 and the tailored cover letter; reCAPTCHA cleared with one tick; thank-you page confirmed ("Thank you for your application"). Submitted once. No reference number.
+
+## 2026-11-26 — #9 New North SUBMITTED
+- Senior WordPress Developer application submitted on New North's own hiring-page form with CV #9, portfolio and LinkedIn links, salary expectation 41600 Yearly and the tailored fit text. Confirmation message shown on the page; no reference number. The live form had no Phone field (the number is on the CV).
