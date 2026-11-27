@@ -639,3 +639,8 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: Mercor Software Developer, Leidos Full Stack (ClearanceJobs), Zillow REJECTED (not WordPress roles)
 - Verified live 27 Nov 2026 (Node/TypeScript/Rust backend contract; a hybrid clearance role in Python/Java; a React/Next.js design-systems role). Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-27 — Batch: Focus Labs REJECTED (not WordPress), Company not listed SELF-APPLY, Aretum Junior Systems Analyst HELD
+- Focus Labs: a French-language Laravel/Vue.js role, Canada only, WordPress only a bonus mention. Rejected tag added.
+- Company not listed (WordPress Website and SEO Specialist, Remote.co): live, but employer, description and apply route are behind a sign-in gate, travel is flagged as required, and SEO is unconfirmed. Self-apply tag added.
+- Aretum Junior Systems Analyst (#167): verified open with a reachable Workable form, but the role is Tier 1/2 service-desk support rather than development and includes occasional travel (under 10%). Held in New Jobs on the same travel question as #64/#140/#188. Not applied.
