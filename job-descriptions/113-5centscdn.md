@@ -7,3 +7,7 @@
 - Employer's current route: the Hirevire form linked from its own careers page (jobs.5centscdn.net/applications/25d43173-97ba-49d9-a739-d1d1061428e5) — name, email, mobile, then 10 screening questions (recorded in application-texts.md with prepared answers).
 
 ## Status — 26 Nov 2026: IN PROGRESS (Manatal failed on the employer's side; Hirevire route being attempted)
+
+## Update — 26 Nov 2026: Hirevire route is a video interview; SELF-APPLY
+
+The Hirevire first screen (name, email, mobile) was completed on 26 Nov 2026; Hirevire then emailed the application link to javediqdev@gmail.com. The email from the 5centsCDN Talent Team states plainly that it is "a brief video interview" for the PHP Developer position. Video answers can only be recorded by Javed himself, so #113 is marked Self-apply on the dashboard. The prepared answers in `cv/tailored/javed-iqbal-cv-5centscdn/application-texts.md` are written so he can speak from them; the tailored CV (Javed_Iqbal_CV_113.pdf) is on the dashboard CVs page if the flow asks for an upload. Nothing was submitted by Muse through Hirevire.

@@ -531,3 +531,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #113 5centsCDN: CV ready, Manatal submission failed on the employer's side
 - PHP Developer verified live (WordPress explicitly part of the role). CV built and QA-passed after one fix (unconfirmed "Guzzle" removed from the prepared Hirevire answers). The legacy Manatal form was filled correctly and submitted three times (once by the user in the live browser); every attempt returned the employer's own error asking applicants to contact 5centsCDN Inc. Not submitted via Manatal. The employer's current Hirevire route is being attempted with the prepared answers.
+
+## 2026-11-26 — #113 5centsCDN SELF-APPLY (video interview)
+- Hirevire (the employer's current route) emailed an application link that leads to a video interview — only Javed can record it. Marked Self-apply on the dashboard; prepared answers and the tailored CV are saved in the job record for him to use. Manatal had already failed on the employer's side (see the earlier entry).
