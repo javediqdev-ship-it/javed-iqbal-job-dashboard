@@ -545,3 +545,8 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — Batch: #119 BLN24, #120 Air Apps, #121 Hitachi REJECTED (not WordPress roles)
 - All three verified live and open on 26 Nov 2026, none with any WordPress content (React/Angular stacks). #120 Air Apps also states it is fully onsite in Lisbon despite the remote label. Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-26 — Batch: #122 eCapital HELD (ZIP code), #123 ICF REJECTED (closed), #124 Infotree REJECTED (not a WordPress role)
+- #122 eCapital: verified live and WordPress-relevant (WordPress/CMS templates, page builders, plugins; $70,000–$90,000, remote). The employer's own form (applytojob.com) is mapped: name, email, phone, address including postal code, resume, eligibility, desired salary, start date, work-permit question, then a reCAPTCHA checkbox. Held on the same single blocker as #115 — Javed's ZIP code is not on file. Ready to submit as soon as it arrives; no CV built yet to save effort.
+- #123 ICF: Jooble listing gone; no matching role on ICF's own careers site. Dashboard Rejected tag added.
+- #124 Infotree: verified live; C#/AG-Grid analytics UI role, no WordPress. Dashboard Rejected tag added.
