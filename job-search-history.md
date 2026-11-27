@@ -492,3 +492,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #70 Leidos HELD (cannot verify)
 - The Jooble listing is gone, but Leidos's own careers site is behind a Cloudflare human check the cloud browser cannot clear on either environment, so the role cannot honestly be called closed. Held in New Jobs; a 30-second manual check on careers.leidos.com would settle it. Nothing submitted.
+
+## 2026-11-26 — #71 IT Coalition REJECTED (not a WordPress role)
+- Verified live 26 Nov 2026: no WordPress Developer role exists at ITC Federal; its live Web Developer role is C#/.NET/ASP.NET Core with no WordPress content. Added to Rejected with the reason. Nothing submitted.
