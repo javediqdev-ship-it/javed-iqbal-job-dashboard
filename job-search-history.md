@@ -721,3 +721,17 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - Added, nothing deleted: Aquent #210 CV folder (cv/tailored/javed-iqbal-cv-aquent/, Javed_Iqbal_CV_210.pdf QA-passed, second CV for #210 — the submitted one is the other AI's javed-iqbal-cv-aquent-pbi-gordon), history sections 14–15, seen-jobs #210 second-CV note, skills README standing-rule clause, extra-sweep-2026-11-21 record. index.html untouched (the other AI's version is the base).
 - Pushed as 96b0a57. Dashboard redeployed on Vercel (deployment dpl_J4ifhYrFquxm63rhKqYyoaNrP6gF, READY) and verified byte-identical live (sha1 7a6eae25…): 212 jobs, 24 Applied, 101 Rejected, 18 Self-apply, Aquent #210 Applied entry present.
 - Portfolio verified in sync: live site sha1 matches the repo index.html exactly — no redeploy needed.
+
+## 2026-11-27 — Rejected-list sweep (side chat, Ali's instruction: apply to all live non-closed jobs, skip closed)
+
+- **Bloomerang (#73) APPLIED** — Sr. Software Engineer (PHP + React/TypeScript), Greenhouse job 4753077005. Confirmation: "Thank You For Applying!" CV: cv/tailored/javed-iqbal-cv-bloomerang/.
+- **Sched (#160) APPLIED** — Full Stack Web Engineer, Breezy. Confirmation: "Thank you! All done! Your application for the Full Stack Web Engineer position has been submitted successfully." Salary entered USD 110,000/yr. CV: cv/tailored/javed-iqbal-cv-sched/.
+- **PERITUS (#118) APPLIED** — Front-End Developer, employer's own Breezy form (Talentify listing had ended). Confirmation: "Application Submitted — Your application has been submitted successfully. Good luck!" CV: cv/tailored/javed-iqbal-cv-peritus/.
+- **Friends From The City (#75)** — form fully filled on Workable incl. MRPT clearance Yes (Ali confirmed Javed can obtain MRPT), CV attached; submit blocked by Cloudflare Turnstile verification. Human verification / self-apply. CV: cv/tailored/javed-iqbal-cv-friends-from-the-city/.
+- **Supporting Cast / Slate (#174)** — Lever form fully filled, CV + cover letter uploaded; blocked at hCaptcha. Ali decided 27 Nov: SELF-APPLY. CV + cover letter: cv/tailored/javed-iqbal-cv-supporting-cast/.
+- **Wing Assistant (#101)** — Lever form fully filled (last pay USD 22/hr = USD 3,813/mo entered; screen monitoring Yes; client calls Yes); submission blocked only by 4 required uploads from Javed's own computer (main + backup internet speed screenshots, computer specs screenshot, backup laptop photo). Awaiting those files. CV: cv/tailored/javed-iqbal-cv-wing-assistant/.
+- **Zephyrline Solutions (#104)** — PHP Developer via Fiondr; application waits on the Fiondr account password being entered via the secure card. CV: cv/tailored/javed-iqbal-cv-zephyrline/.
+- **Betafeld (#89)** — SELF-APPLY (LinkedIn route; Ali: LinkedIn jobs self-apply). CV: cv/tailored/javed-iqbal-cv-betafeld/.
+- **WPMU DEV Sales Support** — Ali decided 27 Nov: SELF-APPLY (task sheet tests the candidate's own writing).
+- **Closed, skipped per Ali's rule:** Talent Groups (#106), Mondo (#121), Ad Hoc (#98), Prestige Staffing (#119), Zortech (#166), MD Integrations (#167), Air Apps (#72). Dealervero (#116) blocked at Lensa human verification, form never reached.
+- Confirmed facts added 27 Nov: real address 805 Central Dr, Apt 139, Bedford, TX 76022; BS graduation July 2015; last pay at Rising USD 22/hr; Javed has left Rising, joins immediately; MRPT clearance obtainable: Yes.
