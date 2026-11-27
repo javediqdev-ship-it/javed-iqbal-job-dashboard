@@ -568,3 +568,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - Rocket — WordPress Support Engineer: live on Rocket.net's careers page via Workable (clean form, uploads optional), but the posting names WP-CLI and WP Engine/Kinsta experience, none of which is on Javed's record, and the listing dates from Dec 2022 (evergreen). Held on the WP-CLI/SSH question already on the ask list. No CV built.
 - Evolving Web — WordPress Architect: live on Workable, WordPress-central, Montreal hours (Eastern overlap confirmed) and French No (confirmed). Held on one required screening item not on his record: hands-on theme.json / block-theme experience. Added to the ask list.
 - Talent Groups — Web Developer (jobfound listing): verified dead (jobfound page gone; employer's own board returns 0 positions). Already covered by the existing "Talent Groups" Rejected tag from #106; no new tag needed.
+
+## 2026-11-26 — Batch: Accroid Inc, Ad Hoc REJECTED (not WordPress roles), American Unit REJECTED (closed)
+- All verified live 26 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
