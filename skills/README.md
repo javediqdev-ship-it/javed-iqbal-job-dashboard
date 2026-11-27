@@ -15,7 +15,7 @@ This folder is the always-updated record of everything about Javed's job search:
 
 ## The update rule
 
-Whenever new information arrives — a new instruction from Javed, a new detail about the apply process, a new skill, a changed rule — update the matching file here AND the master CV together when the CV is affected. Never add a skill or a fact without evidence. Never let a file go stale.
+Whenever new information arrives — a new instruction from Javed, a new detail about the apply process, a new skill, a changed rule — update the matching file here AND the master CV together when the CV is affected. Never add a skill or a fact without evidence. Javed's standing rule (26 Nov 2026): any WordPress-related skill can be added on his word; only skills clearly outside WordPress work still need one confirmation first. Never let a file go stale.
 
 ## Rules for this folder
 
