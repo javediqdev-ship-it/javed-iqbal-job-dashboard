@@ -553,3 +553,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — Batch: Driven Media Group REJECTED (closed), Takeda REJECTED (not a WordPress role), WATI REJECTED (not WordPress, on-site)
 - All verified live 26 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-26 — Batch: Bloomerang, Motion Recruitment, Kforce Inc (Web Application Developer) REJECTED (not WordPress roles)
+- All three verified live and open on 26 Nov 2026, none with WordPress content (React/TypeScript, Laravel/Vue, C#/.NET). Dashboard Rejected tags added. Nothing submitted.
