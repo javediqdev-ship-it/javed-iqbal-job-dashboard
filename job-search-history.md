@@ -504,3 +504,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #79 Orvix Engineering REJECTED (closed)
 - WordPress Developer verified gone on 26 Nov 2026 (Jooble and Orvix's own careers page). Added to Rejected with the reason. Nothing submitted.
+
+## 2026-11-26 — #81 Themesoft Inc REJECTED (closed)
+- Senior WordPress Developer verified gone on 26 Nov 2026 (Dice and Themesoft's own careers portal). Added to Rejected with the reason. Nothing submitted.
