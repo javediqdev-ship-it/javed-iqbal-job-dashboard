@@ -513,3 +513,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #84 Kforce (Dice) REJECTED (closed)
 - Senior WordPress Developer verified gone on 26 Nov 2026 (Dice and Kforce's own job search). Recorded as closed in files only — the dashboard's Kforce object is a different job (Web Application Developer), so no Rejected tag was set. Nothing submitted.
+
+## 2026-11-26 — #171/#172/#175 Virtual Vocations family HELD (with #155/#170)
+- All three sit behind the same Virtual Vocations wall as #155/#170 (employer hidden behind paid Premium; Jooble route loops on Lensa). #171 (Laravel) and #175 (Shopify-led lead role) are not WordPress roles on their recorded descriptions; #172 (generic PHP) does not name WordPress. Held pending Javed's Virtual Vocations registration decision. Nothing submitted.
