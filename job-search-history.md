@@ -661,3 +661,8 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 ## 2026-11-27 — #210 Aquent APPLIED
 
 - WordPress Developer & Website Support Specialist, Aquent (job #214665) — APPLIED 27 Nov 2026 via Aquent Talent quick-apply with CV #210. Fresh email verification code accepted (first code expired). Pay 20/hr USD entered in the optional Pay Details step (role range $50-65/hr). Thank-you page confirmed, no reference number. Optional video answers, written interview questions and profile completion left for Javed.
+
+## 2026-11-27 — Restored-batch check 1: Limble REJECTED (closed), Saxon Global HELD, Wing Assistant (Remote Services Inc. listing) OPEN
+- Limble: the audit had restored it with an Indeed Malaysia link; re-verified 27 Nov 2026 — expired on Indeed and absent from Limble's own careers page. Rejected tag re-added.
+- Saxon Global (#212, Headless WordPress / Next.js): the Remotive link is dead (404); a Lensa mirror still shows it open, but the role is roughly half Next.js/TypeScript headless work, and headless WordPress and Next.js are both unconfirmed for Javed. Held in New Jobs on the one-time skill list.
+- The "Remote Services Inc." dashboard listing resolves to Wing Assistant's own Lever board (jobs.lever.co/getwingapp): a live, genuine WordPress Developer role with a reachable form. Full posting read and application workflow started.
