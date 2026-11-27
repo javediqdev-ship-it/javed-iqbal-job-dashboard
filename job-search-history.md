@@ -604,3 +604,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: Forum Digital Marketing, GDIT REJECTED (closed), Supporting Cast REJECTED (not a WordPress role)
 - Verified live 27 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-27 — Batch: MRI Technologies, WPMU DEV REJECTED; ALT FUNDS GLOBAL SELF-APPLY
+- MRI Technologies (Vue/TypeScript/ASP.NET, no WordPress) and WPMU DEV (a WordPress sales role requiring a pre-application task sheet) verified live 27 Nov 2026. Dashboard Rejected tags added.
+- ALT FUNDS GLOBAL (#185): live, genuine Divi/WordPress landing-page contract work, but only reachable through ZipRecruiter Quick Apply behind an account sign-in, and Divi is not on Javed's confirmed record. Marked Self-apply.
