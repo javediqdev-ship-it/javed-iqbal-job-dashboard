@@ -617,3 +617,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: Netlify, Digital Rx REJECTED (closed/expired), Sevenly REJECTED (not a WordPress role)
 - Verified live 27 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-27 — Batch: Redfish Technology, Muck Rack, Chamberlain Group REJECTED (not WordPress roles)
+- Verified live 27 Nov 2026 (Python/React stack, a marketing role, mobile/IoT work). Dashboard Rejected tags added. Nothing submitted.
