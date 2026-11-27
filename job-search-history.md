@@ -669,3 +669,8 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Wing Assistant (#101, listed as Remote Services Inc.) SELF-APPLY
 - Form mapped in full 27 Nov 2026. It cannot be completed truthfully by anyone but Javed: required uploads are screenshots of his own main and backup internet speeds and his computer specifications; it also asks his current monthly salary (not on file) and personal commitments (screen monitoring, VA/admin tasks, client phone calls). Marked Self-apply with the reason on the dashboard. No CV built, deliberately.
+
+## 2026-11-27 — Restored-batch check 2: AON REJECTED (closed), Talent Groups and Zephyrline SELF-APPLY
+- American Oncology Network (#17): restored by the audit, re-verified 27 Nov 2026 — no Junior Web Developer role on Built In or the company's careers portal. Rejected tag re-added.
+- Talent Groups (#106, Programming Job Board listing): live, WordPress central, W2 contract-to-hire, but the apply route redirects to a generic homepage with no form. Self-apply tag added.
+- Zephyrline (#104): live on Fiondr with WordPress work, but the route needs a Fiondr profile plus proposal, and Laravel is a named main tool (unconfirmed). Self-apply tag added.
