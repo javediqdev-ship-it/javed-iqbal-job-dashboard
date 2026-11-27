@@ -519,3 +519,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #50 SEON (SkipTheDrive) confirmed closed at every route
 - SkipTheDrive listing 404; role absent from SEON's careers page and Ashby board. Posting text also restricted location to US East Coast or Austin, TX. Files-only record updated; no dashboard object exists for SEON. Nothing submitted.
+
+## 2026-11-26 — #110 Prestige Staffing REJECTED (not a WordPress role)
+- Verified live 26 Nov 2026 on Prestige's own portal (Job ID 55127): secure enterprise PHP contract role for regulated industries; no WordPress/CMS content anywhere. Dashboard Rejected tag added (key "Prestige Staffing"). Nothing submitted.
