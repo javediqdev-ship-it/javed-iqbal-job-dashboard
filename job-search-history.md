@@ -768,3 +768,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — #64 Aretum Senior SUBMITTED by Ali
 - Senior Web Developer / Technical Lead (Contingent), remote USA, $130–150k, Workable. Ali submitted from his laptop (route was self-apply: Cloudflare Turnstile had blocked the filled form in the cloud browser). Confirmation: "Your application has been submitted successfully." Two live corrections were made on the form before submitting: phone country code +92 → +1 (512-325-6111) and address "Okara, Pakistan" → 805 Central Dr, Apt 139, Bedford, TX 76022, USA. Citizenship/3-year residency Yes; degree Yes; saved WordPress and Section 508/WCAG texts used; CV_64 uploaded. Dashboard: moved Self-apply → Applied.
+
+## 2026-11-27 — #61 Kinsta SUBMITTED by Ali
+- Support Engineer, Lever. The assistant filled the form in full twice (26–27 Nov) and again on 27 Nov, but Lever's hCaptcha returned "There was an error verifying your application" every time from the cloud browser; Ali submitted from his laptop — confirmation: "Application submitted!" Salary expectation USD 41,600; source Try Remotely; background screening Yes; permanent residence Bedford, TX. CV: cv/tailored/javed-iqbal-cv-kinsta/. Dashboard: moved Self-apply → Applied.
+- Same day, the assistant's attempts at Snappy Kraken #145 (Rippling) and Beyondlabs #135 (Dover) were also blocked at Cloudflare Turnstile after the forms were filled in full — both handed to Ali as 1-minute self-submits with links and CVs.
