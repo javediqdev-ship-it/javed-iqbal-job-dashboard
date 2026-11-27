@@ -578,3 +578,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #64 Aretum Senior Web Developer / Technical Lead HELD (occasional travel)
 - Full posting read 26 Nov 2026. Every skill requirement is on Javed's confirmed record (7+ years web development, 5+ years WordPress, Section 508/WCAG, bachelor's degree, US citizen, Public Trust eligibility; $130K–$150K, Workable form reachable with no sign-in or verification check). Held on the same point as #140 and #188: the posting states occasional travel may be required (under 10%) for project needs and client meetings, which conflicts with the remote-only rule. If Javed accepts occasional travel, this becomes a priority apply. No CV built yet.
+
+## 2026-11-27 — Batch: Calendly, Coinbase, Leidos (UI/UX) REJECTED (closed)
+- All three verified 27 Nov 2026: Calendly and Coinbase listings gone from Jooble and absent from the employers' own careers pages. The Leidos UI/UX role is marked no longer available on ClearanceJobs; Leidos's own careers site stays behind a human-verification check the browser cannot clear (same wall as #70), so that tag rests on the board's notice. Dashboard Rejected tags added. Nothing submitted.
+- Process note: this batch took 26 minutes, most of it spent retrying the Leidos verification check. The user instructed on 27 Nov 2026: work carefully and do not get stuck in one place. Rule added to skills/job-search-rules.md: if a site blocks a check, record it as unverifiable and move on; never spend more than a few minutes on one job.

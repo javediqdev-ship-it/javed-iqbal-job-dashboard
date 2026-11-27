@@ -41,3 +41,7 @@ Javed knows all of WordPress. Any WordPress-related skill can be added to a CV w
 ## Self-apply jobs stay in New, never in Rejected (26 Nov 2026)
 
 Jobs Javed will apply to and try himself stay in New Jobs with the Self-apply badge; they are never put in Rejected. This covers every job whose link is a LinkedIn posting (he applies on LinkedIn himself) and any job that cannot be applied to from here but has a route he can try himself. Rejected is only for jobs that are closed and jobs Javed deliberately skips. On the dashboard these jobs carry selfApply: true (or a DEFAULT_SELF_APPLY entry) and are found with the "Self-apply only" filter.
+
+## Work lean and never get stuck on one job (26–27 Nov 2026)
+
+Verify jobs in batches of 3 per browser run, with short briefs and short reports. Closed or non-WordPress jobs get a one-line history entry and a dashboard tag only; the full workflow (tailored CV, QA, submission) is only for jobs that are genuinely WordPress and actually open. Never retry a broken form more than once. If a site blocks a check (a human-verification wall, a sign-in gate), record it as unverifiable and move on — never spend more than a few minutes on one job or one site. Report to the user in one combined report at the end, not per job.
