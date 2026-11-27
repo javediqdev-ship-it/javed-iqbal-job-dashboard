@@ -27,8 +27,8 @@
 
 Live, one-to-one mock interview training — in a meeting (voice or text), not a lecture.
 
-1. **Pick one target job first.** One job description = one prep pack. Never train on a generic job.
-   Default first target (27 Nov 2026): **#211 ClearCaptions — Sr. Web Platform Engineer, $120,000–$139,000 + 5% bonus, 100% remote.**
+1. **Pick one target job per session as the EXAMPLE — but train for ALL companies, not one job.** (Updated 27 Nov 2026 on Javed's instruction.) The goal is that Javed can pass an interview at *any* company he has applied to, not only the one in that session. So: use the target job's description to set the exact stack, pay range and likely questions, then always teach the transferable core underneath it — the same WordPress / PHP / JavaScript answers, portfolio stories, STAR stories and salary answers, adapted in 2–3 lines to that company. Every new applied job feeds a general bank of likely questions, gap drills and best answers, so the next interview — whichever company it is — is already practised.
+   Default first example (27 Nov 2026): **#211 ClearCaptions — Sr. Web Platform Engineer, $120,000–$139,000 + 5% bonus, 100% remote.** Other live examples from the applied list include #212 Saxon Global (Headless WordPress / Next.js), #210 Aquent / PBI-Gordon, #206 Method Media Intelligence, and any other job in `seen-jobs.md` with status Applied or New. Rotate the example company each session so no company type is unpractised: senior platform roles, junior WordPress roles, agency roles, and support / maintenance roles.
 2. **Ask like a real interviewer.** One question at a time. Wait for the full answer. Then score, give 2–3 concrete fixes, and ask the same question again so Javed can retry it better.
 3. **Cover the full real interview, in every full session — all of this, not only the technical part:**
    - **Opening / small talk** — greeting, "how are you", camera / audio check, 30-second warm-up, just like a real call
@@ -47,7 +47,18 @@ Live, one-to-one mock interview training — in a meeting (voice or text), not a
    - **Salary negotiation** — the employer's range vs Javed's rate, when to leave pay blank on a form, how to answer "what are your salary expectations?" in conversation without anchoring low
    - **Under pressure** — timed answers, no long pauses to Google / think, English fluency, clarity, confidence, tone. The trainer notes filler, rambling, and vague answers, not only wrong technical facts.
 4. **Score every answer 1–5** (1 = vague / no example, 3 = clear + one real example, 5 = clear + quantified example + what he would do in *their* stack). Keep the score in the session log, not in Javed's head. At the end of a full session, give a **real hiring verdict** — hire / borderline / no-hire — with the exact reasons, the way a real panel would decide.
-5. **End every session with:** 3 strongest answers, 3 answers to fix, and the exact 3 questions to practise before the next session.
+5. **End every session with:** 3 strongest answers, 3 answers to fix, and the exact 3 questions to practise before the next session. Also name, in one line each: (a) what from this session transfers to *any* company, and (b) what was specific to *this* company only — so Javed never memorises a company-specific answer as if it were universal.
+
+## 2A. General bank — the core that passes any WordPress interview
+
+Build and keep this bank in `interview-prep/general-bank.md` (create it with the first general session). It is the same for every company, with a 2–3 line adaptation per company:
+
+- **Core intro (60–90 sec):** 11 years, 100+ sites, Development Manager at Rezolvemed and Rising Revenue Solutions, custom themes / plugins / dashboards — then one line tying it to *this* company's work.
+- **Core technical answers:** custom theme/plugin build, site speed / Core Web Vitals, security / backups / maintenance, WooCommerce, Elementor / ACF / Gutenberg, PHP / JS / MySQL, WCAG, GA4/GTM, technical SEO — each with one real example and one quantified result where possible.
+- **Core STAR stories (keep 5 ready, reuse everywhere):** a production bug fixed under pressure, a missed / tight deadline delivered, mentoring a developer, a difficult stakeholder / client, a site migration / rebuild. Each story: situation → task → action → result, with a number where possible.
+- **Core salary answers:** Javed's rate ($20/hr = $3,200/mo = $41,600/yr) for junior / low-range roles; leave pay blank and discuss within the employer's range for senior / high-range roles (e.g. ClearCaptions $120k–$139k). Never anchor low on a senior role, never invent a higher rate.
+- **Core gap bridges:** TypeScript, CI/CD, Salesforce, headless / Next.js, Divi — honest bridge (closest real work → what is new → 30-day plan), never a false claim. See §5.
+- **Adaptation drill (every session, 5 min):** take one core answer and re-answer it for a *different* company type — e.g. the same portfolio story for a senior platform role vs a junior agency role vs a support role. If the answer cannot adapt, it is not a core answer yet — fix it.
 
 ## 3. Hard rules — never break these
 
