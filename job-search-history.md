@@ -556,3 +556,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — Batch: Bloomerang, Motion Recruitment, Kforce Inc (Web Application Developer) REJECTED (not WordPress roles)
 - All three verified live and open on 26 Nov 2026, none with WordPress content (React/TypeScript, Laravel/Vue, C#/.NET). Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-26 — Batch: MD Integrations and Nava Software Solutions REJECTED (not WordPress roles); Komodo Health OPEN and WordPress-central
+- MD Integrations (Laravel APIs) and Nava (Adobe Commerce/Magento) verified live 26 Nov 2026 with no WordPress content. Dashboard Rejected tags added.
+- Komodo Health (#141): Web & GTM Engineer verified live on Built In — building and maintaining komodohealth.com in WordPress (custom themes, blocks, templates, plugins, ACF, REST API), $166K–$210K, remote US. Built In's own apply form starts with name/email and a Continue step. Full posting text is being pulled to build the tailored CV.
