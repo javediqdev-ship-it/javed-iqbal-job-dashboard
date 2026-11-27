@@ -741,3 +741,9 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — #64 Aretum Senior: filled in full, Turnstile-blocked → SELF-APPLY
 - Travel approved, CV #64 built and QA-passed, Workable form completed with all answers (degree Yes, 3-year US residency Yes, Section 508/WCAG and WordPress experience texts — all from his record). Submit blocked by Cloudflare Turnstile, the same failure as #13/#135. Tagged Self-apply with answers saved in the CV package.
+
+## 2026-11-27 — New-jobs rounds 1-2 (Muse, per Ali's instruction to find new jobs and keep applying)
+- Round 1 candidates (Steward #199, SiteCare #44, Lazy Dog #6) were already applied 26-27 Nov — dedupe against seen-jobs.md prevented duplicate applications. Dealervero #116 definitively closed (Saint Louis, partially remote/hybrid). Awesome Motive Jr WP Dev and MERAK Jr WP Dev verified NOT live; boberdoo not remote-only.
+- **BetterHelp — Full Stack Software Engineer — SUBMITTED 27 Nov 2026** via betterhelp.com/careers -> Greenhouse (job 5395576008). Confirmation: "Thank you for applying." Remote US, $110-160k posted. CV: cv/tailored/javed-iqbal-cv-betterhelp/
+- **Rankings.io — WebOps Specialist — SUBMITTED 27 Nov 2026** via careers.rankings.io (Teamtailor). Confirmation: "Thanks for applying — We have received your application and we will be reviewing it shortly." Fully remote, $65,000/yr entered. CV: cv/tailored/javed-iqbal-cv-rankings/
+- **Automattic — Experienced Software Engineer — SUBMITTED 27 Nov 2026** via automattic.com/work-with-us (Greenhouse). Confirmation: "Thank you for your submission." Worldwide remote; salary expectation USD 70,000/yr entered (bottom of posted $70-170k range, per Ali's pay rule). CV: cv/tailored/javed-iqbal-cv-automattic/
