@@ -631,3 +631,8 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — ClearCaptions (#211) HELD on the one-time skill list
 - Verified open on Built In 27 Nov 2026 with a reachable apply form, and the WordPress core is squarely on Javed's record. NOT applied: the stated requirements also include TypeScript, CI/CD and Salesforce integrations, none of which are confirmed for Javed, and no unconfirmed skill may be claimed. Held in New Jobs; it unlocks with the same one-time answers as Komodo Health (#141). No CV built yet, deliberately.
+
+## 2026-11-27 — Batch: Aquent/PBI-Gordon (#210) SELF-APPLY, Mercor Web Applications Developer REJECTED; Planeteria kor4e listing is #163 itself
+- Aquent (#210): live, fully remote (Kansas City preference only), WordPress central, but the route is Aquent's talent-portal sign-in and the role names Divi 5 (unconfirmed). Self-apply tag added under its own dashboard key.
+- Default Project / Mercor "Web Applications Developer": verified live 27 Nov 2026 — an AI-benchmark contract with no WordPress content. Rejected tag added.
+- The Planeteria Media "WordPress Web Developer" object on the dashboard is #163's own listing (same $75,000–$85,000 remote role, already applied 26 Nov 2026) — no duplicate application made.
