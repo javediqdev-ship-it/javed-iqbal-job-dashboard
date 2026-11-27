@@ -1,3 +1,5 @@
+> **Before editing `index.html` or deploying, read `AI-WORK-RULES.md` (repo root).** One AI at a time: check `.ai-lock.json`, pull latest `main` first, never push a stale `index.html`, never delete the Training section. Delete the lock when done.
+
 # Interview Trainer — Live Mock Interview Agent for Javed Iqbal
 
 > GitHub target path: `javed-iqbal-job-dashboard/skills/interview-trainer.md`
