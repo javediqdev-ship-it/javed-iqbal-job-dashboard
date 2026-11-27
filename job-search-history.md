@@ -611,3 +611,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: CrowdStrike, Crestpoint Solutions, Automattic REJECTED (closed / not WordPress roles)
 - Verified 27 Nov 2026: both Jooble listings are gone (infrastructure and Java roles in any case), and Automattic's own jobs list shows no open Happiness Engineer position. Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-27 — Batch: Frontline Education, Mannix Marketing REJECTED (closed), Twice As Nice REJECTED (SEO role)
+- Verified live 27 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
