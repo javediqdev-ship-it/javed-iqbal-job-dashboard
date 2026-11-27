@@ -620,3 +620,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: Redfish Technology, Muck Rack, Chamberlain Group REJECTED (not WordPress roles)
 - Verified live 27 Nov 2026 (Python/React stack, a marketing role, mobile/IoT work). Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-27 — Batch: Jobneticx unnamed, Method Media Intelligence, Maintec Technologies SELF-APPLY (live WordPress roles, routes blocked/dead)
+- Verified live 27 Nov 2026: all three are genuine WordPress roles, but none could be applied to from here — an anonymous forum post behind a verification wall, a Jooble/Appcast route blocked by a verification check, and a dead apply route landing on a generic search page. Dashboard Self-apply tags added. Nothing submitted.
