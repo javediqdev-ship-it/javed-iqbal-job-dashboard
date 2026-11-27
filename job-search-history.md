@@ -528,3 +528,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #112 Zortech Solutions REJECTED (not a WordPress role)
 - Verified live 26 Nov 2026: PHP Developer posting is a Laravel/CodeIgniter/Symfony framework role; no WordPress/CMS content. Dashboard Rejected tag added (key "Zortech Solutions"). Nothing submitted.
+
+## 2026-11-26 — #113 5centsCDN: CV ready, Manatal submission failed on the employer's side
+- PHP Developer verified live (WordPress explicitly part of the role). CV built and QA-passed after one fix (unconfirmed "Guzzle" removed from the prepared Hirevire answers). The legacy Manatal form was filled correctly and submitted three times (once by the user in the live browser); every attempt returned the employer's own error asking applicants to contact 5centsCDN Inc. Not submitted via Manatal. The employer's current Hirevire route is being attempted with the prepared answers.
