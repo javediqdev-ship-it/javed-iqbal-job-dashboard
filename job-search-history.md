@@ -571,3 +571,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — Batch: Accroid Inc, Ad Hoc REJECTED (not WordPress roles), American Unit REJECTED (closed)
 - All verified live 26 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-26 — Batch: AccuLynx, Betafeld REJECTED (not WordPress roles); Aretum Senior/Lead OPEN and WordPress-central
+- AccuLynx UI Engineer and Betafeld Frontend Developer verified live 26 Nov 2026 with no WordPress content. Dashboard Rejected tags added.
+- Aretum Senior Web Developer / Technical Lead (Contingent): live on Workable, $130K–$150K, remote, 5+ years WordPress required, US citizens only (Javed qualifies), Public Trust eligibility, contingent on contract award. Workable form reachable with no sign-in or verification check; résumé required; screening questions cover citizenship, bachelor's degree, WordPress experience and Section 508/WCAG — all answerable from his confirmed record. Tailored CV build and submission in progress.
