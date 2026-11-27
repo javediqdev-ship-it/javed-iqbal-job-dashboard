@@ -585,3 +585,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: Tripoint Solutions, Triumph Enterprises REJECTED (closed), Sharetec Systems REJECTED (not a WordPress role)
 - Verified live 27 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-27 — Batch: PhotoShelter REJECTED (not a WordPress role), NextStep and WeCare REJECTED (closed)
+- Verified live 27 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
