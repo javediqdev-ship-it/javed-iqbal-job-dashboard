@@ -582,3 +582,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 ## 2026-11-27 — Batch: Calendly, Coinbase, Leidos (UI/UX) REJECTED (closed)
 - All three verified 27 Nov 2026: Calendly and Coinbase listings gone from Jooble and absent from the employers' own careers pages. The Leidos UI/UX role is marked no longer available on ClearanceJobs; Leidos's own careers site stays behind a human-verification check the browser cannot clear (same wall as #70), so that tag rests on the board's notice. Dashboard Rejected tags added. Nothing submitted.
 - Process note: this batch took 26 minutes, most of it spent retrying the Leidos verification check. The user instructed on 27 Nov 2026: work carefully and do not get stuck in one place. Rule added to skills/job-search-rules.md: if a site blocks a check, record it as unverifiable and move on; never spend more than a few minutes on one job.
+
+## 2026-11-27 — Batch: Tripoint Solutions, Triumph Enterprises REJECTED (closed), Sharetec Systems REJECTED (not a WordPress role)
+- Verified live 27 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
