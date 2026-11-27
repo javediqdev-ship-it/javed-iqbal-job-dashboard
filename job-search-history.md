@@ -510,3 +510,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #82 PRIMUS REJECTED (closed)
 - The PRIMUS Dice posting is gone and the role is absent from PRIMUS's own careers page. It is the same shared client requirement as #154/#74/#109 (verified identical twins at Apptad and CYNET), already covered by their Self-apply tags. Added to Rejected with the reason. Nothing submitted.
+
+## 2026-11-26 — #84 Kforce (Dice) REJECTED (closed)
+- Senior WordPress Developer verified gone on 26 Nov 2026 (Dice and Kforce's own job search). Recorded as closed in files only — the dashboard's Kforce object is a different job (Web Application Developer), so no Rejected tag was set. Nothing submitted.
