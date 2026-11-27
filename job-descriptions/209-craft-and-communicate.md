@@ -74,3 +74,8 @@ How to Apply: apply through the Craft & Communicate careers page and include you
 ## Why it fits
 
 Build and maintain responsive WordPress websites, custom themes/advanced site customisation, 5+ years; senior hands-on role (not management). Design + development mix, not pure development.
+
+## Application (27 Nov 2026)
+
+- **APPLIED 27 Nov 2026** via the employer careers form https://craftandcommunicate.com/careers/ with tailored CV `Javed_Iqbal_CV_209.pdf` (md5-verified copy, title "Senior Web Developer & Designer", 2 pages, US Letter). Position, 11 years experience, State Texas, desired rate "20 per hour (USD)", LinkedIn and portfolio links, phone (512) 325-6111. Confirmation: thank-you page "Thank you for contacting us; we will be in touch as soon as possible. - Jen". No reference number.
+- Caveat recorded: Indeed posting showed "This job has expired on Indeed" and the employer careers page has no individual listing for this role — the form is a general expression-of-interest form, used because the posting's own How to Apply directs applicants there with resume, pay requirements and portfolio. The $30-32/hr, remote, full-time details rest on the Indeed/mirror copies, not the employer page.

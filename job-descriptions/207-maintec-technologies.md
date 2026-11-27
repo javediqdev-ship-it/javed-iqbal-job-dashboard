@@ -29,3 +29,8 @@ WordPress Application Developer — Required Skills:
 ## Why it fits
 
 Enterprise WordPress application developer — WordPress supported by MS SQL Server databases, PHP, HTML5/CSS3/JavaScript, React, ADA/Section 508 compliance, Azure Active Directory-secured extranets/intranets. Strong skill match for Javed's custom-development profile. Caveat: staffing firm (Maintec Technologies, Bengaluru/Raleigh NC); end client unnamed — description says previous experience developing applications for a state legislature is preferred, so the client is a US state legislature. Java/MS SQL Server mix.
+
+## Verification (live browser, 27 Nov 2026)
+
+- **NOT VERIFIED — DO NOT APPLY.** Jooble listing is live (posted 26 Nov 2026, Remote, long-term, no pay listed) but Maintec's own site has NO listing for this role: careers page lists 11 other roles, US Job Openings page shows a blank listings area, and no maintec.com page for this role exists in search. Jooble Apply routes via Appcast to Lensa (another aggregator, $48-59K/yr estimate — not employer pay), and the Lensa detail page is blocked by a Cloudflare human-verification check that resets after each successful check, so no apply form could be reached.
+- CV #207 was built (2 pages, QA-checked, no Java or Microsoft SQL Server claimed) but not used. No application made.

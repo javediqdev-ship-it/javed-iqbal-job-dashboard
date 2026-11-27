@@ -596,6 +596,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - Karat (interview platform, Ruby/Python/TypeScript) and SeatGeek FanX AI (live on its Greenhouse board, TypeScript/Python/Next.js) verified 27 Nov 2026 with no WordPress content. Dashboard Rejected tags added.
 - Kinsta Support Engineer: full posting read 27 Nov 2026. WordPress support at a WordPress host; the only hard requirements are fluent English and customer-service experience, both on Javed's record. All technical items (WordPress structure, MySQL/MariaDB, PHP, DNS, CDN/caching, WP-CLI, Linux command line) sit under Bonus Points, so nothing unconfirmed needs claiming — WP-CLI and command line simply stay unclaimed. Kinsta hires in the USA (US healthcare and 401k listed). Lever form reachable with no sign-in or verification check. Tailored CV build and submission in progress.
 
+
 ## 2026-11-27 — #61 Kinsta SELF-APPLY (verification wall)
 - Lever form filled in full and CV uploaded successfully, but Lever's human verification never accepted the automated browser's clearances (many correctly solved rounds, same error banner). Per the standing pattern for verification-blocked filled applications, marked Self-apply on the dashboard. All answers saved in cv/tailored/javed-iqbal-cv-kinsta/application-texts.md. Submissions stay at 20.
 
@@ -611,6 +612,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: CrowdStrike, Crestpoint Solutions, Automattic REJECTED (closed / not WordPress roles)
 - Verified 27 Nov 2026: both Jooble listings are gone (infrastructure and Java roles in any case), and Automattic's own jobs list shows no open Happiness Engineer position. Dashboard Rejected tags added. Nothing submitted.
+
 
 ## 2026-11-27 — Batch: Frontline Education, Mannix Marketing REJECTED (closed), Twice As Nice REJECTED (SEO role)
 - Verified live 27 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
@@ -647,3 +649,11 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Dashboard state correction
 - Found and fixed a tagging error: 5centsCDN (#113) was listed under Applied, but it is a Self-apply job (Hirevire video interview) — its Applied entry was removed; the Self-apply entry stays. Planeteria Media (#163, submitted 26 Nov 2026) was missing from Applied and has been added. The Applied list is back to the correct 20 submissions. Also fixed the WPMU DEV rejected tag to use the job's own dashboard key, and added the missing Rejected entry for the dead Talent Groups Jobfound listing.
+
+## 2026-11-27 — #209 Craft & Communicate APPLIED; #206/#207/#208 DO NOT APPLY; #211/#210 HELD
+- #209 Senior Web Developer & Designer — APPLIED 27 Nov 2026 via the employer careers form with CV #209 (2 pages, QA-checked; desired rate 20/hr USD; phone 512-325-6111; reCAPTCHA cleared). Thank-you page confirmed, no reference number. Caveat: Indeed posting showed expired and the employer page lists no individual role — general form used per the posting's own How to Apply.
+- #206 WordPress Developer, Method Media Intelligence — verified live 27 Nov 2026 on the employer site (methodmi.com/jobs/wordpress-developer/) but listed ON-SITE, not remote. Jooble/Lensa call it remote; the employer does not. DO NOT APPLY — fails the remote-only rule.
+- #208 Web Designer/Developer, Wenning Branding — verified live 27 Nov 2026: no employer listing (/careers 404), Indeed no results, Trabajo says expired/removed. DO NOT APPLY. CV #208 built but not used.
+- #207 WordPress Developer, Maintec Technologies — verified live 27 Nov 2026: Jooble live but no listing on Maintec's own site; Jooble Apply routes to Lensa, whose detail page is blocked by a Cloudflare check that resets. DO NOT APPLY. CV #207 built but not used.
+- #211 Sr. Web Platform Engineer, ClearCaptions — verified live on Built In 27 Nov 2026 (100% remote, $120,000-139,000 + 5% bonus) and application started via Dayforce (Req #2338): CV #211 uploaded, personal info saved, no pay field encountered. HELD at the References step — Dayforce requires business and mobile phone numbers for reference Ghulam Qadir, and no phone is on file for him. Waiting on Javed to supply the numbers; nothing invented, nothing submitted.
+- #210 WordPress Developer & Website Support Specialist, Aquent — verified live on aquent.com 27 Nov 2026 (Remote, $50-65/hr, start 4 Jan 2027). Application started via Aquent Talent quick-apply; HELD at the email verification step — a 6-digit code was sent to javediqdev@gmail.com and is needed to continue. CV #210 built (2 pages, no Divi 5/HubSpot/REST API/WP Engine/Wrike claimed).

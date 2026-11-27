@@ -34,3 +34,9 @@ If you are a strong builder who cares about performance, conversions, and execut
 ## Why it fits
 
 Main experience WordPress + Go HighLevel; build, maintain and optimise high-performance sites for small businesses; speed, accuracy and problem-solving matter; builds sometimes due within a week. Javed's 11 years of WordPress and 100+ sites fit directly; Go HighLevel is adjacent (Upastra runs a GHL niche team). Live portfolio URLs the candidate personally built are required — Javed has these. Caveats: design-heavy hybrid role (developer AND designer), not pure development; 1099 contractor, hourly/project-based, not full-time employment.
+
+## Verification (live browser, 27 Nov 2026)
+
+- **NOT VERIFIED AS OPEN — DO NOT APPLY.** Employer site wenningbranding.com has no listing for this role: /careers returns 404, no careers/jobs link, no job page in sitemaps, site search for "careers" returns the home page. Contact page lists only info@wenningbranding.com — careers@wenningbranding.com appears only in the mirror/Indeed-derived text and is NOT confirmed on the employer site.
+- Indeed search for "Wenning Branding" returns no results. Trabajo.org copy states: "This job is no longer available — The job offer has expired or has been removed by the employer." No LinkedIn job listing found. The Remotescape mirror still shows the posting but its Apply button leads to another mirror, not the employer.
+- CV #208 was built (2 pages, QA-checked, no Go HighLevel claimed) but not used. No application made, no email sent.
