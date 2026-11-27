@@ -735,3 +735,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - **WPMU DEV Sales Support** — Ali decided 27 Nov: SELF-APPLY (task sheet tests the candidate's own writing).
 - **Closed, skipped per Ali's rule:** Talent Groups (#106), Mondo (#121), Ad Hoc (#98), Prestige Staffing (#119), Zortech (#166), MD Integrations (#167), Air Apps (#72). Dealervero (#116) blocked at Lensa human verification, form never reached.
 - Confirmed facts added 27 Nov: real address 805 Central Dr, Apt 139, Bedford, TX 76022; BS graduation July 2015; last pay at Rising USD 22/hr; Javed has left Rising, joins immediately; MRPT clearance obtainable: Yes.
+
+## 2026-11-27 — Travel answer: YES (user decision)
+- Occasional travel is acceptable. The travel-held jobs are released: Aretum Senior #64 (first), Edconic #140, Biondo #188, Aretum JSA #167.
