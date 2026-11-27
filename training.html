@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="color-scheme" content="light dark" />
+<link rel="icon" href="data:," />
+<title>Interview Training — Javed Iqbal</title>
+<meta name="description" content="Live, real-interview based mock interview training for Javed Iqbal, WordPress Developer. Voice-first, with ClearCaptions #211 prep." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    color-scheme: light dark;
+    --bg:#F5F3FA; --surface:#FFFFFF; --surface-2:#FBFAFE; --ink:#1D1533; --ink-2:#4E4669;
+    --muted:#8B84A6; --line:#E6E0F3; --brand:#6D28D9; --brand-strong:#5B21B6; --brand-deep:#2A1650;
+    --brand-soft:#EFE8FC; --green:#0E9F6E; --green-soft:#E2F6EC; --amber:#D97706; --amber-soft:#FCF0DC;
+    --red:#DC2626; --red-soft:#FBE7E7; --blue:#2563EB; --blue-soft:#E4ECFD;
+    --shadow:0 1px 2px rgba(42,22,80,.05),0 10px 30px -14px rgba(42,22,80,.14); --radius:14px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#100A20; --surface:#1B1332; --surface-2:#211941; --ink:#F3F0FC; --ink-2:#C9C2E4;
+      --muted:#9A90BE; --line:#2D2353; --brand:#A78BFA; --brand-strong:#C4B5FD; --brand-soft:#2C1E55;
+      --green:#34D399; --green-soft:#123B2D; --amber:#FBBF24; --amber-soft:#3D2C0E;
+      --red:#F87171; --red-soft:#3E1A1E; --blue:#7FB0FF; --blue-soft:#1B2C52; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:"Plus Jakarta Sans",system-ui,sans-serif;font-size:15px;line-height:1.55}
+  a{color:var(--brand);text-decoration:none} a:hover{text-decoration:underline}
+  .wrap{max-width:980px;margin:0 auto;padding:0 20px 60px}
+  header{background:var(--brand-deep);color:#fff;padding:36px 0 30px}
+  header h1{font-size:clamp(28px,5vw,40px);margin:0;letter-spacing:-.01em}
+  header p{color:#D9CFF5;margin:8px 0 0;max-width:720px}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+  .chips span{border:1px solid rgba(255,255,255,.28);border-radius:999px;padding:6px 12px;font-size:13px;font-weight:600;background:rgba(255,255,255,.06)}
+  nav{margin:18px 0 0;display:flex;flex-wrap:wrap;gap:8px}
+  nav a{background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:8px 14px;font-weight:600;font-size:13.5px}
+  section{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:22px;margin-top:16px}
+  h2{font-size:20px;margin:0 0 10px} h3{font-size:16px;margin:18px 0 8px}
+  p{margin:8px 0} ul,ol{margin:8px 0;padding-left:22px} li{margin:5px 0}
+  .callout{background:var(--brand-soft);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:12px 0}
+  .warn{background:var(--amber-soft);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:12px 0}
+  .good{background:var(--green-soft);border-radius:12px;padding:14px 16px;margin:12px 0}
+  .tag{display:inline-block;font-size:12px;font-weight:700;padding:3px 9px;border-radius:999px;background:var(--brand-soft);color:var(--brand-strong)}
+  .tag.held{background:var(--amber-soft);color:var(--amber)}
+  .mono{font-family:"IBM Plex Mono",monospace;font-size:13.5px}
+  details{border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin:10px 0;background:var(--surface-2)}
+  details summary{cursor:pointer;font-weight:700;min-height:32px}
+  details p, details ul{margin:8px 0}
+  table{width:100%;border-collapse:collapse;font-size:14px;margin-top:10px}
+  th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--muted);font-size:12.5px;text-transform:uppercase;letter-spacing:.04em}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media (max-width:700px){ .grid{grid-template-columns:1fr} }
+  footer{color:var(--muted);font-size:13px;padding:22px 0}
+  .btn{display:inline-block;background:var(--brand);color:#fff !important;border-radius:10px;padding:11px 18px;font-weight:700;text-decoration:none}
+  .btn:hover{text-decoration:none;opacity:.92}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap" style="padding-bottom:0">
+    <h1>Interview Training</h1>
+    <p>Javed Iqbal — WordPress Developer, Bedford, Texas, USA. Remote only, US citizen.<br />
+    <strong>Real-interview based training — not just skill improvement.</strong> Every session simulates a full real interview, in real-interview order and pressure.</p>
+    <div class="chips"><span>11 years WordPress</span><span>100+ websites</span><span>Remote only</span><span>Voice-first</span></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <nav>
+    <a href="./index.html">← Back to Job Dashboard</a>
+    <a href="https://javed-iqbal-portfolio.vercel.app/">Portfolio</a>
+    <a href="https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard/blob/main/skills/interview-trainer.md">Trainer skill on GitHub</a>
+    <a href="https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard/blob/main/interview-prep/prep-211-clearcaptions.md">Prep pack #211</a>
+  </nav>
+
+  <section>
+    <h2>How the live meeting works — best option first</h2>
+    <div class="callout"><strong>Best: voice call here in Muse.</strong> A real interview is spoken, timed, and under pressure. Voice trains timing, follow-ups, handling “I don’t know” out loud, English fluency and confidence. This page is the companion — prep before, record after — it does not replace the live voice interview.</div>
+    <ol>
+      <li><strong>Start the voice call in Muse</strong> and say “ClearCaptions mock interview shuru karo” — or pick another target job.</li>
+      <li><strong>30–45 minutes, one job per meeting.</strong> One question at a time, with follow-ups, just like a real panel.</li>
+      <li><strong>After each answer:</strong> score 1–5, 2–3 concrete fixes, then retry the same question better.</li>
+      <li><strong>At the end:</strong> hiring verdict — hire / borderline / no-hire — 3 strengths, 3 fixes, and the exact 3 questions to practise next.</li>
+    </ol>
+    <p>Can’t do voice right now? Text mock in chat is the fallback — same flow, timed answers. <a class="btn" href="https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard/blob/main/skills/interview-trainer.md">Read the trainer skill →</a></p>
+  </section>
+
+  <section>
+    <h2>Target job — #211 ClearCaptions <span class="tag held">HELD — not applied yet</span></h2>
+    <p><strong>Sr. Web Platform Engineer, 100% remote, full-time, senior level</strong><br />
+    ClearCaptions — FCC-certified telephone captioning for people with hearing loss, founded 2011, HQ Antioch, TN, 273 employees.<br />
+    <strong>Pay: $120,000–$139,000 + 5% bonus.</strong> Posted 25 Nov 2026, verified live 27 Nov 2026. Score 8/10.<br />
+    Source: <a href="https://builtin.com/job/sr-web-platform-engineer-100-remote/12462065">Built In</a></p>
+    <div class="warn"><strong>Salary rule for this job: leave the pay field blank.</strong> Do NOT enter $41,600 — the employer’s range is far above Javed’s $20/hour = $3,200/month = $41,600/year rate. In conversation, discuss within their range for this senior role.</div>
+    <p><strong>What they want:</strong> advanced WordPress (custom themes, plugins, APIs, integrations), PHP, JavaScript/TypeScript, HTML5, CSS/SCSS, REST APIs, Git, CI/CD, Salesforce, analytics / attribution, GTM/GA4, consent management, WCAG, Core Web Vitals, technical SEO, WooCommerce, mentoring + leading technical standards. 5+ years required. No sponsorship — not a blocker, Javed is a US citizen.</p>
+    <p><strong>Next candidate:</strong> #212 Saxon Global — Headless WordPress / Next.js Developer, $50–$55/hr, remote, posted 3 Nov 2026, verified live 27 Nov 2026. Its full prep pack will be built only from its full job-description file — headless / Next.js is a gap area, same honest-bridge rule as below.</p>
+  </section>
+
+  <section>
+    <h2>Full real interview — what every session covers</h2>
+    <p>Not only technical questions. In real-interview order:</p>
+    <table>
+      <tr><th>Stage</th><th>Time</th><th>What happens</th></tr>
+      <tr><td>Opening / small talk</td><td>2 min</td><td>Greeting, audio/camera check, warm-up</td></tr>
+      <tr><td>HR + intro</td><td>5–8 min</td><td>Tell me about yourself, why this role / company, why leaving, salary, remote, availability, authorisation</td></tr>
+      <tr><td>Technical + portfolio + scenarios</td><td>20–25 min</td><td>WordPress deep dive, portfolio walkthrough, live debugging / scenarios, performance, security, accessibility, SEO, GA4/GTM</td></tr>
+      <tr><td>Behavioural + architecture</td><td>5–8 min</td><td>STAR stories, mentoring, stakeholders, first 30 / 90 days on their platform</td></tr>
+      <tr><td>Your questions + closing</td><td>5 min</td><td>Javed’s questions for them, closing, next steps, follow-up note</td></tr>
+      <tr><td>Verdict + feedback</td><td>5 min</td><td>Scores, hire / borderline / no-hire, 3 strengths, 3 fixes, homework</td></tr>
+    </table>
+    <p><strong>Scoring:</strong> 1 = vague / no example, 3 = clear + one real example, 5 = clear + quantified example + what you would do in <em>their</em> stack.</p>
+  </section>
+
+  <section>
+    <h2>10 likely questions — ClearCaptions #211</h2>
+    <p>Tap a question to see the structure to practise — not a script to memorise. Answer in your own words, with a real example.</p>
+
+    <details><summary>1. Tell me about yourself — 60–90 seconds</summary><p>WordPress-first. 11 years, 100+ sites, Development Manager at Rezolvemed and Rising Revenue Solutions. End with why ClearCaptions / this platform role fits.</p></details>
+    <details><summary>2. Walk me through your portfolio — 100 sites</summary><p>918 checked, best 100 chosen, 94 WordPress / 6 custom, 32 categories. Pick 2–3 sites and go deep: what you built, what problem it solved, what you would improve now.</p></details>
+    <details><summary>3. How do you build a custom WordPress theme / plugin from scratch?</summary><p>One real example. Requirements → architecture → custom post types / fields → security / sanitisation → testing → deployment. Name the project.</p></details>
+    <details><summary>4. How do you handle site speed and Core Web Vitals on a heavy WordPress site?</summary><p>Measure first (what tool, what metric), then the fixes in order: caching, images, CSS/JS, fonts, hosting, database. Give a before / after example.</p></details>
+    <details><summary>5. How do you approach WordPress security, backups and maintenance?</summary><p>Hardening, updates, backups (frequency + restore test), monitoring, what you do when a site is compromised. Real routine, not a list.</p></details>
+    <details><summary>6. Tell me about a time you mentored a developer or set a technical standard</summary><p>STAR: situation, what you changed, what the developer / team did differently after, what the result was. This is a strength — lead with a named example.</p></details>
+    <details><summary>7. How have you connected WordPress to an external system via REST API?</summary><p>Lead capture, routing, data quality. Then the honest bridge to Salesforce — see Gap drills below. Do not claim Salesforce if you have not done it.</p></details>
+    <details><summary>8. How do you implement GA4 / GTM, attribution and consent management?</summary><p>GTM setup, GA4 events, attribution, consent mode. Flag OneTrust / server-side GTM honestly: concepts vs hands-on depth — confirm before claiming.</p></details>
+    <details><summary>9. How do you make a site WCAG-accessible, and how do you test it?</summary><p>Semantic HTML, keyboard, contrast, focus, forms, alt text. How you test: tools + manual keyboard / screen-reader checks. Give one fix you actually made.</p></details>
+    <details><summary>10. What would you do in your first 30 days on our platform?</summary><p>Listen first: audit the platform, themes/plugins, performance, security, accessibility, analytics, CI/CD. Then quick wins, then the 90-day plan. Ask them what their pipeline looks like.</p></details>
+  </section>
+
+  <section>
+    <h2>Gap drills — answer honestly, never claim what is not confirmed</h2>
+    <p>Structure for every gap: (1) closest real work I <em>have</em> done, (2) what is new here, (3) my 30-day plan to deliver it.</p>
+    <div class="grid">
+      <div class="warn"><strong>TypeScript</strong><br />“My production work is JavaScript and PHP. I have not shipped production TypeScript. I read it comfortably and work with structured JS — here is how I would ramp in week one.”</div>
+      <div class="warn"><strong>CI/CD</strong><br />Talk Git workflow, staging → production, release discipline, code review. Then ask them how their pipeline works — turn the gap into a question.</div>
+      <div class="warn"><strong>Salesforce</strong><br />“I have built WordPress ↔ external-system integrations with REST APIs — lead capture, routing, data quality. Salesforce itself is new to me. Here is how I would approach the first integration, step by step.”</div>
+      <div class="good"><strong>Strengths to lead with</strong><br />Custom themes, plugins, custom dashboards; WooCommerce, Elementor, ACF, Gutenberg; site speed, security, maintenance; Development Manager at two companies.</div>
+    </div>
+    <p class="mono">Rule: honest bridge, never a false claim. TypeScript, CI/CD, Salesforce, Python, Docker and Divi need Javed’s one-time confirmation before they are claimed anywhere.</p>
+  </section>
+
+  <section>
+    <h2>Questions Javed should ask them</h2>
+    <ul>
+      <li>How is the WordPress platform structured today — multisite, headless, or classic themes?</li>
+      <li>What does the CI/CD pipeline look like, and who owns releases?</li>
+      <li>How do Marketing, IT and Legal work with the web team on consent / accessibility?</li>
+      <li>What does success look like in the first 90 days?</li>
+    </ul>
+    <h3>Before the live session — checklist</h3>
+    <ul>
+      <li>Target job confirmed (default: #211 ClearCaptions)</li>
+      <li>Interview type known: HR screen / technical / panel / hiring-manager</li>
+      <li>“Tell me about yourself” practised out loud, 60–90 seconds</li>
+      <li>2 portfolio sites ready to walk through, with a real example each</li>
+      <li>Gap answers ready: TypeScript, CI/CD, Salesforce — honest bridge, not a claim</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Session log</h2>
+    <table>
+      <tr><th>Date</th><th>Job</th><th>Mode</th><th>Verdict</th><th>Top fix</th></tr>
+      <tr><td>27 Nov 2026</td><td>—</td><td>—</td><td>—</td><td>Trainer skill + this page created. No live session held yet — waiting on target job, interview date/type, and live meeting time/mode.</td></tr>
+    </table>
+    <p>Full log: <a href="https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard/blob/main/interview-prep/interview-log.md">interview-prep/interview-log.md</a> on GitHub. After every session the trainer updates this page, the prep pack, and the log together.</p>
+  </section>
+
+  <footer>
+    <div class="wrap" style="padding:0">
+      <span>© 2026 Javed Iqbal — Interview Training, real-interview based. Living page — updated with every new job description, answer, and piece of interview feedback. Source of truth: <span class="mono">skills/interview-trainer.md</span> on GitHub. No street address, no portfolio password, and no tokens on this page.</span>
+    </div>
+  </footer>
+</div>
+</body>
+</html>
