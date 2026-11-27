@@ -495,3 +495,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #71 IT Coalition REJECTED (not a WordPress role)
 - Verified live 26 Nov 2026: no WordPress Developer role exists at ITC Federal; its live Web Developer role is C#/.NET/ASP.NET Core with no WordPress content. Added to Rejected with the reason. Nothing submitted.
+
+## 2026-11-26 — #72 Swingtech REJECTED (closed)
+- WordPress Developer verified gone on 26 Nov 2026 (Jooble and Swingtech's own careers board). Added to Rejected with the reason. Nothing submitted.
