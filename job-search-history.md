@@ -666,3 +666,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - Limble: the audit had restored it with an Indeed Malaysia link; re-verified 27 Nov 2026 — expired on Indeed and absent from Limble's own careers page. Rejected tag re-added.
 - Saxon Global (#212, Headless WordPress / Next.js): the Remotive link is dead (404); a Lensa mirror still shows it open, but the role is roughly half Next.js/TypeScript headless work, and headless WordPress and Next.js are both unconfirmed for Javed. Held in New Jobs on the one-time skill list.
 - The "Remote Services Inc." dashboard listing resolves to Wing Assistant's own Lever board (jobs.lever.co/getwingapp): a live, genuine WordPress Developer role with a reachable form. Full posting read and application workflow started.
+
+## 2026-11-27 — Wing Assistant (#101, listed as Remote Services Inc.) SELF-APPLY
+- Form mapped in full 27 Nov 2026. It cannot be completed truthfully by anyone but Javed: required uploads are screenshots of his own main and backup internet speeds and his computer specifications; it also asks his current monthly salary (not on file) and personal commitments (screen monitoring, VA/admin tasks, client phone calls). Marked Self-apply with the reason on the dashboard. No CV built, deliberately.
