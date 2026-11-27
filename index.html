@@ -633,6 +633,10 @@
         Interviews
         <span class="count" data-count="interviews">0</span>
       </button>
+      <button class="nav-item" data-nav="training">
+        <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v1a7 7 0 0 1-14 0v-1"/><path d="M12 18v4"/></svg>
+        Interview Training
+      </button>
       <button class="nav-item" data-nav="cvs">
         <svg class="ic" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8Z"/><path d="M14 2v6h6M9 13h6M9 17h6"/></svg>
         CVs
@@ -954,6 +958,7 @@
             <h4>No interviews scheduled yet</h4>
             <p>This is the goal of the whole dashboard. When an interview is booked, it will appear here with the date, the time in Texas time, the company, and a link to your preparation document for that interview.</p>
             <div class="e-tags"><span>Date &amp; time</span><span>Company</span><span>Prep document</span><span>Texas time</span></div>
+            <p style="margin-top:14px"><button type="button" class="ghost-btn" data-goto-view="training">Practise now — Interview Training &rarr;</button></p>
           </div>
           <div class="empty" id="intNoResults" hidden>
             <div class="e-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg></div>
@@ -1016,6 +1021,83 @@
         </div>
       </section>
 
+      <!-- ============ INTERVIEW TRAINING ============ -->
+      <section class="view" id="view-training">
+        <div class="panel" style="margin-bottom:16px">
+          <div class="panel-head">
+            <div>
+              <h3>Interview Training — real-interview based, for any company</h3>
+              <div class="p-sub">Not just skill improvement. Every session simulates a full real interview, in real-interview order and pressure — and trains you to pass an interview at any company you applied to, not one job only.</div>
+            </div>
+          </div>
+          <ul class="rules">
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Best: live voice mock interview here in Muse, 30–45 minutes, one job per meeting.</b> Say “mock interview shuru karo” on a voice call. One question at a time, score 1–5 after each answer, 2–3 fixes, then retry the same question. Text mock in chat is the fallback when voice is not possible.</span></li>
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Full real interview, every session:</b> opening / small talk, Tell me about yourself, HR screen (why this role/company, why leaving, salary, remote-only, availability, work authorisation), technical deep dive, portfolio walkthrough, live scenarios / debugging, behavioural STAR stories, system / architecture, mentoring and stakeholders, handling “I don’t know”, your questions for them, closing and next steps, salary negotiation, and follow-up.</span></li>
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>General, not one job:</b> each session uses one job as the example and teaches the core that transfers everywhere — the same intro, technical answers, 5 STAR stories and salary answers, adapted in 2–3 lines to that company. End of session: hiring verdict (hire / borderline / no-hire), 3 strengths, 3 fixes, exact 3 questions to practise next.</span></li>
+          </ul>
+          <p style="margin-top:12px"><a href="training.html">Open the full training page &rarr;</a> &nbsp;·&nbsp; <a href="https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard/blob/main/skills/interview-trainer.md">Trainer skill on GitHub</a> &nbsp;·&nbsp; <a href="https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard/blob/main/interview-prep/general-bank.md">General interview bank</a></p>
+        </div>
+
+        <div class="panel" style="margin-bottom:16px">
+          <div class="panel-head">
+            <div>
+              <h3>Target job for the next session — #211 ClearCaptions</h3>
+              <div class="p-sub">Sr. Web Platform Engineer, 100% remote, full-time, senior level · $120,000–$139,000 + 5% bonus · Posted 25 Nov 2026 · Score 8/10 · HELD, not applied yet</div>
+            </div>
+          </div>
+          <ul class="rules">
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span>Builds and scales WordPress websites, integrations and marketing-technology systems. Custom themes, plugins, APIs and integrations; PHP, JavaScript/TypeScript, HTML5, CSS/SCSS, REST APIs, Git; CI/CD, Salesforce, analytics, GTM/GA4, consent management, WCAG, Core Web Vitals, technical SEO; WooCommerce; mentors developers and leads technical standards.</span></li>
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Salary rule for this job: leave the pay field blank.</b> Do NOT enter $41,600 — the employer’s range is far above Javed’s $20/hour rate. In conversation, discuss within their range for this senior role.</span></li>
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Why it is held:</b> TypeScript, CI/CD and Salesforce are unconfirmed for Javed. Train the honest bridge — closest real work, what is new, 30-day plan — never a false claim. Next candidate: #212 Saxon Global, Headless WordPress / Next.js Developer, $50–$55/hr, remote, posted 3 Nov 2026.</span></li>
+          </ul>
+        </div>
+
+        <div class="panel" style="margin-bottom:16px">
+          <div class="panel-head">
+            <div>
+              <h3>10 likely questions — ClearCaptions #211</h3>
+              <div class="p-sub">Tap a question to see the structure to practise. Answer in your own words, with a real example.</div>
+            </div>
+          </div>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">1. Tell me about yourself — 60–90 seconds</summary><p>WordPress-first. 11 years, 100+ sites, Development Manager at Rezolvemed and Rising Revenue Solutions. End with why ClearCaptions / this platform role fits.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">2. Walk me through your portfolio — 100 sites</summary><p>918 checked, best 100 chosen, 94 WordPress / 6 custom, 32 categories. Pick 2–3 sites and go deep: what you built, what problem it solved, what you would improve now.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">3. How do you build a custom WordPress theme / plugin from scratch?</summary><p>One real example. Requirements → architecture → custom post types / fields → security / sanitisation → testing → deployment. Name the project.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">4. How do you handle site speed and Core Web Vitals on a heavy WordPress site?</summary><p>Measure first, then fixes in order: caching, images, CSS/JS, fonts, hosting, database. Give a before / after example.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">5. How do you approach WordPress security, backups and maintenance?</summary><p>Hardening, updates, backups (frequency + restore test), monitoring, what you do when a site is compromised. Real routine, not a list.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">6. Tell me about a time you mentored a developer or set a technical standard</summary><p>STAR: situation, what you changed, what the developer / team did differently after, what the result was. This is a strength — lead with a named example.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">7. How have you connected WordPress to an external system via REST API?</summary><p>Lead capture, routing, data quality. Then the honest bridge to Salesforce — see Gap drills below. Do not claim Salesforce if you have not done it.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">8. How do you implement GA4 / GTM, attribution and consent management?</summary><p>GTM setup, GA4 events, attribution, consent mode. Flag OneTrust / server-side GTM honestly: concepts vs hands-on depth — confirm before claiming.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">9. How do you make a site WCAG-accessible, and how do you test it?</summary><p>Semantic HTML, keyboard, contrast, focus, forms, alt text. How you test: tools + manual keyboard / screen-reader checks. Give one fix you actually made.</p></details>
+          <details style="border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0"><summary style="cursor:pointer;font-weight:700">10. What would you do in your first 30 days on our platform?</summary><p>Listen first: audit the platform, themes/plugins, performance, security, accessibility, analytics, CI/CD. Then quick wins, then the 90-day plan. Ask them what their pipeline looks like.</p></details>
+        </div>
+
+        <div class="panel" style="margin-bottom:16px">
+          <div class="panel-head">
+            <div>
+              <h3>Gap drills + general bank</h3>
+              <div class="p-sub">Honest bridge for every gap: closest real work → what is new → 30-day plan. Never a false claim.</div>
+            </div>
+          </div>
+          <ul class="rules">
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>TypeScript:</b> “My production work is JavaScript and PHP. I have not shipped production TypeScript. I read it comfortably — here is how I would ramp in week one.”</span></li>
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>CI/CD:</b> Git workflow, staging → production, release discipline, code review. Then ask them how their pipeline works.</span></li>
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>Salesforce:</b> “I have built WordPress ↔ external-system integrations with REST APIs. Salesforce itself is new to me — here is how I would approach the first integration, step by step.”</span></li>
+            <li><span class="r-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><span><b>General bank:</b> 5 STAR stories ready for any company — production bug, tight deadline, mentoring, difficult stakeholder, migration / rebuild. <a href="https://github.com/javediqdev-ship-it/javed-iqbal-job-dashboard/blob/main/interview-prep/general-bank.md">Open the general bank</a>. <b>Questions to ask them:</b> How is the platform structured? What does the CI/CD pipeline look like? How do Marketing, IT and Legal work with the web team? What does success look like in 90 days?</span></li>
+          </ul>
+        </div>
+
+        <div class="panel" style="margin-bottom:16px">
+          <div class="panel-head">
+            <div>
+              <h3>Session log</h3>
+              <div class="p-sub">One entry per live session. Full log on GitHub: interview-prep/interview-log.md</div>
+            </div>
+          </div>
+          <p><b>27 Nov 2026:</b> Trainer skill, training page and this dashboard section created. No live session held yet — start the first one on a voice call here in Muse.</p>
+          <p><b>Before the live session — checklist:</b> target job confirmed (default: #211 ClearCaptions) · “Tell me about yourself” practised out loud, 60–90 seconds · 2 portfolio sites ready to walk through · gap answers ready: TypeScript, CI/CD, Salesforce.</p>
+        </div>
+      </section>
+
       <!-- ============ JOB DETAIL ============ -->
       <section class="view" id="view-detail">
         <button class="back-btn" id="detailBack">
@@ -1054,6 +1136,10 @@
   <button data-nav="interviews">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
     Interviews
+  </button>
+  <button data-nav="training">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/><path d="M19 10v1a7 7 0 0 1-14 0v-1"/><path d="M12 18v4"/></svg>
+    Training
   </button>
   <button data-nav="cvs">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8Z"/><path d="M14 2v6h6M9 13h6M9 17h6"/></svg>
@@ -1938,6 +2024,7 @@
     rejected:  ["Rejected Jobs", "Jobs you decided not to apply to, each with its reason"],
     responses: ["Responses", "Replies from companies, newest first"],
     interviews:["Interviews", "Scheduled interviews and preparation documents"],
+    training: ["Interview Training", "Real-interview based training for any company you applied to — voice-first, live in Muse"],
     cvs:       ["CVs", "Master CV (base template only) and a tailored CV for each job, awaiting your approval"],
     detail:    ["Job Details", "Complete job information, source links and next steps"]
   };
