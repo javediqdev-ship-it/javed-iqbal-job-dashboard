@@ -738,3 +738,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Travel answer: YES (user decision)
 - Occasional travel is acceptable. The travel-held jobs are released: Aretum Senior #64 (first), Edconic #140, Biondo #188, Aretum JSA #167.
+
+## 2026-11-27 — #64 Aretum Senior: filled in full, Turnstile-blocked → SELF-APPLY
+- Travel approved, CV #64 built and QA-passed, Workable form completed with all answers (degree Yes, 3-year US residency Yes, Section 508/WCAG and WordPress experience texts — all from his record). Submit blocked by Cloudflare Turnstile, the same failure as #13/#135. Tagged Self-apply with answers saved in the CV package.

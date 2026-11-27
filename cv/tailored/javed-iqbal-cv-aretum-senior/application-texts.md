@@ -1,0 +1,9 @@
+# Application record — #64 Aretum, Senior Web Developer / Technical Lead (Contingent)
+
+Status 27 Nov 2026: form filled in full on Workable, but the submit was blocked by a Cloudflare Turnstile check (same failure as #13 and #135). NOT submitted. Tagged Self-apply: Javed submits himself from his own browser — https://jobs.workable.com/view/fDEP1KKu8bMXCvoGcK4U8y/remote-senior-web-developer%2Ftechnical-lead---contingent-in-mclean-at-aretum — with CV Javed_Iqbal_CV_64.pdf and the answers below.
+
+Answers used:
+- Bachelor's degree completed: YES (BS Software Engineering, University of Okara, 2011–2015)
+- US citizenship with at least 3 years of US residency: YES
+- Section 508 / WCAG text: "Across my WordPress work I build and check sites against WCAG accessibility requirements, which Section 508 incorporates: semantic page structure and heading order, full keyboard navigation, sufficient colour contrast, alt text for images, labelled form fields, and ARIA only where native HTML is not enough. I test pages with keyboard-only navigation and accessibility checking tools as part of development and build reviews, and fix the issues found before launch. This has been a standard part of my development and site-care work at Rising Revenue Solutions and Rezolvemed."
+- WordPress experience text: "I have worked in WordPress roles since 2015, completing 100+ websites. At Rezolvemed (2015–2021) I worked as WordPress Developer / Development Manager, and at Rising Revenue Solutions (2021–2026) as WordPress Development Manager. My work covers custom themes and plugins in PHP, Gutenberg blocks, Advanced Custom Fields, WooCommerce, WordPress REST API integrations, and responsive front-end development in HTML, CSS and JavaScript. I also handle performance and Core Web Vitals work, security, updates, backups and maintenance for live sites, and I lead delivery: reviewing builds and guiding developers on scoped tasks in parallel."
