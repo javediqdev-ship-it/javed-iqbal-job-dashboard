@@ -1,0 +1,3 @@
+# Application record — acculynx (#191)
+
+AccuLynx — UI Engineer — APPLIED 27 Nov 2026 via Paylocity with CV #191. Confirmation: 'Your application has been received!' (no reference number). Company phones from companies' own sites: Rising Revenue Solutions 726-230-7787, Rezolvemed 469-909-6020. Reason for leaving Rising: Seeking new remote opportunities. Rezolvemed: Accepted a new position at Rising Revenue Solutions. Graduation 06/2015. Addresses entered as 'Remote (street address on file)', Bedford, Tarrant County, TX 76021 — Javed's real street address is NOT on file and must be supplied/corrected before any offer or background-check stage. Rezolvemed May We Contact = No (Yes would have required inventing a supervisor).
