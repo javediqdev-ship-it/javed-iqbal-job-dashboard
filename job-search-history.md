@@ -628,3 +628,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - Wenning Branding (#208): live WordPress role, apply route behind a verification wall; Go HighLevel also named and unconfirmed. Self-apply tag added.
 - Craft & Communicate (#209): its only apply route (Indeed) states the job has expired. Rejected tag added.
 - ClearCaptions (#211) verified open and genuinely WordPress with a reachable Built In apply form — full application workflow started separately.
+
+## 2026-11-27 — ClearCaptions (#211) HELD on the one-time skill list
+- Verified open on Built In 27 Nov 2026 with a reachable apply form, and the WordPress core is squarely on Javed's record. NOT applied: the stated requirements also include TypeScript, CI/CD and Salesforce integrations, none of which are confirmed for Javed, and no unconfirmed skill may be claimed. Held in New Jobs; it unlocks with the same one-time answers as Komodo Health (#141). No CV built yet, deliberately.
