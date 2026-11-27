@@ -686,3 +686,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 ## 2026-11-27 — Restored-batch check 3: Crowd Favorite, Gemini REJECTED (still closed); Calendly reason corrected
 - Crowd Favorite (#143) and Gemini (#181): restored by the audit, re-verified 27 Nov 2026 — both still closed at source. Rejected tags re-added.
 - Calendly: the audit restored the Senior Full Stack Engineer (Website Development) role on a travel question, but the live check shows it is not a WordPress role at all (TypeScript/Astro/headless CMS). The dashboard's Calendly rejected reason was still the old Product Designer text; corrected to this role's verdict.
+
+## 2026-11-27 — Restored-batch check 4 (last): MD Integrations, Zortech, Ad Hoc REJECTED (not WordPress roles)
+- All three restored by the audit and re-verified live 27 Nov 2026 on their current links: Laravel backend work, a Laravel/CodeIgniter/Symfony framework role, and a Drupal role. Same verdicts as the 26 Nov checks. Rejected tags re-added. The restored batch of 12 is now fully processed: Limble, AON, Crowd Favorite, Gemini closed; Calendly not WordPress; Focus Financial hybrid (settled by the audit itself); Wing Assistant, Talent Groups, Zephyrline self-apply; these three not WordPress.
