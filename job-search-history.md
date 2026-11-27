@@ -534,3 +534,8 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #113 5centsCDN SELF-APPLY (video interview)
 - Hirevire (the employer's current route) emailed an application link that leads to a video interview — only Javed can record it. Marked Self-apply on the dashboard; prepared answers and the tailored CV are saved in the job record for him to use. Manatal had already failed on the employer's side (see the earlier entry).
+
+## 2026-11-26 — Batch: #116 Dealervero and #118 PERITUS REJECTED (not WordPress roles); #117 Melon Local pending own-site check
+- #116 Dealervero: verified live 26 Nov 2026 — front-end posting with no WordPress content. Dashboard Rejected tag added.
+- #118 PERITUS: verified live 26 Nov 2026 — Angular/TypeScript role, no WordPress. Dashboard Rejected tag added.
+- #117 Melon Local: verified live and genuinely WordPress (WordPress/Elementor/Divi), but the Jooble route runs through Lensa's human check, which will not clear from the cloud browser. Melon Local's own careers page is being checked before a final outcome.
