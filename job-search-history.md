@@ -542,3 +542,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #117 Melon Local REJECTED (closed)
 - The WordPress/Elementor/Divi front-end role is not on Melon Local's own careers board (only two unrelated Las Vegas roles are listed), and the Jooble copy's only route is Lensa's human check. Dashboard Rejected tag added. Nothing submitted.
+
+## 2026-11-26 — Batch: #119 BLN24, #120 Air Apps, #121 Hitachi REJECTED (not WordPress roles)
+- All three verified live and open on 26 Nov 2026, none with any WordPress content (React/Angular stacks). #120 Air Apps also states it is fully onsite in Lisbon despite the remote label. Dashboard Rejected tags added. Nothing submitted.
