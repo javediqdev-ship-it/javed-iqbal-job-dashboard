@@ -1,3 +1,5 @@
+> **STOP — READ FIRST: `AI-WORK-RULES.md` (repo root).** Two AIs share this repo. One AI at a time: check `.ai-lock.json` before editing `index.html` or deploying. Always pull latest `main` first — never push `index.html` from a stale copy. Never delete the Interview Training section (`view-training`).
+
 # Job Search Rules
 
 How jobs are found and scored. This file is the living record — update it whenever a rule changes or a new source is added.
