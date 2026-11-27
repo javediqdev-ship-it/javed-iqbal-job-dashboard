@@ -43,3 +43,12 @@ Bonus Points (Nice-to-Haves):
 ## Why it fits
 
 Pure WordPress/WooCommerce work — custom plugins/themes from scratch, Divi 5, PHP 8.x, REST APIs, HubSpot, AI-assisted tools. $50–65/hr. Caveats: part-time only 10–20 hrs/month (below Javed's level), temporary, start 4 Jan 2027, Kansas City candidates preferred (Javed is in Texas — preference, not a requirement).
+
+## Application — APPLIED 27 Nov 2026
+
+- Submitted 27 Nov 2026 via Aquent Talent quick-apply (https://talent.aquent.com/quick-apply/214665/start) with CV #210 (2 pages, QA-checked; no Divi 5, HubSpot, REST APIs, WP Engine or Wrike claimed).
+- Email verification: the first code (sent 11:26) had expired (10-minute expiry); a fresh code was requested at 12:05 and entered at 12:10.
+- Fields submitted: Javed Iqbal, phone +1 512-325-6111, home location Bedford, TX 76022, USA; LinkedIn and portfolio added as entries, portfolio password switch off, no password typed; text-message consent Yes; Aquent Terms of Service ticked. No CAPTCHA, no payment. No demographic, education or work-history fields appeared — those details are in the CV.
+- Pay: no pay field on the main form; in the optional Pay Details follow-up (role range $50.00-65.00/hr) his standard rate of 20 USD per hour was entered and confirmed.
+- Confirmation: "Thank you for submitting your application!" for the WordPress Developer & Website Support Specialist role, "A member of our team will reach out to you soon". No confirmation or reference number. Submitting registers him with Aquent as Talent and creates a MyAquent account automatically (no password set).
+- Left for Javed himself (deferred, not invented): 2 video answers, 2 written Initial Interview Questions (first: describing a time priorities changed mid-project), and the profile-completion flow.
