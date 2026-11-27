@@ -550,3 +550,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - #122 eCapital: verified live and WordPress-relevant (WordPress/CMS templates, page builders, plugins; $70,000–$90,000, remote). The employer's own form (applytojob.com) is mapped: name, email, phone, address including postal code, resume, eligibility, desired salary, start date, work-permit question, then a reCAPTCHA checkbox. Held on the same single blocker as #115 — Javed's ZIP code is not on file. Ready to submit as soon as it arrives; no CV built yet to save effort.
 - #123 ICF: Jooble listing gone; no matching role on ICF's own careers site. Dashboard Rejected tag added.
 - #124 Infotree: verified live; C#/AG-Grid analytics UI role, no WordPress. Dashboard Rejected tag added.
+
+## 2026-11-26 — Batch: Driven Media Group REJECTED (closed), Takeda REJECTED (not a WordPress role), WATI REJECTED (not WordPress, on-site)
+- All verified live 26 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
