@@ -689,3 +689,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Restored-batch check 4 (last): MD Integrations, Zortech, Ad Hoc REJECTED (not WordPress roles)
 - All three restored by the audit and re-verified live 27 Nov 2026 on their current links: Laravel backend work, a Laravel/CodeIgniter/Symfony framework role, and a Drupal role. Same verdicts as the 26 Nov checks. Rejected tags re-added. The restored batch of 12 is now fully processed: Limble, AON, Crowd Favorite, Gemini closed; Calendly not WordPress; Focus Financial hybrid (settled by the audit itself); Wing Assistant, Talent Groups, Zephyrline self-apply; these three not WordPress.
+
+## 2026-11-27 — #6 Lazy Dog Digital APPLIED (email sent)
+- Application email sent from Javed's Gmail to liam@lazydogdigital.com with Javed_Iqbal_CV_6.pdf attached, after the user's approval. Dashboard: Applied tag added, CV record status flipped to Applied. Applications total: 23.
