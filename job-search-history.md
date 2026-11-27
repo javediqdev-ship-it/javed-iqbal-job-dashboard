@@ -636,3 +636,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - Aquent (#210): live, fully remote (Kansas City preference only), WordPress central, but the route is Aquent's talent-portal sign-in and the role names Divi 5 (unconfirmed). Self-apply tag added under its own dashboard key.
 - Default Project / Mercor "Web Applications Developer": verified live 27 Nov 2026 — an AI-benchmark contract with no WordPress content. Rejected tag added.
 - The Planeteria Media "WordPress Web Developer" object on the dashboard is #163's own listing (same $75,000–$85,000 remote role, already applied 26 Nov 2026) — no duplicate application made.
+
+## 2026-11-27 — Batch: Mercor Software Developer, Leidos Full Stack (ClearanceJobs), Zillow REJECTED (not WordPress roles)
+- Verified live 27 Nov 2026 (Node/TypeScript/Rust backend contract; a hybrid clearance role in Python/Java; a React/Next.js design-systems role). Dashboard Rejected tags added. Nothing submitted.
