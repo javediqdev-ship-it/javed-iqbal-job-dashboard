@@ -522,3 +522,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #110 Prestige Staffing REJECTED (not a WordPress role)
 - Verified live 26 Nov 2026 on Prestige's own portal (Job ID 55127): secure enterprise PHP contract role for regulated industries; no WordPress/CMS content anywhere. Dashboard Rejected tag added (key "Prestige Staffing"). Nothing submitted.
+
+## 2026-11-26 — #111 Saxon Global REJECTED (closed)
+- Senior PHP Developer verified gone 26 Nov 2026 (Jooble 404; absent from Indeed and Saxon Global's own site). Dashboard Rejected tag added (key "Saxon Global"). Its general talent-pool form was not used as a substitute. Nothing submitted.
