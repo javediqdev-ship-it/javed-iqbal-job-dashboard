@@ -563,3 +563,8 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #141 Komodo Health HELD (unconfirmed required skills)
 - Web & GTM Engineer verified live on Built In 26 Nov 2026: roughly half the role is WordPress work squarely on Javed's record (custom themes/blocks/plugins, ACF, REST API, Core Web Vitals, WCAG, GTM/GA4, OneTrust). But the other half is a stated requirement he cannot truthfully claim yet: hands-on agent engineering with LLM APIs (Claude/OpenAI, tool use, MCP, structured outputs, evals), Python, and HubSpot/Salesforce data models. Held for Javed's one-time answers (Python, LLM agent engineering, HubSpot/Salesforce added to the ask list). No CV built, nothing submitted. Pay $145K–$180K (all other US locations), remote US.
+
+## 2026-11-26 — Batch: Rocket HELD (WP-CLI), Evolving Web Architect HELD (theme.json), Talent Groups listing confirmed dead
+- Rocket — WordPress Support Engineer: live on Rocket.net's careers page via Workable (clean form, uploads optional), but the posting names WP-CLI and WP Engine/Kinsta experience, none of which is on Javed's record, and the listing dates from Dec 2022 (evergreen). Held on the WP-CLI/SSH question already on the ask list. No CV built.
+- Evolving Web — WordPress Architect: live on Workable, WordPress-central, Montreal hours (Eastern overlap confirmed) and French No (confirmed). Held on one required screening item not on his record: hands-on theme.json / block-theme experience. Added to the ask list.
+- Talent Groups — Web Developer (jobfound listing): verified dead (jobfound page gone; employer's own board returns 0 positions). Already covered by the existing "Talent Groups" Rejected tag from #106; no new tag needed.
