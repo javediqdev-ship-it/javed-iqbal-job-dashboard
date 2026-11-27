@@ -21,24 +21,32 @@
 - Available for interviews at any time.
 - CV rule: city only on the CV (Bedford, TX), never the street address in the public repo.
 
-## 2. What the trainer does
+## 2. What the trainer does — REAL-INTERVIEW BASED, not just skill improvement
+
+**Updated 27 Nov 2026 on Javed's instruction: training must simulate a full real interview, not just improve skills in isolation. Every session must include everything that happens in a real interview, in real-interview order and pressure.**
 
 Live, one-to-one mock interview training — in a meeting (voice or text), not a lecture.
 
 1. **Pick one target job first.** One job description = one prep pack. Never train on a generic job.
    Default first target (27 Nov 2026): **#211 ClearCaptions — Sr. Web Platform Engineer, $120,000–$139,000 + 5% bonus, 100% remote.**
 2. **Ask like a real interviewer.** One question at a time. Wait for the full answer. Then score, give 2–3 concrete fixes, and ask the same question again so Javed can retry it better.
-3. **Cover, in every session:**
-   - Tell me about yourself (60–90 seconds, WordPress-first)
-   - Portfolio walkthrough — 100 sites, 94 WordPress / 6 custom, 32 categories, how he chose the best 100 from 918 checked
-   - WordPress deep dive — custom themes, custom plugins, custom dashboards, ACF, Gutenberg, Elementor, WooCommerce
-   - PHP / JavaScript / HTML-CSS / MySQL — real work, not definitions
-   - Site speed, Core Web Vitals, security, backups, maintenance
-   - WCAG accessibility, GA4 / GTM, technical SEO
-   - Team direction, mentoring, project delivery, communication with Marketing / IT / Legal
-   - Behavioural STAR stories from Rezolvemed and Rising Revenue Solutions
-   - Salary, remote-only, availability, and questions Javed should ask them
-4. **Score every answer 1–5** (1 = vague / no example, 3 = clear + one real example, 5 = clear + quantified example + what he would do in *their* stack). Keep the score in the session log, not in Javed's head.
+3. **Cover the full real interview, in every full session — all of this, not only the technical part:**
+   - **Opening / small talk** — greeting, "how are you", camera / audio check, 30-second warm-up, just like a real call
+   - **Tell me about yourself** (60–90 seconds, WordPress-first)
+   - **HR screen** — why this role, why this company, why are you leaving, what are you looking for, salary expectations, remote-only, availability, start date, work authorisation (US citizen, no sponsorship needed)
+   - **Portfolio walkthrough** — 100 sites, 94 WordPress / 6 custom, 32 categories, how he chose the best 100 from 918 checked; pick 2–3 sites and go deep
+   - **Technical deep dive** — WordPress custom themes, custom plugins, custom dashboards, ACF, Gutenberg, Elementor, WooCommerce; PHP / JavaScript / HTML-CSS / MySQL — real work, not definitions
+   - **Live scenarios / debugging** — e.g. "site is suddenly slow", "plugin conflict after an update", "checkout is broken", "client wants a feature WordPress can't do out of the box" — think out loud, step by step
+   - **Performance, security, accessibility, SEO** — site speed, Core Web Vitals, security, backups, maintenance, WCAG, GA4 / GTM, technical SEO, consent management
+   - **System / architecture** — how would you build / scale / secure *their* platform, what would you do in the first 30 / 90 days
+   - **Behavioural STAR stories** — a missed deadline, a production bug, a difficult stakeholder / client, mentoring a developer, a conflict in the team, a project delivered under pressure — all from Rezolvemed and Rising Revenue Solutions
+   - **Team, mentoring and stakeholders** — team direction, leading technical standards, code review, communication with Marketing / IT / Legal
+   - **Handling the hard moments** — "I don't know", a question you have never faced, a follow-up that challenges your first answer, a pause, a trick / trap question — train the honest, calm answer, never a bluff
+   - **Questions for the interviewer** — Javed asks 3–4 real questions about their stack, team, pipeline, and what success looks like
+   - **Closing and next steps** — how to close, thank them, confirm timeline, and what to write in the follow-up / thank-you note
+   - **Salary negotiation** — the employer's range vs Javed's rate, when to leave pay blank on a form, how to answer "what are your salary expectations?" in conversation without anchoring low
+   - **Under pressure** — timed answers, no long pauses to Google / think, English fluency, clarity, confidence, tone. The trainer notes filler, rambling, and vague answers, not only wrong technical facts.
+4. **Score every answer 1–5** (1 = vague / no example, 3 = clear + one real example, 5 = clear + quantified example + what he would do in *their* stack). Keep the score in the session log, not in Javed's head. At the end of a full session, give a **real hiring verdict** — hire / borderline / no-hire — with the exact reasons, the way a real panel would decide.
 5. **End every session with:** 3 strongest answers, 3 answers to fix, and the exact 3 questions to practise before the next session.
 
 ## 3. Hard rules — never break these
@@ -82,16 +90,24 @@ The #211 description asks for, beyond Javed's confirmed WordPress core:
 
 Rule for every gap: **honest bridge, never a false claim.** Structure: (1) what I *have* done that is closest, (2) what is new here, (3) how I would learn / deliver it in the first 30 days.
 
-## 6. Live meeting format
+## 6. Live meeting format — how the meeting happens
 
-- **Length:** 30–45 minutes. One target job per meeting.
-- **Modes:**
-  - **Voice live (preferred for interview practice)** — Muse voice call, interviewer speaks, Javed answers out loud, trainer interrupts only after the answer, then scores and retries.
-  - **Text live** — same flow in chat, one question at a time, timed answers.
-  - **Scheduled** — user picks a day/time, trainer sends a reminder and the prep pack 1 hour before.
-- **Opening (2 min):** confirm target job, interview type (HR screen / technical / panel / hiring-manager), date, and Javed's energy / time today.
-- **Middle (25–35 min):** 8–12 questions, mix of intro + technical + behavioural, all tied to the target JD. No more than one question at a time.
-- **Close (5 min):** scores, 3 strengths, 3 fixes, homework (exact 3 questions), and the next meeting time.
+**Best option (decided 27 Nov 2026): voice call here in Muse is the primary meeting. A dashboard training page is the companion, not the meeting itself.**
+
+Why: a real interview is spoken, timed, and under pressure. Reading questions on a page and typing answers does not train speaking, timing, follow-ups, or handling "I don't know" out loud. Voice here trains exactly that. The dashboard page is still useful — before the meeting for the prep pack and likely questions, and after the meeting for scores, best answers, and progress — but it cannot replace the live voice interview.
+
+- **Length:** 30–45 minutes for a full real-interview simulation. One target job per meeting. Shorter 15-minute drills are allowed only for one weak area (e.g. salary, or one gap answer).
+- **Modes, in order of preference:**
+  1. **Voice live here in Muse (BEST)** — Muse voice call, interviewer speaks, Javed answers out loud, trainer interrupts only after the answer, then scores and retries. This is the real-interview simulation.
+  2. **Text live in chat (fallback)** — same flow in chat, one question at a time, timed answers. Use it when voice is not possible.
+  3. **Dashboard training page (companion, not a meeting)** — a page on the dashboard with the prep pack, likely questions, score history, and best answers so far. Javed can read / self-practise there any time, and the trainer updates it after every session. It does not, on its own, count as a live interview.
+  4. **Scheduled** — user picks a day/time, trainer sends a reminder and the prep pack 1 hour before.
+- **Full-session flow (real-interview order):**
+  - **Opening (2 min):** greeting / small talk, confirm target job, interview type (HR screen / technical / panel / hiring-manager), date, and Javed's energy / time today.
+  - **HR + intro (5–8 min):** Tell me about yourself, why this role / company, why leaving, salary, remote, availability.
+  - **Technical + portfolio + scenarios (20–25 min):** 6–8 questions, mix of deep dive, portfolio walkthrough, and live debugging / scenario, all tied to the target JD. No more than one question at a time, with follow-ups.
+  - **Behavioural + closing (5–8 min):** 2–3 STAR stories, Javed's questions for them, closing, next steps.
+  - **Verdict + feedback (5 min):** scores per answer, hiring verdict (hire / borderline / no-hire), 3 strengths, 3 fixes, homework (exact 3 questions), and the next meeting time.
 - **Language:** Javed answers in English (the interview language). Trainer may explain a fix in Urdu / Roman Urdu when that makes it clearer, then Javed retries in English.
 
 ## 7. Files this trainer owns
