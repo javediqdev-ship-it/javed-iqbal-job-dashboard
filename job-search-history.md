@@ -598,3 +598,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — #61 Kinsta SELF-APPLY (verification wall)
 - Lever form filled in full and CV uploaded successfully, but Lever's human verification never accepted the automated browser's clearances (many correctly solved rounds, same error banner). Per the standing pattern for verification-blocked filled applications, marked Self-apply on the dashboard. All answers saved in cv/tailored/javed-iqbal-cv-kinsta/application-texts.md. Submissions stay at 20.
+
+## 2026-11-27 — Batch: Spotify, Reddit, Sched REJECTED (not WordPress roles)
+- Verified live 27 Nov 2026 (Java/React, Go/Python infrastructure, Vue/PHP). Dashboard Rejected tags added. Nothing submitted.
