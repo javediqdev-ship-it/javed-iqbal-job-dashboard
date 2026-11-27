@@ -2093,10 +2093,22 @@
     { key: "Whitecollars", date: "2026-11-26", note: "Closed. The SmartRecruiters listing has expired (the page shows the job as expired with no working Apply button), and the role is not listed on Whitecollars' own jobs page or its SmartRecruiters careers page (verified 26 Nov 2026). No application was made." },
     { key: "Business Tech Ninjas", date: "2026-11-26", note: "Closed. The Indeed listing has expired (the page states the job has expired on Indeed, with no Apply button), and the role is not listed on the employer's own website or anywhere else live (verified 26 Nov 2026). No application was made." },
   ];
+  function rejectedDateFor(d){
+    if (d.date) return d.date;
+    var m = /\b(\d{1,2}) Nov 2026\b/.exec(d.reason || d.note || "");
+    return m ? "2026-11-" + ("0" + m[1]).slice(-2) : "2026-11-26";
+  }
   DEFAULT_REJECTED.forEach(function(d){
     if (!STATE.applied[d.key] && !STATE.rejected[d.key] && !STATE.cleared[d.key]) {
-      STATE.rejected[d.key] = { note: d.note, date: d.date };
+      STATE.rejected[d.key] = { note: d.note || d.reason, date: rejectedDateFor(d) };
     }
+  });
+  /* Repair pass: an earlier build stored the reason under a different field
+     name, which left empty notes in saved browser state. Fill any empty
+     note from the defaults; a note the user wrote themselves is kept. */
+  DEFAULT_REJECTED.forEach(function(d){
+    var r = STATE.rejected[d.key];
+    if (r && !r.note) { r.note = d.note || d.reason; if (!r.date) r.date = rejectedDateFor(d); }
   });
   /* Self-apply defaults (26 Nov 2026, Javed's instruction): jobs Javed will
      apply to and try himself stay in New Jobs with a Self-apply badge and
