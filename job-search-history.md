@@ -692,3 +692,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — #6 Lazy Dog Digital APPLIED (email sent)
 - Application email sent from Javed's Gmail to liam@lazydogdigital.com with Javed_Iqbal_CV_6.pdf attached, after the user's approval. Dashboard: Applied tag added, CV record status flipped to Applied. Applications total: 23.
+
+## 2026-11-27 — #115 Presence CLOSED OUT: no working apply route (Rejected)
+- Javed's ZIP (76022) and full address were found on file, so the Careerpilot form was completed and the phone code verified. Outcome: the application only ever reached "Application Started"; the form had no CV upload field, and Careerpilot's handoff to the employer opens an Appcast form for a different role (Speech-language pathologist, licence required) — nothing was entered there. Presence's own careers page does not list the Web Developer role. Tagged Rejected with the reason; the QA-passed CV stays on file if a working route appears.
