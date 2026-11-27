@@ -539,3 +539,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - #116 Dealervero: verified live 26 Nov 2026 — front-end posting with no WordPress content. Dashboard Rejected tag added.
 - #118 PERITUS: verified live 26 Nov 2026 — Angular/TypeScript role, no WordPress. Dashboard Rejected tag added.
 - #117 Melon Local: verified live and genuinely WordPress (WordPress/Elementor/Divi), but the Jooble route runs through Lensa's human check, which will not clear from the cloud browser. Melon Local's own careers page is being checked before a final outcome.
+
+## 2026-11-26 — #117 Melon Local REJECTED (closed)
+- The WordPress/Elementor/Divi front-end role is not on Melon Local's own careers board (only two unrelated Las Vegas roles are listed), and the Jooble copy's only route is Lensa's human check. Dashboard Rejected tag added. Nothing submitted.
