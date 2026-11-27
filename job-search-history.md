@@ -498,3 +498,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-26 — #72 Swingtech REJECTED (closed)
 - WordPress Developer verified gone on 26 Nov 2026 (Jooble and Swingtech's own careers board). Added to Rejected with the reason. Nothing submitted.
+
+## 2026-11-26 — #75 Friends From The City REJECTED (not a WordPress role)
+- Verified live 26 Nov 2026: the company's only developer role is Senior Frontend Developer (React/Next.js), zero WordPress content. Added to Rejected with the reason. Nothing submitted.
