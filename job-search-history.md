@@ -591,3 +591,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: Scripps, Protos IT REJECTED (closed), Innovative Solutions REJECTED (not a WordPress role)
 - Verified live 27 Nov 2026. Dashboard Rejected tags added. Nothing submitted.
+
+## 2026-11-27 — Batch: Karat, SeatGeek REJECTED (not WordPress roles); Kinsta OPEN — applying
+- Karat (interview platform, Ruby/Python/TypeScript) and SeatGeek FanX AI (live on its Greenhouse board, TypeScript/Python/Next.js) verified 27 Nov 2026 with no WordPress content. Dashboard Rejected tags added.
+- Kinsta Support Engineer: full posting read 27 Nov 2026. WordPress support at a WordPress host; the only hard requirements are fluent English and customer-service experience, both on Javed's record. All technical items (WordPress structure, MySQL/MariaDB, PHP, DNS, CDN/caching, WP-CLI, Linux command line) sit under Bonus Points, so nothing unconfirmed needs claiming — WP-CLI and command line simply stay unclaimed. Kinsta hires in the USA (US healthcare and 401k listed). Lever form reachable with no sign-in or verification check. Tailored CV build and submission in progress.
