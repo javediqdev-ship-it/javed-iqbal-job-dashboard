@@ -644,3 +644,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 - Focus Labs: a French-language Laravel/Vue.js role, Canada only, WordPress only a bonus mention. Rejected tag added.
 - Company not listed (WordPress Website and SEO Specialist, Remote.co): live, but employer, description and apply route are behind a sign-in gate, travel is flagged as required, and SEO is unconfirmed. Self-apply tag added.
 - Aretum Junior Systems Analyst (#167): verified open with a reachable Workable form, but the role is Tier 1/2 service-desk support rather than development and includes occasional travel (under 10%). Held in New Jobs on the same travel question as #64/#140/#188. Not applied.
+
+## 2026-11-27 — Dashboard state correction
+- Found and fixed a tagging error: 5centsCDN (#113) was listed under Applied, but it is a Self-apply job (Hirevire video interview) — its Applied entry was removed; the Self-apply entry stays. Planeteria Media (#163, submitted 26 Nov 2026) was missing from Applied and has been added. The Applied list is back to the correct 20 submissions. Also fixed the WPMU DEV rejected tag to use the job's own dashboard key, and added the missing Rejected entry for the dead Talent Groups Jobfound listing.
