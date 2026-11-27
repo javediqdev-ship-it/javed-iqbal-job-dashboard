@@ -45,3 +45,12 @@ Jobs Javed will apply to and try himself stay in New Jobs with the Self-apply ba
 ## Work lean and never get stuck on one job (26–27 Nov 2026)
 
 Verify jobs in batches of 3 per browser run, with short briefs and short reports. Closed or non-WordPress jobs get a one-line history entry and a dashboard tag only; the full workflow (tailored CV, QA, submission) is only for jobs that are genuinely WordPress and actually open. Never retry a broken form more than once. If a site blocks a check (a human-verification wall, a sign-in gate), record it as unverifiable and move on — never spend more than a few minutes on one job or one site. Report to the user in one combined report at the end, not per job.
+
+## Audit lessons — 27 Nov 2026 rejected-jobs audit
+
+All 74 rejected jobs were audited and 24 were re-verified live. 12 were wrongly rejected and restored to New (see skills/finding-new-jobs.md for the list). The rules that came out of it:
+
+- **Verify before adding, not after.** Read the full description and check the apply route BEFORE a job reaches the dashboard. Adding first and checking later is what filled the rejected list.
+- **Verify before rejecting.** A "closed" rejection needs two checks (aggregator plus employer board), and a Built In/Indeed removal notice needs a live-browser confirmation.
+- **Apply within 24 hours of adding.** Jobs close while they wait. The apply queue is ordered by score and closing risk, not by discovery order.
+- **A rejection is a dated record, not a delete.** Every rejection carries its reason and date in seen-jobs.md, so it is never re-added and never re-checked blind.
