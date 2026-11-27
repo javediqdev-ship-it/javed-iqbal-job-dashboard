@@ -623,3 +623,8 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — Batch: Jobneticx unnamed, Method Media Intelligence, Maintec Technologies SELF-APPLY (live WordPress roles, routes blocked/dead)
 - Verified live 27 Nov 2026: all three are genuine WordPress roles, but none could be applied to from here — an anonymous forum post behind a verification wall, a Jooble/Appcast route blocked by a verification check, and a dead apply route landing on a generic search page. Dashboard Self-apply tags added. Nothing submitted.
+
+## 2026-11-27 — Batch: Wenning Branding SELF-APPLY, Craft & Communicate REJECTED (closed)
+- Wenning Branding (#208): live WordPress role, apply route behind a verification wall; Go HighLevel also named and unconfirmed. Self-apply tag added.
+- Craft & Communicate (#209): its only apply route (Indeed) states the job has expired. Rejected tag added.
+- ClearCaptions (#211) verified open and genuinely WordPress with a reachable Built In apply form — full application workflow started separately.
