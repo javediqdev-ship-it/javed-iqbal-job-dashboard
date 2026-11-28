@@ -779,3 +779,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 ## 2026-11-28 — Morning sweep jobs #215–#217 processed
 - #217 Software Technology Inc REJECTED: Angular-first role, WordPress secondary, staffing subvendor (verified live by the sweep's own check).
 - #215 Yarrowbend and #216 Speak Creative: route checks run 28 Nov (see below).
+
+## 2026-11-28 — #215 Yarrowbend SELF-APPLY (Fitly profile wall); #216 Speak Creative applying via own site
+- #215: Fitly has no application form — applying means creating a Fitly account/profile. Tagged Self-apply.
+- #216: Experteer has no apply route; Speak Creative's own HubSpot form (madebyspeak.com/application) is open with no sign-in or CAPTCHA. CV #216 built and QA-passed; submission follows.
