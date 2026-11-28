@@ -775,3 +775,7 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 
 ## 2026-11-27 — #135 Beyondlabs SUBMITTED by Ali
 - WordPress Developer (Remote, International), via Dover. The assistant filled the form in full but Cloudflare Turnstile reset twice on its browser; Ali submitted from his laptop — confirmation: "Thanks for applying!" Prepared answers used: portfolio summary (https://javed-iqbal-portfolio.vercel.app/, 100 websites since 2015) and the "why hire you" statement incl. salary expectation USD 41,600/yr. CV: cv/tailored/javed-iqbal-cv-beyondlabs/. Dashboard: moved Self-apply → Applied.
+
+## 2026-11-28 — Morning sweep jobs #215–#217 processed
+- #217 Software Technology Inc REJECTED: Angular-first role, WordPress secondary, staffing subvendor (verified live by the sweep's own check).
+- #215 Yarrowbend and #216 Speak Creative: route checks run 28 Nov (see below).
