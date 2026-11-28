@@ -783,3 +783,6 @@ Both applications were filled in full in the cloud browser but the Cloudflare hu
 ## 2026-11-28 — #215 Yarrowbend SELF-APPLY (Fitly profile wall); #216 Speak Creative applying via own site
 - #215: Fitly has no application form — applying means creating a Fitly account/profile. Tagged Self-apply.
 - #216: Experteer has no apply route; Speak Creative's own HubSpot form (madebyspeak.com/application) is open with no sign-in or CAPTCHA. CV #216 built and QA-passed; submission follows.
+
+## 2026-11-28 — #216 Speak Creative SELF-APPLY (CV upload blocked in browser)
+- The agency's own HubSpot form was filled in full, but the resume upload failed from the automated browser and the user's own takeover hit "Access to local files on your machine is disabled by your administrator". The user chose Self-apply over the email route. All form answers are saved in cv/tailored/javed-iqbal-cv-speak-creative/application-texts.md; Javed submits from his own computer.
